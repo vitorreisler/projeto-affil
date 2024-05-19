@@ -5,11 +5,11 @@ const CategoriaCasa = () => {
     {
       id: "1",
       urlImg:
-        "https://down-br.img.susercontent.com/file/sg-11134201-23010-0x1c686oopmvcb",
-      nome: "Conjunto 10 em 1",
-      descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
-      alt: "Kit cozinha",
-      linkDeCompra: "abcdef",
+        "https://m.media-amazon.com/images/I/81r5VTxaBiL._SL1500_.jpg",
+      nome: "Do mil ao milhão",
+      descricao: "Sem cortar o cafézinho",
+      alt: "Livro",
+      linkDeCompra: "https://amzn.to/3yrmO5E",
     },
     {
       id: "1",
@@ -27,7 +27,7 @@ const CategoriaCasa = () => {
       nome: "Conjunto 10 em 1",
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
-      linkDeCompra: "abcdef",
+      linkDeCompra: "https://amzn.to/3yrmO5E",
     },
     {
       id: "1",
@@ -184,6 +184,7 @@ const CategoriaCasa = () => {
                 </p>
                 <a
                   href={item.linkDeCompra}
+                  target="_blank"
                   className="bg-indigo-600 shadow-sm rounded-full py-2 px-5 text-xs text-white font-semibold"
                 >
                   Ver produto...

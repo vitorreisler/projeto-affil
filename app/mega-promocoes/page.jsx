@@ -2,7 +2,7 @@ import { GiFireworkRocket } from "react-icons/gi";
 
 
 const CategoriaMegaPromocoes = () => {
-  const produtosCasa = [
+  const produtosMegaPromocoes = [
     {
       id: "1",
       urlImg:
@@ -163,7 +163,7 @@ const CategoriaMegaPromocoes = () => {
         Mega Promoções  <GiFireworkRocket className="inline" />{" "}
       </h1>
       <div className=" gap-9 flex flex-wrap justify-center py-4">
-        {produtosCasa.map((item, i) => {
+        {produtosMegaPromocoes.map((item, i) => {
           return (
             <div
               key={i}

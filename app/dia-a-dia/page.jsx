@@ -2,7 +2,7 @@ import { SlEnergy } from "react-icons/sl";
 
 
 const CategoriaDiaADia = () => {
-  const produtosCasa = [
+  const produtosDiaADia = [
     {
       id: "1",
       urlImg:
@@ -163,7 +163,7 @@ const CategoriaDiaADia = () => {
         Promoções de itens do dia-a-dia <SlEnergy className="inline" />{" "}
       </h1>
       <div className=" gap-9 flex flex-wrap justify-center py-4">
-        {produtosCasa.map((item, i) => {
+        {produtosDiaADia.map((item, i) => {
           return (
             <div
               key={i}

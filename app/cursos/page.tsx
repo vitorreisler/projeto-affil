@@ -2,7 +2,7 @@ import { RiComputerLine } from "react-icons/ri";
 
 
 const CategoriaCursos = () => {
-  const produtosCasa = [
+  const produtosCurso = [
     {
       id: "1",
       urlImg:
@@ -163,7 +163,7 @@ const CategoriaCursos = () => {
         Promoções de Cursos <RiComputerLine className="inline" />{" "}
       </h1>
       <div className=" gap-9 flex flex-wrap justify-center py-4">
-        {produtosCasa.map((item, i) => {
+        {produtosCurso.map((item, i) => {
           return (
             <div
               key={i}
