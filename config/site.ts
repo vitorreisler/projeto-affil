@@ -28,7 +28,7 @@ export const siteConfig = {
 	navMenuItems: [
 		{
 			label: "Cursos",
-			href: "/curso",
+			href: "/cursos",
 		},
     {
       label: "Casa",
