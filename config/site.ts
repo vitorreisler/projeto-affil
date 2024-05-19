@@ -1,69 +1,54 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-	name: "Next.js + NextUI",
-	description: "Make beautiful websites regardless of your design experience.",
+	name: "Visi Ofertas",
+	description: "Aqui seu dinheiro rende mais.",
 	navItems: [
 		{
-			label: "Home",
-			href: "/",
+			label: "Cursos",
+			href: "/cursos",
 		},
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Casa",
+      href: "/casa",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
+      label: "Eletrônicos",
+      href: "/eletronicos",
     },
     {
-      label: "Blog",
-      href: "/blog",
+      label: "Dia-a-Dia",
+      href: "/dia-a-dia",
     },
     {
-      label: "About",
-      href: "/about",
+      label: "Mega Promoções",
+      href: "/mega-promocoes",
     }
 	],
 	navMenuItems: [
 		{
-			label: "Profile",
-			href: "/profile",
+			label: "Cursos",
+			href: "/curso",
 		},
-		{
-			label: "Dashboard",
-			href: "/dashboard",
-		},
-		{
-			label: "Projects",
-			href: "/projects",
-		},
-		{
-			label: "Team",
-			href: "/team",
-		},
-		{
-			label: "Calendar",
-			href: "/calendar",
-		},
-		{
-			label: "Settings",
-			href: "/settings",
-		},
-		{
-			label: "Help & Feedback",
-			href: "/help-feedback",
-		},
-		{
-			label: "Logout",
-			href: "/logout",
-		},
+    {
+      label: "Casa",
+      href: "/casa",
+    },
+    {
+      label: "Eletrônicos",
+      href: "/eletronicos",
+    },
+    {
+      label: "Dia-a-Dia",
+      href: "/dia-a-dia",
+    },
+    {
+      label: "Mega Promoções",
+      href: "/mega-promocoes",
+    }
 	],
 	links: {
-		github: "https://github.com/nextui-org/nextui",
-		twitter: "https://twitter.com/getnextui",
-		docs: "https://nextui.org",
-		discord: "https://discord.gg/9b6yyZKmH4",
-    sponsor: "https://patreon.com/jrgarciadev"
+		instagram: "https://instagram.com/visi_ofertas",
+
 	},
 };
