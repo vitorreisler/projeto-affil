@@ -1,8 +1,8 @@
-import { SlEnergy } from "react-icons/sl";
+import { RiComputerLine } from "react-icons/ri";
 
 
-const CategoriaDiaADia = () => {
-  const produtosDiaADia = [
+const CategoriaHotmart = () => {
+  const produtosHotmart = [
     {
       id: "1",
       urlImg:
@@ -159,11 +159,11 @@ const CategoriaDiaADia = () => {
   ];
   return (
     <section className="flex flex-col items-center">
-      <h1 className="text-6xl text-center p-3 bg-yellow-300 w-full inline">
-        Promoções de itens do dia-a-dia <SlEnergy className="inline" />{" "}
+      <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
+        Promoções da Hotmart <RiComputerLine className="inline" />{" "}
       </h1>
       <div className=" gap-9 flex flex-wrap justify-center py-4">
-        {produtosDiaADia.map((item, i) => {
+        {produtosHotmart.map((item, i) => {
           return (
             <div
               key={i}
@@ -198,4 +198,4 @@ const CategoriaDiaADia = () => {
   );
 };
 
-export default CategoriaDiaADia;
+export default CategoriaHotmart;

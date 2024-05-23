@@ -20,6 +20,10 @@ import clsx from "clsx";
 import { ThemeSwitch } from "@/components/theme-switch";
 import { FaInstagram } from "react-icons/fa";
 import { SearchIcon } from "@/components/icons";
+import { FaAmazon } from "react-icons/fa";
+import { SiShopee } from "react-icons/si";
+import { FaComputer } from "react-icons/fa6";
+import { BsBagCheckFill } from "react-icons/bs";
 
 export const Navbar = () => {
   const searchInput = (
@@ -61,7 +65,37 @@ export const Navbar = () => {
                 color="foreground"
                 href={item.href}
               >
-                {item.label}
+                {item.label === "Hotmart" ? (
+                  <span className="flex items-center gap-1">
+                    <i>
+                      <FaComputer />
+                    </i>
+                    {item.label}
+                  </span>
+                ) : item.label === "Amazon" ? (
+                  <span className="flex items-center gap-1">
+                    <i className="inline">
+                      <FaAmazon />
+                    </i>
+                    {item.label}
+                  </span>
+                ) : item.label === "Shopee" ? (
+                  <span className="flex items-center gap-1">
+                    <i className="inline">
+                      <SiShopee />
+                    </i>
+                    {item.label}
+                  </span>
+                ) : item.label === "Mercado Livre" ? (
+                  <span className="flex items-center gap-1">
+                    <i className="inline">
+                      <BsBagCheckFill />
+                    </i>
+                    {item.label}
+                  </span>
+                ) : (
+                  ""
+                )}
               </NextLink>
             </NavbarItem>
           ))}
@@ -102,9 +136,7 @@ export const Navbar = () => {
         <div className="mx-4 mt-2 flex flex-col gap-2">
           {siteConfig.navMenuItems.map((item, index) => (
             <NavbarMenuItem key={`${item}-${index}`}>
-              <a href={item.href}>
-                {item.label}
-              </a>
+              <a href={item.href}>{item.label}</a>
             </NavbarMenuItem>
           ))}
         </div>

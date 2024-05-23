@@ -1,24 +1,25 @@
 export type SiteConfig = typeof siteConfig;
 
+
 export const siteConfig = {
 	name: "Visi Ofertas",
 	description: "Aqui seu dinheiro rende mais.",
 	navItems: [
 		{
-			label: "Cursos",
-			href: "/cursos",
+			label: "Hotmart",
+			href: "/hotmart",
 		},
     {
-      label: "Casa",
-      href: "/casa",
+      label: "Amazon",
+      href: "/amazon",
     },
     {
-      label: "Eletrônicos",
-      href: "/eletronicos",
+      label: "Shopee",
+      href: "/shopee",
     },
     {
-      label: "Dia-a-Dia",
-      href: "/dia-a-dia",
+      label: "Mercado Livre",
+      href: "/mercado-livre",
     },
     {
       label: "Mega Promoções",
@@ -27,20 +28,20 @@ export const siteConfig = {
 	],
 	navMenuItems: [
 		{
-			label: "Cursos",
-			href: "/cursos",
+			label: "Hotmart",
+			href: "/hotmart",
 		},
     {
-      label: "Casa",
-      href: "/casa",
+      label: "Amazon",
+      href: "/amazon",
     },
     {
-      label: "Eletrônicos",
-      href: "/eletronicos",
+      label: "Shopee",
+      href: "/shopee",
     },
     {
-      label: "Dia-a-Dia",
-      href: "/dia-a-dia",
+      label: "Mercado Livre",
+      href: "/mercado-livre",
     },
     {
       label: "Mega Promoções",

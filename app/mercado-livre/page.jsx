@@ -1,8 +1,8 @@
-import { RiComputerLine } from "react-icons/ri";
+import { BsBagCheckFill } from "react-icons/bs";
 
 
-const CategoriaCursos = () => {
-  const produtosCurso = [
+const CategoriaMercadoLivre = () => {
+  const produtosMercadoLivre = [
     {
       id: "1",
       urlImg:
@@ -159,11 +159,11 @@ const CategoriaCursos = () => {
   ];
   return (
     <section className="flex flex-col items-center">
-      <h1 className="text-6xl text-center p-3 bg-yellow-300 w-full inline">
-        Promoções de Cursos <RiComputerLine className="inline" />{" "}
+      <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
+        Promoções de itens do Mercado Livre <BsBagCheckFill className="inline" />{" "}
       </h1>
       <div className=" gap-9 flex flex-wrap justify-center py-4">
-        {produtosCurso.map((item, i) => {
+        {produtosMercadoLivre.map((item, i) => {
           return (
             <div
               key={i}
@@ -198,4 +198,4 @@ const CategoriaCursos = () => {
   );
 };
 
-export default CategoriaCursos;
+export default CategoriaMercadoLivre;

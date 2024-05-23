@@ -1,15 +1,16 @@
-import { FaHouseChimneyWindow } from "react-icons/fa6";
+import { SiShopee } from "react-icons/si";
 
-const CategoriaCasa = () => {
-  const produtosCasa = [
+
+const CategoriaShopee = () => {
+  const produtosShopee = [
     {
       id: "1",
       urlImg:
-        "https://m.media-amazon.com/images/I/81r5VTxaBiL._SL1500_.jpg",
-      nome: "Do mil ao milhão",
-      descricao: "Sem cortar o cafézinho",
-      alt: "Livro",
-      linkDeCompra: "https://amzn.to/3yrmO5E",
+        "https://m.media-amazon.com/images/I/81ZvbEt1aAL._AC_SL1500_.jpg",
+      nome: "Kindle 11ª Geração",
+      descricao: "Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta",
+      alt: "Kindle 11 geração",
+      linkDeCompra: "https://amzn.to/4ar5WJt",
     },
     {
       id: "1",
@@ -27,7 +28,7 @@ const CategoriaCasa = () => {
       nome: "Conjunto 10 em 1",
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
-      linkDeCompra: "https://amzn.to/3yrmO5E",
+      linkDeCompra: "abcdef",
     },
     {
       id: "1",
@@ -158,11 +159,11 @@ const CategoriaCasa = () => {
   ];
   return (
     <section className="flex flex-col items-center">
-      <h1 className="text-6xl text-center p-3 bg-yellow-300 w-full inline">
-        Promoções de itens para casa <FaHouseChimneyWindow className="inline" />{" "}
+      <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
+        Promoções de itens da Shopee <SiShopee className="inline" />{" "}
       </h1>
       <div className=" gap-9 flex flex-wrap justify-center py-4">
-        {produtosCasa.map((item, i) => {
+        {produtosShopee.map((item, i) => {
           return (
             <div
               key={i}
@@ -198,4 +199,4 @@ const CategoriaCasa = () => {
   );
 };
 
-export default CategoriaCasa;
+export default CategoriaShopee;

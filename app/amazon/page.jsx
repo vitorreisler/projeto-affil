@@ -1,16 +1,15 @@
-import { SlEnergy } from "react-icons/sl";
+import { FaAmazon } from "react-icons/fa";
 
-
-const CategoriaEletronicos = () => {
-  const produtosEletronicos = [
+const CategoriaAmazon = () => {
+  const produtosAmazon = [
     {
       id: "1",
       urlImg:
-        "https://m.media-amazon.com/images/I/81ZvbEt1aAL._AC_SL1500_.jpg",
-      nome: "Kindle 11ª Geração",
-      descricao: "Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta",
-      alt: "Kindle 11 geração",
-      linkDeCompra: "https://amzn.to/4ar5WJt",
+        "https://m.media-amazon.com/images/I/81r5VTxaBiL._SL1500_.jpg",
+      nome: "Do mil ao milhão",
+      descricao: "Sem cortar o cafézinho",
+      alt: "Livro",
+      linkDeCompra: "https://amzn.to/3yrmO5E",
     },
     {
       id: "1",
@@ -28,7 +27,7 @@ const CategoriaEletronicos = () => {
       nome: "Conjunto 10 em 1",
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
-      linkDeCompra: "abcdef",
+      linkDeCompra: "https://amzn.to/3yrmO5E",
     },
     {
       id: "1",
@@ -159,11 +158,11 @@ const CategoriaEletronicos = () => {
   ];
   return (
     <section className="flex flex-col items-center">
-      <h1 className="text-6xl text-center p-3 bg-yellow-300 w-full inline">
-        Promoções de Eletrônicos <SlEnergy className="inline" />{" "}
+      <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
+        Promoções de itens da Amazon <FaAmazon className="inline" />{" "}
       </h1>
       <div className=" gap-9 flex flex-wrap justify-center py-4">
-        {produtosEletronicos.map((item, i) => {
+        {produtosAmazon.map((item, i) => {
           return (
             <div
               key={i}
@@ -199,4 +198,4 @@ const CategoriaEletronicos = () => {
   );
 };
 
-export default CategoriaEletronicos;
+export default CategoriaAmazon;
