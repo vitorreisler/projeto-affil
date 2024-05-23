@@ -11,22 +11,22 @@ const FooterA = () => {
         </span>
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
           <li>
-            <a href="#" className="hover:underline me-4 md:me-6">
+            <a href="/hotmart" className="hover:underline me-4 md:me-6">
               Hotmart
             </a>
           </li>
           <li>
-            <a href="#" className="hover:underline me-4 md:me-6">
+            <a href="/amazon" className="hover:underline me-4 md:me-6">
               Amazon
             </a>
           </li>
           <li>
-            <a href="#" className="hover:underline me-4 md:me-6">
+            <a href="/shopee" className="hover:underline me-4 md:me-6">
               Shopee
             </a>
           </li>
           <li>
-            <a href="#" className="hover:underline">
+            <a href="/mercado-livre" className="hover:underline">
               Mercado Livre{" "}
             </a>
           </li>

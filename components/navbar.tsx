@@ -114,7 +114,6 @@ export const Navbar = () => {
           >
             <FaInstagram className="text-gray-800" />
           </Link>
-          <ThemeSwitch />
         </NavbarItem>
         <NavbarItem className="hidden lg:flex">{searchInput}</NavbarItem>
       </NavbarContent>
@@ -127,7 +126,6 @@ export const Navbar = () => {
         >
           <FaInstagram className="text-gray-800" />
         </Link>
-        <ThemeSwitch />
         <NavbarMenuToggle />
       </NavbarContent>
 

@@ -1,34 +1,34 @@
 import Image from "next/image";
 
-const Gallery = () => {
+const Categorias = () => {
     const categoriasData = [
         {
             urlImg:"https://impulse.net.br/wp-content/uploads/2017/07/101783-gestao-do-conhecimento-como-aplicar-na-empresa-e-seus-beneficios-1-e1499257304530.jpg",
-            alt:"Cursos",
-            tituloCategoria:"Cursos",
-            descricaoCategoria:"A melhor seleção de cursos para casa para o seu dia a dia!",
-            to:"/cursos",
+            alt:"Hotmart",
+            tituloCategoria:"Hotmart",
+            descricaoCategoria:"Quer aprender ? Na Hotmart existe um curso para você!",
+            to:"/hotmart",
         },
         {
             urlImg:"https://down-br.img.susercontent.com/file/sg-11134201-23010-0x1c686oopmvcb",
-            alt:"Utensilios de cozinha",
-            tituloCategoria:"Utensílios para o seu dia a dia",
-            descricaoCategoria:"A melhor seleção de utensílios para o seu dia a dia!",
-            to:"/dia-a-dia",
+            alt:"Amazon",
+            tituloCategoria:"Amazon",
+            descricaoCategoria:"Promoções da Amazon!",
+            to:"/amazon",
         },
         {
             urlImg:"https://down-br.img.susercontent.com/file/cn-11134301-7r98o-louxf20vdj6k7a",
-            alt:"Eletrônicos",
-            tituloCategoria:"Eletrônicos",
-            descricaoCategoria:"A melhor seleção de eletrônicos para o seu dia a dia!",
-            to:"/eletronicos",
+            alt:"Shopee",
+            tituloCategoria:"Shopee",
+            descricaoCategoria:"Descontinhos na Shopee",
+            to:"/shopee",
         },
         {
             urlImg:"http://construrezende.com/product_images/c/426/torneira-para-lavatorio-de-mesa-bica-alta-soul-cromada-deca-1228584-foto-3643c370-b9b2-421a-b5b8-20e661be67b9_%281%29__30926_zoom.jpg",
-            alt:"Casa",
-            tituloCategoria:"Casa",
-            descricaoCategoria:"A melhor seleção de itens para casa para o seu dia a dia!",
-            to:"/casa",
+            alt:"Mercado Livre",
+            tituloCategoria:"Mercado Livre",
+            descricaoCategoria:"A melhor seleção de itensdo Mercado Livre!",
+            to:"/mercado-livre",
         },
     ]
   return (
@@ -67,4 +67,4 @@ const Gallery = () => {
   );
 };
 
-export default Gallery;
+export default Categorias;
