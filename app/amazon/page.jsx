@@ -166,7 +166,7 @@ const CategoriaAmazon = () => {
           return (
             <div
               key={i}
-              className="text-center  relative max-w-[12rem] border-2 shadow-[0_0_2px_#DC143C,inset_0_0_2px_#DC143C,0_0_5px_#DC143C,0_0_15px_#FF4500] rounded-2xl transition-all duration-500 hover:scale-105"
+              className="text-center hover:trasition   relative max-w-[12rem] border-2 shadow-[0_0_2px_#DC143C,inset_0_0_2px_#DC143C,0_0_5px_#DC143C,0_0_15px_#FF4500] rounded-2xl transition-all duration-500 hover:scale-105"
             >
               <div className="block overflow-hidden object-cover">
                 <img
@@ -175,8 +175,8 @@ const CategoriaAmazon = () => {
                   alt={item.alt}
                 />
               </div>
-              <div className="p-4">
-                <h4 className="text-base font-semibold text-gray-900 mb-2 capitalize transition-all duration-500 ">
+              <div className="p-4 ">
+                <h4 className="text-base font-semibold text-gray-500 mb-2 capitalize transition-all duration-500 hover:text-gray-800 ">
                   {item.nome}
                 </h4>
                 <p className="text-sm font-normal text-gray-500 transition-all duration-500 leading-5 mb-5">

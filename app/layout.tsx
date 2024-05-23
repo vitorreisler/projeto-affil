@@ -4,6 +4,7 @@ import { siteConfig } from "@/config/site";
 import { fontSans } from "@/config/fonts";
 import { Providers } from "./providers";
 import { Navbar } from "@/components/navbar";
+import  FooterA  from "@/components/footer";
 import { Link } from "@nextui-org/link";
 import clsx from "clsx";
 
@@ -46,7 +47,7 @@ export default function RootLayout({
             <main className=" ">
               {children}
             </main>
-            <footer className="w-full flex items-center justify-center py-3"></footer>
+              <FooterA/>
           </div>
         </Providers>
       </body>
