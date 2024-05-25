@@ -27,7 +27,7 @@ const Categorias = () => {
             urlImg:"http://construrezende.com/product_images/c/426/torneira-para-lavatorio-de-mesa-bica-alta-soul-cromada-deca-1228584-foto-3643c370-b9b2-421a-b5b8-20e661be67b9_%281%29__30926_zoom.jpg",
             alt:"Mercado Livre",
             tituloCategoria:"Mercado Livre",
-            descricaoCategoria:"A melhor seleção de itensdo Mercado Livre!",
+            descricaoCategoria:"A melhor seleção de itens do Mercado Livre!",
             to:"/mercado-livre",
         },
     ]

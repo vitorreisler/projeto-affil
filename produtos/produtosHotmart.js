@@ -1,6 +1,7 @@
+import { v4 as uuidv4 } from 'uuid';
 export const produtosHotmart = [
     {
-      id: "1",
+      id: uuidv4() ,
       urlImg:
         "https://down-br.img.susercontent.com/file/sg-11134201-23010-0x1c686oopmvcb",
       nome: "Conjunto 10 em 1",
@@ -9,7 +10,7 @@ export const produtosHotmart = [
       linkDeCompra: "abcdef",
     },
     {
-      id: "2",
+      id: uuidv4() ,
       urlImg:
         "https://down-br.img.susercontent.com/file/sg-11134201-23010-0x1c686oopmvcb",
       nome: "Conjunto 10 em 1",

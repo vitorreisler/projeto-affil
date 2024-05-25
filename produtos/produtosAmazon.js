@@ -1,6 +1,7 @@
+import { v4 as uuidv4 } from 'uuid';
 export const produtosAmazon = [
   {
-    id: "1",
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/81r5VTxaBiL._SL1500_.jpg",
     nome: "Do mil ao milhão",
     descricao: "Sem cortar o cafézinho",
@@ -9,7 +10,7 @@ export const produtosAmazon = [
     categoria: "Livro",
   },
   {
-    id: "2",
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61PMSbZ2RIL._AC_SL1000_.jpg",
     nome: "Fire TV Stick Lite",
     descricao:
@@ -19,7 +20,7 @@ export const produtosAmazon = [
     categoria: "Eletrônico",
   },
   {
-    id: "3",
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61+J5+SRkuL._AC_SL1000_.jpg",
     nome: "Fire TV Stick",
     descricao:
@@ -29,7 +30,7 @@ export const produtosAmazon = [
     categoria: "Eletrônico",
   },
   {
-    id: "4",
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/715s6W8vqJL._AC_SL1500_.jpg",
     nome: "Fire TV Stick 4K",
     descricao:
@@ -39,7 +40,7 @@ export const produtosAmazon = [
     categoria: "Eletrônico",
   },
   {
-    id: "5",
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/617-HLllfZL._AC_SL1000_.jpg",
     nome: "Echo Dot 5ª geração",
     descricao: "O Echo Dot com o melhor som já lançado | Cor Preta",
@@ -48,7 +49,7 @@ export const produtosAmazon = [
     categoria: "Eletrônico",
   },
   {
-    id: "6",
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71W42qkwjNL._AC_SL1500_.jpg",
     nome: "Fone de ouvido bluetooth Vohz Connect",
     descricao: "1200mAh e som premium com Bag de veludo - VOHZ®",
@@ -57,7 +58,7 @@ export const produtosAmazon = [
     categoria: "Eletrônico",
   },
   {
-    id: "7",
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/510sTPpazeL._AC_SL1200_.jpg",
     nome: "Fone de Ouvido Bluetooth 5.3 sem Fio, TWS 21 UTBRX",
     descricao:
@@ -67,7 +68,7 @@ export const produtosAmazon = [
     categoria: "Eletrônico",
   },
   {
-    id: "8",
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/51RUDt03+XL._AC_SL1000_.jpg",
     nome: "JBL, Headset Gamer, Quantum 100",
     descricao:
@@ -77,7 +78,7 @@ export const produtosAmazon = [
     categoria: "Eletrônico",
   },
   {
-    id: "9",
+    id: uuidv4(),
     urlImg:
       "https://m.media-amazon.com/images/I/81ZvbEt1aAL._AC_SL1500_.jpg",
     nome: "Kindle 11ª Geração",
@@ -87,7 +88,7 @@ export const produtosAmazon = [
     categoria:"Eletrônico"
   },
   {
-    id: "10",
+    id: uuidv4(),
     urlImg:
       "https://m.media-amazon.com/images/I/81ehvI03NYS._SL1500_.jpg",
     nome: "A psicologia financeira",
@@ -97,7 +98,7 @@ export const produtosAmazon = [
     categoria:"Livro"
   },
   {
-    id: "11",
+    id: uuidv4(),
     urlImg:
       "https://m.media-amazon.com/images/I/81ALgAW3gHL._SL1500_.jpg",
     nome: "Pai Rico, pai Pobre",

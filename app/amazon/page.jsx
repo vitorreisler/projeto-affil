@@ -8,15 +8,15 @@ const CategoriaAmazon = () => {
         Promoções de itens da Amazon <FaAmazon className="inline" />{" "}
       </h1>
       <div className=" gap-9 flex flex-wrap justify-center py-4">
-        {produtosAmazon.map((item, i) => {
+        {produtosAmazon.map((item) => {
           return (
             <div
-              key={i}
+              key={item.id}
               className="text-center hover:trasition mx-5 relative max-w-[13rem] rounded-2xl transition-all duration-500 hover:scale-105 border-2 shadow-[0_0_2px_#DC143C,inset_0_0_2px_#DC143C,0_0_5px_#DC143C,0_0_15px_#FF4500] "
             >
-              <div className="block overflow-hidden object-cover">
+              <div className="block overflow-hidden  max-h-[200px]">
                 <img
-                  className=" m-auto rounded-t-2xl h-52"
+                  className=" m-auto rounded-t-2xl object-cover"
                   src={item.urlImg}
                   alt={item.alt}
                 />
@@ -25,7 +25,7 @@ const CategoriaAmazon = () => {
                 <h4 className="text-base font-semibold text-gray-500 mb-2 capitalize transition-all duration-500 hover:text-gray-800 ">
                   {item.nome}
                 </h4>
-                <p className="text-sm font-normal  h-20 text-gray-500 transition-all duration-500 leading-5 mb-5 overflow-y-scroll scrollbar-hide">
+                <p className={`text-sm font-normal ${item.descricao.length < 25 ? "h-20" : ""} text-gray-500 transition-all duration-500 leading-5 mb-5 overflow-y-scroll scrollbar-hide`}>
                   {item.descricao}
                 </p>
                 <p className="text-sm font-normal text-gray-500 transition-all duration-500 leading-5 mb-5">
