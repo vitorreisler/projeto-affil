@@ -1,27 +1,9 @@
 import { BsBagCheckFill } from "react-icons/bs";
+import { produtosMercadoLivre } from "../../produtos/produtosMercadoLivre";
 
 
 const CategoriaMercadoLivre = () => {
-  const produtosMercadoLivre = [
-    {
-      id: "1",
-      urlImg:
-        "https://down-br.img.susercontent.com/file/sg-11134201-23010-0x1c686oopmvcb",
-      nome: "Conjunto 10 em 1",
-      descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
-      alt: "Kit cozinha",
-      linkDeCompra: "abcdef",
-    },
-    {
-      id: "1",
-      urlImg:
-        "https://down-br.img.susercontent.com/file/sg-11134201-23010-0x1c686oopmvcb",
-      nome: "Conjunto 10 em 1",
-      descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
-      alt: "Kit cozinha",
-      linkDeCompra: "abcdef",
-    },
-  ];
+ 
   return (
     <section className="flex flex-col items-center">
       <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
