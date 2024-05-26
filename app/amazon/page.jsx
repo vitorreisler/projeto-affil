@@ -25,7 +25,7 @@ const CategoriaAmazon = () => {
                 <h4 className="text-base font-semibold text-gray-500 mb-2 capitalize transition-all duration-500 hover:text-gray-800 ">
                   {item.nome}
                 </h4>
-                <p className={`text-sm font-normal ${item.descricao.length < 25 ? "h-20" : ""} hidden md:inline text-gray-500 transition-all duration-500 leading-5 mb-5 overflow-y-scroll scrollbar-hide`}>
+                <p className={`text-sm font-normal ${item.descricao.length < 25 ? "h-20" : ""}  md:inline text-gray-500 transition-all duration-500 leading-5 mb-5 overflow-y-scroll scrollbar-hide`}>
                   {item.descricao}
                 </p>
                 <p className="text-sm font-normal text-gray-500 transition-all duration-500 leading-5 mb-5">

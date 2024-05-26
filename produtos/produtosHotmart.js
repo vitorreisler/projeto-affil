@@ -32,7 +32,7 @@ export const produtosHotmart = [
       urlImg:
         "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg",
       nome: "A jornada do autodidata em inglês",
-      descricao: " Lista de ebooks do curso: https://go.hotmart.com/E93351293A?ap=6a80",
+      descricao: "Seu sonho sempre foi falar inglês ? Agora você pode!",
       alt: "A jornada do autodidata em inglês",
       linkDeCompra: "https://go.hotmart.com/E93351293A",
     },
@@ -77,7 +77,7 @@ export const produtosHotmart = [
       urlImg:
         "https://static-media.hotmart.com/DF_sj9QVoYu1qXMru9FoW8c34Ic=/filters:background_color(white)/hotmart/product_pictures/5b7eba9d-adc7-4645-8299-4ad1e63d97b8/ThumbHotmart.png",
       nome: "Desenhando Animes",
-      descricao: "Experimente nossa aula gratuita: https://go.hotmart.com/Q93351974T?ap=f331",
+      descricao: "Venha aprender com os melhores profissionais a como desenhar seus animes favoritos",
       alt: "Desenhando Animes",
       linkDeCompra: "https://go.hotmart.com/Q93351974T",
     },
