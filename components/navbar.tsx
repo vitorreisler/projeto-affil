@@ -44,7 +44,7 @@ export const Navbar = () => {
 
   return (
     <NextUINavbar className="bg-red-600" maxWidth="xl" position="sticky">
-      <NavbarContent className="basis-1/5 sm:basis-full " justify="start">
+      <NavbarContent className="basis-1/5 sm:basis-full" justify="start">
         <NavbarBrand as="li" className="gap-2 max-w-fit">
           <NextLink className="flex justify-start items-center gap-1" href="/">
             <CiShop className="text-4xl" />
@@ -54,7 +54,7 @@ export const Navbar = () => {
         <ul className="hidden lg:flex gap-4 justify-start ml-1">
           {siteConfig.navItems.map((item) => (
             <NavbarItem
-              className="hover:bg-yellow-200 hover:rounded transition-all hover:duration-700 py-1 px-2  "
+              className="hover:bg-yellow-200 hover:rounded transition-all hover:duration-700 py-1 px-2"
               key={item.href}
             >
               <NextLink
@@ -67,30 +67,22 @@ export const Navbar = () => {
               >
                 {item.label === "Hotmart" ? (
                   <span className="flex items-center gap-1">
-                    <i>
-                      <FaComputer />
-                    </i>
+                    <FaComputer />
                     {item.label}
                   </span>
                 ) : item.label === "Amazon" ? (
                   <span className="flex items-center gap-1">
-                    <i className="inline">
-                      <FaAmazon />
-                    </i>
+                    <FaAmazon />
                     {item.label}
                   </span>
                 ) : item.label === "Shopee" ? (
                   <span className="flex items-center gap-1">
-                    <i className="inline">
-                      <SiShopee />
-                    </i>
+                    <SiShopee />
                     {item.label}
                   </span>
                 ) : item.label === "Mercado Livre" ? (
                   <span className="flex items-center gap-1">
-                    <i className="inline">
-                      <BsBagCheckFill />
-                    </i>
+                    <BsBagCheckFill />
                     {item.label}
                   </span>
                 ) : (
@@ -102,11 +94,8 @@ export const Navbar = () => {
         </ul>
       </NavbarContent>
 
-      <NavbarContent
-        className="hidden sm:flex basis-1/5 sm:basis-full"
-        justify="end"
-      >
-        <NavbarItem className="hidden sm:flex gap-2">
+      <NavbarContent className="hidden sm:flex md:hidden basis-1/5 sm:basis-full" justify="end">
+        <NavbarItem className="hidden sm:flex md:hidden gap-2">
           <Link
             isExternal
             href={siteConfig.links.instagram}
@@ -118,7 +107,7 @@ export const Navbar = () => {
         <NavbarItem className="hidden lg:flex">{searchInput}</NavbarItem>
       </NavbarContent>
 
-      <NavbarContent className="sm:hidden basis-1" justify="end">
+      <NavbarContent className="sm:hidden md:flex basis-1" justify="end">
         <Link
           isExternal
           href={siteConfig.links.instagram}

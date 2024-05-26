@@ -10,14 +10,14 @@ const Categorias = () => {
             to:"/hotmart",
         },
         {
-            urlImg:"https://down-br.img.susercontent.com/file/sg-11134201-23010-0x1c686oopmvcb",
+            urlImg:"https://m.media-amazon.com/images/I/617-HLllfZL._AC_SL1000_.jpg",
             alt:"Amazon",
             tituloCategoria:"Amazon",
             descricaoCategoria:"Promoções da Amazon!",
             to:"/amazon",
         },
         {
-            urlImg:"https://down-br.img.susercontent.com/file/cn-11134301-7r98o-louxf20vdj6k7a",
+            urlImg:"https://down-cvs-br.img.susercontent.com/br-11134207-7qukw-lh52iekd6ivfbc.webp",
             alt:"Shopee",
             tituloCategoria:"Shopee",
             descricaoCategoria:"Descontinhos na Shopee",

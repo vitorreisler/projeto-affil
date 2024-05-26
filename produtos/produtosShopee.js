@@ -121,7 +121,7 @@ export const produtosShopee = [
       id: uuidv4(),
       urlImg:
         "https://down-cvs-br.img.susercontent.com/br-11134207-7qukw-lh52iekd6ivfbc.webp",
-      nome: "Jogo 6 Taças Vidro",
+      nome: "Mini Projetor",
       descricao: "Mini Projetor Portátil Curta Distancia Led 1080p 600 Lúmens Hdmi YG300 Envio Imediato",
       alt: "Mini Projetor",
       linkDeCompra: "https://s.shopee.com.br/3L5AxNcV34",
