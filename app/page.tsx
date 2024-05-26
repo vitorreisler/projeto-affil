@@ -1,7 +1,11 @@
+"use client"
 import Categorias from "../components/categorias";
 import Review from "../components/review";
 
+
+
 export default function Home() {
+
   return (
     <>
       <img className="w-full" src="/images/banner1.png" alt="" />

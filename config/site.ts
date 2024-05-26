@@ -49,7 +49,7 @@ export const siteConfig = {
     }
 	],
 	links: {
-		instagram: "https://instagram.com/visi_ofertas",
+		instagram: "https://www.instagram.com/visiofertas/",
 
 	},
 };
