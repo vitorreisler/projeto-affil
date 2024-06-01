@@ -4,7 +4,7 @@ import { siteConfig } from "@/config/site";
 import { fontSans } from "@/config/fonts";
 import { Providers } from "./providers";
 import { Navbar } from "@/components/navbar";
-import  FooterA  from "@/components/footer";
+import  Footer  from "@/components/footer";
 import { Link } from "@nextui-org/link";
 import clsx from "clsx";
 
@@ -47,7 +47,7 @@ export default function RootLayout({
             <main className=" ">
               {children}
             </main>
-              <FooterA/>
+              <Footer/>
           </div>
         </Providers>
       </body>

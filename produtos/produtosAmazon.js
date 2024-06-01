@@ -51,7 +51,7 @@ export const produtosAmazon = [
   {
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71W42qkwjNL._AC_SL1500_.jpg",
-    nome: "Fone de ouvido bluetooth Vohz Connect",
+    nome: "Vohz Connect",
     descricao: "1200mAh e som premium com Bag de veludo - VOHZ®",
     alt: "Fone de ouvido bluetooth Vohz Connect",
     linkDeCompra: "https://amzn.to/4519Qrt",
@@ -60,7 +60,7 @@ export const produtosAmazon = [
   {
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/510sTPpazeL._AC_SL1200_.jpg",
-    nome: "Fone de Ouvido Bluetooth 5.3 TWS 21 UTBRX",
+    nome: "TWS 21 UTBRX",
     descricao:
       "Cancelamento de Ruidos, Compativel com Iphone e Android, Visor Led/Energia para 25 horas, Comandos Touch...",
     alt: "Fone de Ouvido Bluetooth 5.3 sem Fio, TWS 21 UTBRX",
