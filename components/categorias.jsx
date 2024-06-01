@@ -32,7 +32,7 @@ const Categorias = () => {
         },
     ]
   return (
-    <section className=" gap-5 flex flex-wrap justify-center">
+    <section className=" gap-5 grid grid-cols-2 md:grid-cols-4">
         {categoriasData.map((item,i) => {
             return (
                 <div key={i} className="text-center shadow-lg relative max-w-[12rem] border border-solid border-gray-200 rounded-2xl transition-all duration-500 hover:scale-105">
@@ -52,7 +52,7 @@ const Categorias = () => {
                   </p>
                   <a
                     href={item.to}
-                    className="bg-indigo-600 shadow-sm rounded-full py-2 px-5 text-xs text-white font-semibold"
+                    className="bg-indigo-600 shadow-sm rounded-full py-2 px-3 sm:px-5 text-xs text-white font-semibold"
                   >
                     Ver mais...
                   </a>
