@@ -8,6 +8,7 @@ export const produtosHotmart = [
       descricao: "FINALMENTE você encontrou um método de treinamento de fácil adesão, dinâmico, descomplicado, divertido",
       alt: "Natflix Fitness",
       linkDeCompra: "https://go.hotmart.com/G74896668X",
+      categoria : ""
     },
     {
       id: uuidv4() ,
@@ -17,6 +18,7 @@ export const produtosHotmart = [
       descricao: "Nosso curso 'Receitas Top para Air Fryer' vai transformar sua cozinha e sua vida!",
       alt: "Receitas Top para Air Fryer",
       linkDeCompra: "https://go.hotmart.com/P93350943L",
+      categoria : ""
     },
     {
       id: uuidv4() ,
@@ -26,6 +28,7 @@ export const produtosHotmart = [
       descricao: " Que você, além de aprender a criar qualquer website, sistema, aplicativo web ou aplicativo nativo irá desenvolver outras habilidades como:",
       alt: "Pacote Full-Stack",
       linkDeCompra: "https://go.hotmart.com/R93351157I",
+      categoria : ""
     },
     {
       id: uuidv4() ,
@@ -35,6 +38,7 @@ export const produtosHotmart = [
       descricao: "Seu sonho sempre foi falar inglês ? Agora você pode!",
       alt: "A jornada do autodidata em inglês",
       linkDeCompra: "https://go.hotmart.com/E93351293A",
+      categoria : ""
     },
     {
       id: uuidv4() ,
@@ -44,6 +48,7 @@ export const produtosHotmart = [
       descricao: "Venha aprender a como emagrecer de forma saudável e sempre progredindo.",
       alt: "STC - Sistema de Transformação Corporal",
       linkDeCompra: "https://go.hotmart.com/I93351583J",
+      categoria : ""
     },
     {
       id: uuidv4() ,
@@ -53,6 +58,7 @@ export const produtosHotmart = [
       descricao: "Indicado para crianças de 03 a 07 anos de idade",
       alt: "ESCOLINHA ESPECIAL PARA CRIANÇAS COM AUTISMO",
       linkDeCompra: "https://go.hotmart.com/H93351768K",
+      categoria : ""
     },
     {
       id: uuidv4() ,
@@ -62,6 +68,7 @@ export const produtosHotmart = [
       descricao: "Descubra como lucrar com depilação mesmo que esteja iniciando do ZERO!",
       alt: "CURSO DE DEPILAÇÃO PROFISSIONAL",
       linkDeCompra: "https://go.hotmart.com/R93351876M",
+      categoria : ""
     },
     {
       id: uuidv4() ,
@@ -71,6 +78,7 @@ export const produtosHotmart = [
       descricao: "Comece do zero nesse lucrativo mercado de manutenção de celulares!!",
       alt: "Curso Completo Manutenção e Conserto de Celular Versão 5.0",
       linkDeCompra: "https://go.hotmart.com/N93351953H",
+      categoria : ""
     },
     {
       id: uuidv4() ,
@@ -80,6 +88,7 @@ export const produtosHotmart = [
       descricao: "Venha aprender com os melhores profissionais a como desenhar seus animes favoritos",
       alt: "Desenhando Animes",
       linkDeCompra: "https://go.hotmart.com/Q93351974T",
+      categoria : ""
     },
     {
       id: uuidv4() ,
@@ -89,5 +98,6 @@ export const produtosHotmart = [
       descricao: "Venha aprender a como você pode faturar até R$3597,00",
       alt: "AUXILIAR ADMINISTRATIVO",
       linkDeCompra: "https://go.hotmart.com/X93352016Q",
+      categoria : ""
     },
   ];

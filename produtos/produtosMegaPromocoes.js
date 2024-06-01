@@ -8,6 +8,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -17,6 +18,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -26,6 +28,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -35,6 +38,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -44,6 +48,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -53,6 +58,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -62,6 +68,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -71,6 +78,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -80,6 +88,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -89,6 +98,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -98,6 +108,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -107,6 +118,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -116,6 +128,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -125,6 +138,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -134,6 +148,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -143,6 +158,7 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
     {
       id: uuidv4(),
@@ -152,5 +168,6 @@ export const produtosMegaPromocoes = [
       descricao: "Contém: 4 tipos de colheres, 1 concha, 1 pegador, 1 fue",
       alt: "Kit cozinha",
       linkDeCompra: "abcdef",
+      categoria : ""
     },
   ];
