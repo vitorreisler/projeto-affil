@@ -171,4 +171,104 @@ export const produtosShopee = [
     linkDeCompra: "https://shope.ee/8KTqvB3uPR",
     categoria: "",
   },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/cn-11134207-7r98o-ltdnc3d84v6l8e",
+    nome: "10 Gancho Autoadesivo Alumínio",
+    descricao: "De Parede Toalha De Banho Alumínio Cozinha Chave",
+    alt: "10 Gancho Autoadesivo Alumínio",
+    linkDeCompra: "https://s.shopee.com.br/6fM8xHR5Cl",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rd5e-lwau466lholp7f",
+    nome: "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+    descricao: "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+    alt: "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+    linkDeCompra: "https://s.shopee.com.br/pF1UIome",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/66b5eb1ca084fb400497205679a0dbb8",
+    nome: "Mini Processador Elétrico",
+    descricao: "Moedor Carne Vegetais Alho Fruta Amendoim Recarregável USB 250ml",
+    alt: "Mini Processador Elétrico",
+    linkDeCompra: "https://s.shopee.com.br/8pQdXwSKt3",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-22120-2sg3yak8i7kvfc",
+    nome: "Cortador Elétrico De Legumes 4 Em 1",
+    descricao: "Sem Fio Com Carregamento USB Triturador Durável Ferramenta De Cozinha",
+    alt: "Cortador Elétrico De Legumes 4 Em 1",
+    linkDeCompra: "https://s.shopee.com.br/1B1CQ1M8ws",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rd4s-lwh41he3b04l31",
+    nome: "Varal De Chão  Dobrável Portátil",
+    descricao: "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
+    alt: "Varal De Chão  Dobrável Portátil",
+    linkDeCompra: "https://s.shopee.com.br/3L5h0I2Qka",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-23020-uk52szc2w7mv9d",
+    nome: "Varal Em Aço Dobrável + 20 Metros Cabo Aço Encapado",
+    descricao: "Varal Em Aço Dobrável + 20 Metros Cabo Aço Encapado",
+    alt: "Varal Em Aço Dobrável + 20 Metros Cabo Aço Encapado",
+    linkDeCompra: "https://s.shopee.com.br/4puUnI8GAM",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98r-llkq0yf5whqre5",
+    nome: "Mini Aspirador Portátil Automotivo Potente Recarregável Sem Fio",
+    descricao: "Mini Aspirador Portátil Automotivo Potente Recarregável Sem Fio",
+    alt: "Mini Aspirador Portátil Automotivo Potente Recarregável Sem Fio",
+    linkDeCompra: "https://s.shopee.com.br/7AIPa3Mn8E",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-22110-a3rq32wiw4jvb3",
+    nome: "Amplificador De Imagem Da Tela Do Celular Lupa 3d Preto",
+    descricao: "Amplificador De Imagem Da Tela Do Celular Lupa 3d Preto",
+    alt: "Amplificador De Imagem Da Tela Do Celular Lupa 3d Preto",
+    linkDeCompra: "https://s.shopee.com.br/6zyzNu639a",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rcd4-lr7lv97sucn270",
+    nome: "Escova Eletrica de Limpeza 5 em 1 Sem Fio",
+    descricao: "Escova Eletrica de Limpeza 5 em 1 Sem Fio",
+    alt: "Escova Eletrica de Limpeza 5 em 1 Sem Fio",
+    linkDeCompra: "https://s.shopee.com.br/8KUMyhEYgJ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqm2zomjqasn23",
+    nome: "Dispenser Automático De Ovos 2 Andares ",
+    descricao: "Dispenser Automático De Ovos 2 Andares ",
+    alt: "Dispenser Automático De Ovos 2 Andares ",
+    linkDeCompra: "https://s.shopee.com.br/8f7DNYgUr2",
+    categoria: "",
+  },
 ];
