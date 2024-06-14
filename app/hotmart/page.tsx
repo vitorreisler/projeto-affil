@@ -3,20 +3,16 @@ import { produtosHotmart } from "../../produtos/produtosHotmart";
 import Card from "@/components/card";
 import Produtos from "@/components/produtos";
 
-
-
 const CategoriaHotmart = () => {
-  
   return (
     <section className="flex flex-col items-center">
       <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
         Promoções da Hotmart <RiComputerLine className="inline" />{" "}
       </h1>
       <Produtos>
-        {
-          produtosHotmart.map((item) => {
-            return (
-              <Card
+        {produtosHotmart.map((item) => {
+          return (
+            <Card
               key={item.id}
               urlImg={item.urlImg}
               titulo={item.nome}
@@ -25,9 +21,8 @@ const CategoriaHotmart = () => {
               linkDeCompra={item.linkDeCompra}
               alt={item.alt}
             />
-            )
-          } )
-        }
+          );
+        })}
       </Produtos>
     </section>
   );
