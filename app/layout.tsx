@@ -45,7 +45,7 @@ export default function RootLayout({
                       })(window,document,'script','dataLayer','GTM-WXWJGDZ6');`,
         }}
       />
-      <Script
+      {/*<Script
         id="fb-pixel"
         strategy="afterInteractive"
         dangerouslySetInnerHTML={{
@@ -62,7 +62,7 @@ export default function RootLayout({
             fbq('track', 'PageView');
           `,
         }}
-      />
+      /> */}
       <noscript>
         <img
           height="1"
