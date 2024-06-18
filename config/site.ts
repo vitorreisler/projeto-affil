@@ -21,10 +21,6 @@ export const siteConfig = {
       label: "Mercado Livre",
       href: "/mercado-livre",
     },
-    {
-      label: "Mega Promoções",
-      href: "/mega-promocoes",
-    }
 	],
 	navMenuItems: [
 		{
@@ -43,10 +39,6 @@ export const siteConfig = {
       label: "Mercado Livre",
       href: "/mercado-livre",
     },
-    {
-      label: "Mega Promoções",
-      href: "/mega-promocoes",
-    }
 	],
 	links: {
 		instagram: "https://www.instagram.com/visiofertas/",
