@@ -45,6 +45,32 @@ export default function RootLayout({
                       })(window,document,'script','dataLayer','GTM-WXWJGDZ6');`,
         }}
       />
+      <Script
+        id="fb-pixel"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          __html: `
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '439134305497131');
+            fbq('track', 'PageView');
+          `,
+        }}
+      />
+      <noscript>
+        <img
+          height="1"
+          width="1"
+          style={{ display: "none" }}
+          src="https://www.facebook.com/tr?id=439134305497131&ev=PageView&noscript=1"
+        />
+      </noscript>
 
       <head />
       <body
@@ -63,6 +89,11 @@ export default function RootLayout({
         </noscript>
         <Providers themeProps={{ attribute: "class", defaultTheme: "light" }}>
           <div className="relative flex flex-col h-screen">
+            <div id="amzn-assoc-ad-ba73ed5a-7ceb-4b7e-880a-7454135e04a4"></div>
+            <script
+              async
+              src="https://z-na.associates-amazon.com/onetag/v2?MarketPlace=BR&instanceId=ba73ed5a-7ceb-4b7e-880a-7454135e04a4"
+            ></script>
             <Navbar />
 
             <main className=" ">{children}</main>
