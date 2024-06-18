@@ -62,7 +62,7 @@ export default function RootLayout({
             fbq('track', 'PageView');
           `,
         }}
-      /> */}
+      /> 
       <noscript>
         <img
           height="1"
@@ -70,7 +70,7 @@ export default function RootLayout({
           style={{ display: "none" }}
           src="https://www.facebook.com/tr?id=439134305497131&ev=PageView&noscript=1"
         />
-      </noscript>
+      </noscript>*/}
 
       <head />
       <body
@@ -89,11 +89,11 @@ export default function RootLayout({
         </noscript>
         <Providers themeProps={{ attribute: "class", defaultTheme: "light" }}>
           <div className="relative flex flex-col h-screen">
-            <div id="amzn-assoc-ad-ba73ed5a-7ceb-4b7e-880a-7454135e04a4"></div>
+          {/*  <div id="amzn-assoc-ad-ba73ed5a-7ceb-4b7e-880a-7454135e04a4"></div>
             <script
               async
               src="https://z-na.associates-amazon.com/onetag/v2?MarketPlace=BR&instanceId=ba73ed5a-7ceb-4b7e-880a-7454135e04a4"
-            ></script>
+            ></script>n*/}
             <Navbar />
 
             <main className=" ">{children}</main>
