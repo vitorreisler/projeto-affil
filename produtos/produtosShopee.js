@@ -120,6 +120,27 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-22120-56f85xnibxkv2d",
+    nome: "Ralador de Queijo Fatiador Legumes Cortador Vegetais",
+    descricao: "Ralador de Queijo Fatiador Legumes Cortador Vegetais",
+    alt: "Ralador de Queijo Fatiador Legumes Cortador Vegetais",
+    linkDeCompra: "https://s.shopee.com.br/AUZ0vF2xO4",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rd5e-lwau466lholp7f",
+    nome: "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+    descricao:
+      "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+    alt: "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
+    linkDeCompra: "https://s.shopee.com.br/pF1UIome",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqm2zomjqasn23",
     nome: "Dispenser Automático De Ovos 2 Andares ",
     descricao: "Dispenser Automático De Ovos 2 Andares ",
@@ -148,6 +169,16 @@ export const produtosShopee = [
       "Forma Assadeira Para Fritadeira Air Fryer Em Silicone Flexível Laváve",
     alt: "Forma Assadeira Para Fritadeira",
     linkDeCompra: "https://shope.ee/B89AH3LBE",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98r-lm6s78mktmnq7a",
+    nome: "Pano de prato estampado com bainha",
+    descricao: "Pano de prato estampado com bainha",
+    alt: "Pano de prato estampado com bainha",
+    linkDeCompra: "https://s.shopee.com.br/4KyNaCAMXa",
     categoria: "",
   },
   {
@@ -206,11 +237,31 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/2d62df7923eaa326df1d589d756b1703",
+    nome: "Conjuntos Feminino Cropped Ciganinha com Bojo + Short com Detalhe Gringo",
+    descricao: "Conjuntos Feminino Cropped Ciganinha com Bojo + Short com Detalhe Gringo",
+    alt: "Conjuntos Feminino Cropped Ciganinha com Bojo + Short com Detalhe Gringo",
+    linkDeCompra: "https://s.shopee.com.br/5Kqulua7IY",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rd4s-lwh41he3b04l31",
     nome: "Varal De Chão  Dobrável Portátil",
     descricao: "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
     alt: "Varal De Chão  Dobrável Portátil",
     linkDeCompra: "https://s.shopee.com.br/3L5h0I2Qka",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lteasyv09w5bf4",
+    nome: "Kit 15 Pares Meia Infantil Estampadinha\lisa menino e menina de criança",
+    descricao: "Kit 15 Pares Meia Infantil Estampadinha\lisa menino e menina de criança",
+    alt: "Kit 15 Pares Meia Infantil Estampadinha\lisa menino e menina de criança",
+    linkDeCompra: "https://s.shopee.com.br/9zckKmooaI",
     categoria: "",
   },
   {
@@ -247,18 +298,6 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/sg-11134201-7rd5e-lwau466lholp7f",
-    nome: "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
-    descricao:
-      "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
-    alt: "Liquidificador 3 velocidades 550W Turbo Power - L-99-FB - Mondial",
-    linkDeCompra: "https://s.shopee.com.br/pF1UIome",
-    categoria: "",
-  },
-  
-  {
-    id: uuidv4(),
-    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98r-llkq0yf5whqre5",
     nome: "Mini Aspirador Portátil Automotivo Potente Recarregável Sem Fio",
     descricao:
@@ -287,4 +326,45 @@ export const produtosShopee = [
     linkDeCompra: "https://s.shopee.com.br/8KUMyhEYgJ",
     categoria: "",
   },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/6f970737fd9c18bc590d7fb9145ead93",
+    nome: "Papel de Parede Adesivo de Espuma 3D Desenho de Tijolo à Prova D'água",
+    descricao: "Papel de Parede Adesivo de Espuma 3D Desenho de Tijolo à Prova D'água",
+    alt: "Papel de Parede Adesivo de Espuma 3D Desenho de Tijolo à Prova D'água",
+    linkDeCompra: "https://s.shopee.com.br/3VPGaDpFAb",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-ljlpca99nte2af",
+    nome: "Kit 2 Prateleiras Suporte Com Adesivos",
+    descricao: "Kit 2 Prateleiras Suporte Com Adesivos",
+    alt: "Kit 2 Prateleiras Suporte Com Adesivos",
+    linkDeCompra: "https://s.shopee.com.br/5fTlAH5dlW",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98r-llmj5xue9djn36",
+    nome: "Mop Spray Rodo Prático Eficiente",
+    descricao: "Mop Spray Rodo Prático Eficiente",
+    alt: "Mop Spray Rodo Prático Eficiente",
+    linkDeCompra: "https://s.shopee.com.br/B8ocLMLDj",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-ljimjbss9v2i9f",
+    nome: "Placa Pix Pagamento QrCode De Mesa Balcão c/ base - Acrílico",
+    descricao: "Placa Pix Pagamento QrCode De Mesa Balcão c/ base - Acrílico",
+    alt: "Placa Pix Pagamento QrCode De Mesa Balcão c/ base - Acrílico",
+    linkDeCompra: "https://s.shopee.com.br/5KqumAGNy0",
+    categoria: "",
+  },
+
 ];
