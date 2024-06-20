@@ -52,7 +52,7 @@ const Categorias = () => {
                   </p>
                   <a
                     href={item.to}
-                    className="bg-indigo-600 shadow-sm rounded-full py-2 px-3 sm:px-5 text-xs text-white font-semibold"
+                    className="bg-yellow-300 shadow-sm rounded-full py-2 px-3 sm:px-5 text-xs text-black font-semibold"
                   >
                     Ver mais...
                   </a>

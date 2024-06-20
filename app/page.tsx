@@ -1,14 +1,28 @@
-"use client"
+"use client";
+import { useEffect, useState } from "react";
 import Categorias from "../components/categorias";
 import Review from "../components/review";
 
-
-
 export default function Home() {
+  const [isSmallScreen, setIsSmallScreen] = useState(false);
+
+  useEffect(() => {
+    if(window.screen.width < 500){
+    setIsSmallScreen(window.screen.width < 500)
+  }
+  }, []);
 
   return (
     <>
-      <img className="w-full" src="/images/banner1.png" alt="" />
+      {isSmallScreen ? (
+        <img
+          className="w-full"
+          src="/images/banner-sm.png"
+          alt="Banner pequeno"
+        />
+      ) : (
+        <img className="w-full" src="/images/banner1.png" alt="Banner grande" />
+      )}
 
       <section className="flex flex-col items-center justify-center mx-auto gap-4 max-w-7xl pt-5 px-6 flex-grow">
         <Categorias />

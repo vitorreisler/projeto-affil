@@ -1,6 +1,6 @@
 const Card = ({ titulo, descricao, categoria, urlImg, linkDeCompra, alt }) => {
   return (
-    <section className=" my-3  max-w-[sm] sm:max-w-[15rem] md:max-w-[17rem] bg-white border border-gray-200 rounded-lg shadow-lg dark:bg-gray-800 dark:border-gray-700">
+    <section className=" my-3  max-w-[sm] sm:max-w-[15rem] md:max-w-[17rem] bg-white border border-gray-200 rounded-lg shadow-lg hover:scale-105  hover:ease-in-out hover:duration-700 dark:bg-gray-800 dark:border-gray-700">
       <a target="_blank" href={linkDeCompra} className=" ">
         <img
           className=" w-full sm:max-h-[200px] md:max-h-[250px] object-contain rounded-t-lg "
@@ -35,7 +35,7 @@ const Card = ({ titulo, descricao, categoria, urlImg, linkDeCompra, alt }) => {
         <a
           target="_blank"
           href={linkDeCompra}
-          className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-black bg-yellow-300 rounded-lg hover:bg-yellow-200 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-yellow-300 dark:hover:bg-yellow-500 dark:focus:ring-yellow-500"
         >
           Ver mais...
           <svg
