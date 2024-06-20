@@ -34,6 +34,17 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbm7-ln3ij4arylcbe8",
+    nome: "Pistola de massagem elétrica, massageador de tecidos profundos",
+    descricao:
+      "Pistola de massagem elétrica, massageador de tecidos profundos",
+    alt: "Pistola de massagem elétrica, massageador de tecidos profundos",
+    linkDeCompra: "https://s.shopee.com.br/3q275HT36y",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-cvs-br.img.susercontent.com/br-11134207-7qukw-li39v6ya14zj14.webp",
     nome: " Régua Filtro de Linha",
     descricao:
@@ -211,6 +222,17 @@ export const produtosShopee = [
       "Edredom Casal Dupla Face Cobre Leito Queen + Lençol Queen Com Elastico 6 Peças Tecido Toque Macio",
     alt: "Edredom Casal Dupla Face",
     linkDeCompra: "https://shope.ee/1fwwyXLafY",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbl7-lmxhpfuo0pwjb4",
+    nome: "Jogo de Lençol 03 Peças 400 Fios Cama Casal Queen Micropercal Ponto Palito",
+    descricao:
+      "Jogo de Lençol 03 Peças 400 Fios Cama Casal Queen Micropercal Ponto Palito",
+    alt: "Jogo de Lençol 03 Peças 400 Fios Cama Casal Queen Micropercal Ponto Palito",
+    linkDeCompra: "https://s.shopee.com.br/8AB6Evty03",
     categoria: "",
   },
   {
