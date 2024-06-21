@@ -36,7 +36,7 @@ const Review = () => {
     {
       imgPerfil:
         "https://images.pexels.com/photos/8517921/pexels-photo-8517921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      titulo: "Minha cozinha agaradece",
+      titulo: "Cozinha elegante",
       comentario:
         "Deixei de passar horas cortando e picando coisas com os produtos daqui",
       nota: 5,
@@ -61,11 +61,11 @@ const Review = () => {
   return (
     <>
       <h1 className="text-3xl">O Que Nossos Clientes Dizem</h1>
-      <section className="w-full bg-slate-100 flex md:justify-between overflow-x-scroll scrollbar-hide shadow-lg p-4">
+      <section className="w-full bg-slate-100 flex md:justify-between overflow-x-scroll scrollbar-hide shadow-lg p-4 mb-7">
         {randomReviews.map((review, i) => (
           <div
             key={i}
-            className="block max-w-[320px] p-6 bg-white border border-gray-200 md:rounded-lg shadow-md hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+            className="block max-w-[320px] p-6 bg-white border border-gray-200 md:rounded-lg shadow-md  dark:bg-gray-800 dark:border-gray-700 "
           >
             <div className="flex flex-wrap gap-4 items-center justify-center md:justify-start">
               <img

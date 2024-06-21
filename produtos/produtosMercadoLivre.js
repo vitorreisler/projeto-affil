@@ -290,4 +290,14 @@ export const produtosMercadoLivre = [
     linkDeCompra: "https://mercadolivre.com/sec/2VVpAvH",
     categoria: "",
   },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_692870-MLU73214143753_122023-F.webp",
+    nome: "Ferro De Passar A Vapor Esi10 Efficient Azul Electrolux 110V",
+    descricao: "Ferro De Passar A Vapor Esi10 Efficient Azul Electrolux 110V",
+    alt: "Ferro De Passar A Vapor Esi10 Efficient Azul Electrolux 110V",
+    linkDeCompra: "https://mercadolivre.com/sec/2edWhyN",
+    categoria: "",
+  },
 ];
