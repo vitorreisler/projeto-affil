@@ -51,6 +51,16 @@ export const produtosAmazon = [
   },
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/611J91ovSlL._AC_SL1500_.jpg",
+    nome: "Xiaomi Mi Band 8 Active versão global (Preto)",
+    descricao:
+      "Xiaomi Mi Band 8 Active versão global (Preto)",
+    alt: "Xiaomi Mi Band 8 Active versão global (Preto)",
+    linkDeCompra: "https://amzn.to/4ezVEdy",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/31d2fUdrBaL._AC_SL1080_.jpg",
     nome: "JBL, Fone de Ouvido in Ear, C50HI - Preto",
     descricao: "JBL, Fone de Ouvido in Ear, C50HI - Preto",
@@ -66,6 +76,15 @@ export const produtosAmazon = [
     alt: "Headphone Philips bluetooth on-ear",
     linkDeCompra: "https://amzn.to/4exUYoU",
     categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/41k-cvl8n-L._AC_.jpg",
+    nome: "Película TPU Gel para Xiaomi Mi Band 8 Active, Mi Smart Band 8 active (Exclusivo) c/ 2 un",
+    descricao: "Película TPU Gel para Xiaomi Mi Band 8 Active, Mi Smart Band 8 active (Exclusivo) c/ 2 un",
+    alt: "Película TPU Gel para Xiaomi Mi Band 8 Active, Mi Smart Band 8 active (Exclusivo) c/ 2 un",
+    linkDeCompra: "https://amzn.to/4eBu0g0",
+    categoria: "Pelicula",
   },
   {
     id: uuidv4(),
