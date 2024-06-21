@@ -152,6 +152,17 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-23020-uuxfsesav3nvfb",
+    nome: "Amolador De Facas Em Aço Inox Profissional",
+    descricao:
+      "Amolador De Facas Em Aço Inox Profissional",
+    alt: "Amolador De Facas Em Aço Inox Profissional",
+    linkDeCompra: "https://s.shopee.com.br/2VWkh4ilx3",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqm2zomjqasn23",
     nome: "Dispenser Automático De Ovos 2 Andares ",
     descricao: "Dispenser Automático De Ovos 2 Andares ",
@@ -386,6 +397,26 @@ export const produtosShopee = [
     descricao: "Placa Pix Pagamento QrCode De Mesa Balcão c/ base - Acrílico",
     alt: "Placa Pix Pagamento QrCode De Mesa Balcão c/ base - Acrílico",
     linkDeCompra: "https://s.shopee.com.br/5KqumAGNy0",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rd4o-lwsmgawfeo075c",
+    nome: "Ventilador de mesa 30 cm 6 pás com 3 velocidades - VSP-30-B - Mondial",
+    descricao: "Ventilador de mesa 30 cm 6 pás com 3 velocidades - VSP-30-B - Mondial",
+    alt: "Ventilador de mesa 30 cm 6 pás com 3 velocidades - VSP-30-B - Mondial",
+    linkDeCompra: "https://s.shopee.com.br/2VWkgtIHRU",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbkq-logf8g52u9tr08",
+    nome: "Ventilador Refrigerador De Ar Condicionado Umidificador Portátil TIPO C Usb",
+    descricao: "Ventilador Refrigerador De Ar Condicionado Umidificador Portátil TIPO C Usb",
+    alt: "Ventilador Refrigerador De Ar Condicionado Umidificador Portátil TIPO C Usb",
+    linkDeCompra: "https://s.shopee.com.br/8zkEQueSCj",
     categoria: "",
   },
 
