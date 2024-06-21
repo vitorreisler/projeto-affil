@@ -10,15 +10,15 @@ const Card = ({ titulo, descricao, categoria, urlImg, linkDeCompra, alt }) => {
       </a>
       <div className="p-5">
         <a target="_blank" href={linkDeCompra} className="">
-          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+          <h5 className={`mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white ${titulo.length > 30 ? ("w-52 overflow-hidden text-ellipsis whitespace-nowrap") : ("")}`}>
             {titulo}
           </h5>
         </a>
         <p
           className={`mb-3 font-normal text-gray-700 dark:text-gray-400  ${
             descricao.length < 30
-              ? ""
-              : "w-52 overflow-hidden text-ellipsis whitespace-nowrap"
+              ? ("")
+              : ("w-52 overflow-hidden text-ellipsis whitespace-nowrap")
           }`}
         >
           {descricao}

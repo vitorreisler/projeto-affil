@@ -52,7 +52,7 @@ export const produtosAmazon = [
   {
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/611J91ovSlL._AC_SL1500_.jpg",
-    nome: "Xiaomi Mi Band 8 Active versão global (Preto)",
+    nome: "Mi Band 8 Active versão global (Preto)",
     descricao:
       "Xiaomi Mi Band 8 Active versão global (Preto)",
     alt: "Xiaomi Mi Band 8 Active versão global (Preto)",
@@ -128,10 +128,10 @@ export const produtosAmazon = [
   {
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/81ZvbEt1aAL._AC_SL1500_.jpg",
-    nome: "Suporte para Notebook e Tablet em Alumínio Resistente Apoio Mesa em Metal Articulado Dobrável Ajustável",
+    nome: "Kindle 11ª Geração (modelo 2022) – Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta ",
     descricao:
-      "Suporte para Notebook e Tablet em Alumínio Resistente Apoio Mesa em Metal Articulado Dobrável Ajustável",
-    alt: "Suporte para Notebook e Tablet em Alumínio Resistente Apoio Mesa em Metal Articulado Dobrável Ajustável",
+      "Kindle 11ª Geração (modelo 2022) – Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta ",
+    alt: "Kindle 11ª Geração (modelo 2022) – Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta ",
     linkDeCompra: "https://amzn.to/4ar5WJt",
     categoria: "Eletrônico",
   },
