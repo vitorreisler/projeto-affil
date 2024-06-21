@@ -419,5 +419,25 @@ export const produtosShopee = [
     linkDeCompra: "https://s.shopee.com.br/8zkEQueSCj",
     categoria: "",
   },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/be5b4c7e27561da9516161a81e1a398c",
+    nome: "Quadro decorativo 2 peças 40x60 video game gamer controle",
+    descricao: "Quadro decorativo 2 peças 40x60 video game gamer controle",
+    alt: "Quadro decorativo 2 peças 40x60 video game gamer controle",
+    linkDeCompra: "https://s.shopee.com.br/9zcm0SJ4Ns",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/5d332b0ec9746446f190d349ebb114c7",
+    nome: "Placa Spotify Interativa - Base Preta - Personalize a sua!",
+    descricao: "Placa Spotify Interativa - Base Preta - Personalize a sua!",
+    alt: "Placa Spotify Interativa - Base Preta - Personalize a sua!",
+    linkDeCompra: "https://s.shopee.com.br/6zzARCxIHI",
+    categoria: "",
+  },
 
 ];
