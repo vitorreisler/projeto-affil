@@ -9,7 +9,7 @@ const CategoriaMercadoLivre = () => {
   return (
     <section className="flex flex-col items-center">
       <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
-        Promoções de itens do Mercado Livre <BsBagCheckFill className="inline" />{" "}
+        Produtos do Mercado Livre <BsBagCheckFill className="inline" />{" "}
       </h1>
       <Produtos>
         {

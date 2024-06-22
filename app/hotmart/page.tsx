@@ -7,7 +7,7 @@ const CategoriaHotmart = () => {
   return (
     <section className="flex flex-col items-center">
       <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
-        Promoções da Hotmart <RiComputerLine className="inline" />{" "}
+        Cursos da Hotmart <RiComputerLine className="inline" />{" "}
       </h1>
       <Produtos>
         {produtosHotmart.map((item) => {

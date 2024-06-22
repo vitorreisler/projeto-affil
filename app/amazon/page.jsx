@@ -7,7 +7,7 @@ const CategoriaAmazon = () => {
   return (
     <section className="flex flex-col items-center">
       <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
-        Promoções de itens da Amazon <FaAmazon className="inline" />{" "}
+        Produtos da Amazon <FaAmazon className="inline" />{" "}
       </h1>
       <Produtos>
         {

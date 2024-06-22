@@ -51,6 +51,36 @@ export const produtosAmazon = [
   },
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61IfUXVbkmL._AC_SL1007_.jpg",
+    nome: "Mouse Sem Fio Lenovo 300 Compact 1000dpi Preto",
+    descricao:
+      "Mouse Sem Fio Lenovo 300 Compact 1000dpi Preto",
+    alt: "Mouse Sem Fio Lenovo 300 Compact 1000dpi Preto",
+    linkDeCompra: "https://amzn.to/4bfstcR",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61WrR7z-pGL._AC_SL1280_.jpg",
+    nome: "Mouse Dell WM126",
+    descricao:
+      "Mouse Dell WM126",
+    alt: "Mouse Dell WM126",
+    linkDeCompra: "https://amzn.to/3XAVagZ",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61GwdAH1QZL._AC_SL1500_.jpg",
+    nome: "Mouse sem fio Logitech M170 com Design Ambidestro Compacto, Conexão USB e Pilha Inclusa - Preto",
+    descricao:
+      "Mouse sem fio Logitech M170 com Design Ambidestro Compacto, Conexão USB e Pilha Inclusa - Preto",
+    alt: "Mouse sem fio Logitech M170 com Design Ambidestro Compacto, Conexão USB e Pilha Inclusa - Preto",
+    linkDeCompra: "https://amzn.to/4ew7iGf",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/611J91ovSlL._AC_SL1500_.jpg",
     nome: "Mi Band 8 Active versão global (Preto)",
     descricao:
