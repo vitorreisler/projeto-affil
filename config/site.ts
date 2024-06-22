@@ -21,6 +21,10 @@ export const siteConfig = {
       label: "Mercado Livre",
       href: "/mercado-livre",
     },
+    {
+      label: "Grupo de Ofertas",
+      href: "/landingpage",
+    },
 	],
 	navMenuItems: [
 		{
@@ -38,6 +42,10 @@ export const siteConfig = {
     {
       label: "Mercado Livre",
       href: "/mercado-livre",
+    },
+    {
+      label: "Grupo de Ofertas",
+      href: "/landingpage",
     },
 	],
 	links: {

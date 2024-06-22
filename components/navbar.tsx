@@ -24,6 +24,8 @@ import { FaAmazon } from "react-icons/fa";
 import { SiShopee } from "react-icons/si";
 import { FaComputer } from "react-icons/fa6";
 import { BsBagCheckFill } from "react-icons/bs";
+import { FaPeopleGroup } from "react-icons/fa6";
+
 
 export const Navbar = () => {
   const searchInput = (
@@ -83,6 +85,11 @@ export const Navbar = () => {
                 ) : item.label === "Mercado Livre" ? (
                   <span className="flex items-center gap-1">
                     <BsBagCheckFill />
+                    {item.label}
+                  </span>
+                ) : item.label === "Grupo de Ofertas" ? (
+                  <span className="flex items-center gap-1">
+                    <FaPeopleGroup />
                     {item.label}
                   </span>
                 ) : (
