@@ -13,7 +13,7 @@ export default function LandingPage() {
   }, []);
   return (
     <section className="w-fullflex flex-col items-center justify-center mx-auto gap-4 max-w-7xl pt-5 px-6 flex-grow">
-      <h1 className={`text-5xl text-center my-3`}>Os melhores achadinhos</h1>
+      <h1 className={`text-5xl text-center my-3`}>Os melhores produtos <br /> Amazon, Shopee e Mercado Livre </h1>
 
       <section
         id="descricao-landingpage"
