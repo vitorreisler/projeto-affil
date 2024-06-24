@@ -3,6 +3,26 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-22120-g2pnl60wcskve9",
+    nome: "Papa Bolinhas Tira Pelos Removedor de Fiapos ",
+    descricao: "Papa Bolinhas Tira Pelos Removedor de Fiapos ",
+    alt: "Papa Bolinhas Tira Pelos Removedor de Fiapos ",
+    linkDeCompra: "https://s.shopee.com.br/6AQ8Dg54sI",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/5ed45ae04872c4f2e953cc117d1ba732",
+    nome: "Cozinha Suspensa Modula Autosustentavel Escorredor Louça ",
+    descricao: "Cozinha Suspensa Modula Autosustentavel Escorredor Louça ",
+    alt: "Cozinha Suspensa Modula Autosustentavel Escorredor Louça ",
+    linkDeCompra: "https://s.shopee.com.br/8Uo30lXnu8",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rcdr-ltr6rhko1t97c6",
     nome: "Pote de Vidro Patê 156ml Copo Pra Vela Doces Geleias Patês ",
     descricao: "Pote de Vidro Patê 156ml Copo Pra Vela Doces Geleias Patês ",
@@ -84,6 +104,39 @@ export const produtosShopee = [
       "Fone De Ouvido Sem Fio Jbl T500BT /T510BT Bluetooth Rádio FM mp3 Cartão De Memória",
     alt: "Fone De Ouvido Sem Fio Jbl T500BT /T510BT",
     linkDeCompra: "https://shope.ee/605w5aTsd3",
+    categoria: "",
+  },
+
+  //COZINHA
+
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-23020-9pddeqfttunvdb",
+    nome: "Mini Liquidificador Portátil Shake 6 Laminas 380ML Cabo USB",
+    descricao: "Mini Liquidificador Portátil Shake 6 Laminas 380ML Cabo USB",
+    alt: "Mini Liquidificador Portátil Shake 6 Laminas 380ML Cabo USB",
+    linkDeCompra: "https://s.shopee.com.br/9zcql1XN6E",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-22120-hzqkt79abxkve0",
+    nome: "Mini Máquina Portátil Seladora Plástico Pilha Para Cozinha",
+    descricao: "Mini Máquina Portátil Seladora Plástico Pilha Para Cozinha",
+    alt: "Mini Máquina Portátil Seladora Plástico Pilha Para Cozinha",
+    linkDeCompra: "https://s.shopee.com.br/6fMOnonVGp",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ll0xjz68fqib2c",
+    nome: "Nova garrafa térmica de aço inoxidável com termômetro digital",
+    descricao: "Nova garrafa térmica de aço inoxidável com termômetro digital",
+    alt: "Nova garrafa térmica de aço inoxidável com termômetro digital",
+    linkDeCompra: "https://s.shopee.com.br/7UvVnUyIJm",
     categoria: "",
   },
   {
@@ -203,6 +256,11 @@ export const produtosShopee = [
     linkDeCompra: "https://s.shopee.com.br/4KyNaCAMXa",
     categoria: "",
   },
+
+//FIM COZINHA
+
+//CASA E ROUPAS
+
   {
     id: uuidv4(),
     urlImg:
