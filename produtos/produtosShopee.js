@@ -23,6 +23,36 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rcey-lscnoezuf8e705",
+    nome: "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável ",
+    descricao: "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável ",
+    alt: "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável ",
+    linkDeCompra: "https://s.shopee.com.br/1qH96xxNaN",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/cn-11134301-7r98o-lnxurnun8mfv48",
+    nome: "Porta-cartões RFID fino Anti-roubo Carteira masculina Universal ",
+    descricao: "Porta-cartões RFID fino Anti-roubo Carteira masculina Universal ",
+    alt: "Porta-cartões RFID fino Anti-roubo Carteira masculina Universal ",
+    linkDeCompra: "https://s.shopee.com.br/3finIQJ6rB",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lug2gf8d2i5h25",
+    nome: "Protetor de Cabo de Celular  ",
+    descricao: "Protetor de Cabo de Celular  ",
+    alt: "Protetor de Cabo de Celular  ",
+    linkDeCompra: "https://s.shopee.com.br/606i4nhKte",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rcdr-ltr6rhko1t97c6",
     nome: "Pote de Vidro Patê 156ml Copo Pra Vela Doces Geleias Patês ",
     descricao: "Pote de Vidro Patê 156ml Copo Pra Vela Doces Geleias Patês ",

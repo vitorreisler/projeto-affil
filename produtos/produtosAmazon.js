@@ -2,6 +2,26 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/812uFHrZPDL._AC_SL1500_.jpg",
+    nome: "Lola Cosmetics, 25834, Morte Súbita - Máscara Super Hidratante, 450g",
+    descricao:
+      "Lola Cosmetics, 25834, Morte Súbita - Máscara Super Hidratante, 450g",
+    alt: "Lola Cosmetics, 25834, Morte Súbita - Máscara Super Hidratante, 450g",
+    linkDeCompra: "https://amzn.to/4eBovxU",
+    categoria: "Beleza",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71aVPs4Sv9L._SL1500_.jpg",
+    nome: "Fora de série - Outliers: Descubra por que algumas pessoas têm sucesso e outras não",
+    descricao:
+      "Fora de série - Outliers: Descubra por que algumas pessoas têm sucesso e outras não",
+    alt: "Fora de série - Outliers: Descubra por que algumas pessoas têm sucesso e outras não",
+    linkDeCompra: "https://amzn.to/45FnnW7",
+    categoria: "Livro",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61PMSbZ2RIL._AC_SL1000_.jpg",
     nome: "Fire TV Stick Lite",
     descricao:
