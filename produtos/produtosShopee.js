@@ -3,6 +3,16 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lorrusovnqdx94",
+    nome: "Lixeira suspensa ",
+    descricao: "Lixeira suspensa ",
+    alt: "Lixeira suspensa ",
+    linkDeCompra: "https://s.shopee.com.br/7Kc8exKBFe",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134201-22120-g2pnl60wcskve9",
     nome: "Papa Bolinhas Tira Pelos Removedor de Fiapos ",
     descricao: "Papa Bolinhas Tira Pelos Removedor de Fiapos ",
