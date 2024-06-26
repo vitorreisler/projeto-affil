@@ -12,6 +12,26 @@ export const produtosAmazon = [
   },
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61OBwSlK+LL._AC_SL1500_.jpg",
+    nome: "ELSÉVE Óleo Capilar L'Oréal Paris Elseve Óleo Extraordinário 100Ml -",
+    descricao:
+      "ELSÉVE Óleo Capilar L'Oréal Paris Elseve Óleo Extraordinário 100Ml -",
+    alt: "ELSÉVE Óleo Capilar L'Oréal Paris Elseve Óleo Extraordinário 100Ml -",
+    linkDeCompra: "https://amzn.to/4cGGMbz",
+    categoria: "Beleza",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61JSetSXeXL._AC_SL1500_.jpg",
+    nome: "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
+    descricao:
+      "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
+    alt: "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
+    linkDeCompra: "https://amzn.to/3zkbpFk",
+    categoria: "Beleza",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71aVPs4Sv9L._SL1500_.jpg",
     nome: "Fora de série - Outliers: Descubra por que algumas pessoas têm sucesso e outras não",
     descricao:

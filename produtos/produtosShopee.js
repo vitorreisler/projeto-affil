@@ -13,6 +13,36 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lh9k1omwuyh7d8",
+    nome: "Nossa Senhora Aparecida Para Painel De Carro Pequena Strass ",
+    descricao: "Nossa Senhora Aparecida Para Painel De Carro Pequena Strass ",
+    alt: "Nossa Senhora Aparecida Para Painel De Carro Pequena Strass ",
+    linkDeCompra: "https://s.shopee.com.br/40LgmuPqEN",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/922c099d67b8102fb3f4411abae0b7da",
+    nome: "500 Etiquetas Adesivas Gratidão ter você como cliente Redondo 3 cm ",
+    descricao: "500 Etiquetas Adesivas Gratidão ter você como cliente Redondo 3 cm ",
+    alt: "500 Etiquetas Adesivas Gratidão ter você como cliente Redondo 3 cm ",
+    linkDeCompra: "https://s.shopee.com.br/7Kc8keVZqK",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lgdam2nu3wjj0f",
+    nome: "Suporte Multiuso De Parede Para Celular Controle Plástico Para Carregar Remoto Um Slot",
+    descricao: "Suporte Multiuso De Parede Para Celular Controle Plástico Para Carregar Remoto Um Slot",
+    alt: "Suporte Multiuso De Parede Para Celular Controle Plástico Para Carregar Remoto Um Slot",
+    linkDeCompra: "https://s.shopee.com.br/40LgmcsuAd",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134201-22120-g2pnl60wcskve9",
     nome: "Papa Bolinhas Tira Pelos Removedor de Fiapos ",
     descricao: "Papa Bolinhas Tira Pelos Removedor de Fiapos ",
@@ -38,6 +68,16 @@ export const produtosShopee = [
     descricao: "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável ",
     alt: "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável ",
     linkDeCompra: "https://s.shopee.com.br/1qH96xxNaN",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-luapoo6rngbp5b",
+    nome: "Mini Terços Para Lembrancinhas 30 Un ",
+    descricao: "Mini Terços Para Lembrancinhas 30 Un ",
+    alt: "Mini Terços Para Lembrancinhas 30 Un ",
+    linkDeCompra: "https://s.shopee.com.br/pY1e3NZD",
     categoria: "",
   },
   {

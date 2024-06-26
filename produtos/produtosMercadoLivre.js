@@ -3,6 +3,26 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_785332-MLA74651907100_022024-F.webp",
+    nome: "Garrafa térmica Termolar Lúmina Bomba de Pressão de vidro 1L",
+    descricao: "Garrafa térmica Termolar Lúmina Bomba de Pressão de vidro 1L",
+    alt: "Garrafa térmica Termolar Lúmina Bomba de Pressão de vidro 1L",
+    linkDeCompra: "https://mercadolivre.com/sec/2hB3XsM",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_955172-MLB76180867092_052024-F.webp",
+    nome: "Relógio Tuguir Feminino Com Semi Joia Banhada A Ouro 18k",
+    descricao: "Relógio Tuguir Feminino Com Semi Joia Banhada A Ouro 18k",
+    alt: "Relógio Tuguir Feminino Com Semi Joia Banhada A Ouro 18k",
+    linkDeCompra: "https://mercadolivre.com/sec/2WZKSY2",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_675604-MLB71397461923_082023-F.webp",
     nome: "Kit 10 Cuecas Boxer",
     descricao: "Kit 10 Cuecas Boxer",
