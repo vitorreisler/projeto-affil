@@ -42,6 +42,16 @@ export const produtosAmazon = [
   },
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/619T0W3tfuL._SL1360_.jpg",
+    nome: "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+    descricao:
+      "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+    alt: "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+    linkDeCompra: "https://amzn.to/4cCkEyW",
+    categoria: "Livro",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61PMSbZ2RIL._AC_SL1000_.jpg",
     nome: "Fire TV Stick Lite",
     descricao:

@@ -13,6 +13,16 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_967903-MLA43465119543_092020-F.webp",
+    nome: "Papel Higiênico Supreme Folha Tripla 24 Rolos Neve",
+    descricao: "Papel Higiênico Supreme Folha Tripla 24 Rolos Neve",
+    alt: "Papel Higiênico Supreme Folha Tripla 24 Rolos Neve",
+    linkDeCompra: "https://mercadolivre.com/sec/1SiaQQ2",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_955172-MLB76180867092_052024-F.webp",
     nome: "Relógio Tuguir Feminino Com Semi Joia Banhada A Ouro 18k",
     descricao: "Relógio Tuguir Feminino Com Semi Joia Banhada A Ouro 18k",
