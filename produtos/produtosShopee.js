@@ -13,6 +13,26 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/da58e49a194acea70dde8e39a519dc65",
+    nome: "Chaveiro Com Desenho",
+    descricao: "Chaveiro Com Desenho",
+    alt: "Chaveiro Com Desenho",
+    linkDeCompra: "https://s.shopee.com.br/3AmbXEKEpH",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/58d08b6f4b89abcdf241eecef4e4f413",
+    nome: "Luzes De Led Usb Strip",
+    descricao: "Luzes De Led Usb Strip",
+    alt: "Luzes De Led Usb Strip",
+    linkDeCompra: "https://s.shopee.com.br/A9wLqjNauA",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-llc3jsu4ysl80b",
     nome: "Mini Ar Condicionado Portátil Arctic Air Cooler",
     descricao: "Mini Ar Condicionado Portátil Arctic Air Cooler",
