@@ -3,6 +3,46 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rcds-ltfc0m7lb5ft3a",
+    nome: "Escova A Vapor 3 Em 1 Autolimpante Para Massagem De Cães E Gatos",
+    descricao: "Escova A Vapor 3 Em 1 Autolimpante Para Massagem De Cães E Gatos",
+    alt: "Escova A Vapor 3 Em 1 Autolimpante Para Massagem De Cães E Gatos",
+    linkDeCompra: "https://s.shopee.com.br/6V33FGauzT",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-llc3jsu4ysl80b",
+    nome: "Mini Ar Condicionado Portátil Arctic Air Cooler",
+    descricao: "Mini Ar Condicionado Portátil Arctic Air Cooler",
+    alt: "Mini Ar Condicionado Portátil Arctic Air Cooler",
+    linkDeCompra: "https://s.shopee.com.br/8zkOEAFKHk",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvm98b66j9zyb5",
+    nome: "Projetor 4K HD 150 Polegadas Celular, Tv B0x, Xbox, PS, Pc, Wifi HY300 Pro Magcubic ",
+    descricao: "Projetor 4K HD 150 Polegadas Celular, Tv B0x, Xbox, PS, Pc, Wifi HY300 Pro Magcubic ",
+    alt: "Projetor 4K HD 150 Polegadas Celular, Tv B0x, Xbox, PS, Pc, Wifi HY300 Pro Magcubic ",
+    linkDeCompra: "https://s.shopee.com.br/4pupGQK0cI",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltwo87yqiw7od6",
+    nome: "Tabua de Passar Roupa Passadeira 3 Andares",
+    descricao: "Tabua de Passar Roupa Passadeira 3 Andares",
+    alt: "Tabua de Passar Roupa Passadeira 3 Andares",
+    linkDeCompra: "https://s.shopee.com.br/40LiGopbE7",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lorrusovnqdx94",
     nome: "Lixeira suspensa ",
     descricao: "Lixeira suspensa ",
