@@ -13,6 +13,16 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_986107-MLB51777149309_092022-F.webp",
+    nome: "Película Privacidade iPhone diversos modelos",
+    descricao: "Película Privacidade iPhone diversos modelos ",
+    alt: "Película Privacidade iPhone diversos modelos ",
+    linkDeCompra: "https://mercadolivre.com/sec/1DugWcq",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_967903-MLA43465119543_092020-F.webp",
     nome: "Papel Higiênico Supreme Folha Tripla 24 Rolos Neve",
     descricao: "Papel Higiênico Supreme Folha Tripla 24 Rolos Neve",

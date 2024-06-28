@@ -13,6 +13,16 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbll-llpdpz5hrn0r18",
+    nome: "Kit 10 Camisetas Dry Fit Masculina",
+    descricao: "Kit 10 Camisetas Dry Fit Masculina",
+    alt: "Kit 10 Camisetas Dry Fit Masculina",
+    linkDeCompra: "https://s.shopee.com.br/B90zkcHgB",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/da58e49a194acea70dde8e39a519dc65",
     nome: "Chaveiro Com Desenho",
     descricao: "Chaveiro Com Desenho",
