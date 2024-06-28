@@ -13,6 +13,36 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7qved-lguppgya0yrw8b",
+    nome: "TEAK Molde De Sabão De Silicone 4/6 Cavity Flower Shaped Cake Mould DIY Craft Suprimentos Multifuncionais Sabonetes Artesanais",
+    descricao: "TEAK Molde De Sabão De Silicone 4/6 Cavity Flower Shaped Cake Mould DIY Craft Suprimentos Multifuncionais Sabonetes Artesanais",
+    alt: "TEAK Molde De Sabão De Silicone 4/6 Cavity Flower Shaped Cake Mould DIY Craft Suprimentos Multifuncionais Sabonetes Artesanais",
+    linkDeCompra: "https://s.shopee.com.br/4Kya4l9wrQ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/8c0085ed581d51ebc47ac805fc103c5b",
+    nome: "Molde De Silicone 3d Diy Para Velas Soy Soja",
+    descricao: "Molde De Silicone 3d Diy Para Velas Soy Soja",
+    alt: "Molde De Silicone 3d Diy Para Velas Soy Soja",
+    linkDeCompra: "https://s.shopee.com.br/7AIlZ6w44D",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/46c9b1e44321543e8d2df7ffa6b74875",
+    nome: "Luminária Projetor Estrela 360º Galaxy",
+    descricao: "Luminária Projetor Estrela 360º Galaxy",
+    alt: "Luminária Projetor Estrela 360º Galaxy",
+    linkDeCompra: "https://s.shopee.com.br/pb24BWTL",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rbll-llpdpz5hrn0r18",
     nome: "Kit 10 Camisetas Dry Fit Masculina",
     descricao: "Kit 10 Camisetas Dry Fit Masculina",
