@@ -3,6 +3,56 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lujtfnzf2s11c1",
+    nome: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
+    descricao: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
+    alt: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
+    linkDeCompra: "https://s.shopee.com.br/B94CVJ7y6",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/d31327001fd6fc1d7fb084101a606296",
+    nome: "Vassoura Emborrachada Multiuso 2 em 1",
+    descricao: "Vassoura Emborrachada Multiuso 2 em 1",
+    alt: "Vassoura Emborrachada Multiuso 2 em 1",
+    linkDeCompra: "https://s.shopee.com.br/6AQHMG4Mx6",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lkkz66h8fr2rb2",
+    nome: "Conjunto 5 Potes de Vidro Hermeticos com Tampa Armazenamento",
+    descricao: "Conjunto 5 Potes de Vidro Hermeticos com Tampa Armazenamento",
+    alt: "Conjunto 5 Potes de Vidro Hermeticos com Tampa Armazenamento",
+    linkDeCompra: "https://s.shopee.com.br/8KUlvZHUDQ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/84cc4690d03616f8ad6f9144b5e28557",
+    nome: "Organizador Multiuso Plasutil Geladeira Dispensa Cozinha Guarda e Conserva",
+    descricao: "Organizador Multiuso Plasutil Geladeira Dispensa Cozinha Guarda e Conserva",
+    alt: "Organizador Multiuso Plasutil Geladeira Dispensa Cozinha Guarda e Conserva",
+    linkDeCompra: "https://s.shopee.com.br/5pnQwwNLKl",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/ff9798595fe07590713fd810f4166091",
+    nome: "Organizador De Condimentos Cozinha Montado Na Parede Louça De Mesa Suprimentos De Armazenamento",
+    descricao: "Organizador De Condimentos Cozinha Montado Na Parede Louça De Mesa Suprimentos De Armazenamento",
+    alt: "Organizador De Condimentos Cozinha Montado Na Parede Louça De Mesa Suprimentos De Armazenamento",
+    linkDeCompra: "https://s.shopee.com.br/AKFqJE1PNT",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rcds-ltfc0m7lb5ft3a",
     nome: "Escova A Vapor 3 Em 1 Autolimpante Para Massagem De Cães E Gatos",
     descricao: "Escova A Vapor 3 Em 1 Autolimpante Para Massagem De Cães E Gatos",
