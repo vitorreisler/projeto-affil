@@ -43,6 +43,56 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lerw6vnh4f1bfa",
+    nome: "Kit 3 Short Feminino Fitness",
+    descricao: "Kit 3 Short Feminino Fitness",
+    alt: "Kit 3 Short Feminino Fitness",
+    linkDeCompra: "https://s.shopee.com.br/7zruAkby4W",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/f5f240c11f971f7509e9ec542fb1079b",
+    nome: "Shorts feminino Cintura Alta",
+    descricao: "Shorts feminino Cintura Alta",
+    alt: "Shorts feminino Cintura Alta",
+    linkDeCompra: "https://s.shopee.com.br/2Au7EFwmXd",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-22110-pzlp47wqohkv32",
+    nome: "Kit 2 Short Anágua Liso Segunda Pele Feminino",
+    descricao: "Kit 2 Short Anágua Liso Segunda Pele Feminino",
+    alt: "Kit 2 Short Anágua Liso Segunda Pele Feminino",
+    linkDeCompra: "https://s.shopee.com.br/1fxqdTqeN4",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltm231psvpywdc",
+    nome: "Short Feminino Cinto Fivela",
+    descricao: "Short Feminino Cinto Fivela",
+    alt: "Short Feminino Cinto Fivela",
+    linkDeCompra: "https://s.shopee.com.br/9KNHlmDwyR",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-ljc4gmhx5lbpe2",
+    nome: "Bermuda Jeans Masculina",
+    descricao: "Bermuda Jeans Masculina",
+    alt: "Bermuda Jeans Masculina",
+    linkDeCompra: "https://s.shopee.com.br/LST2PFsbT",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/d31327001fd6fc1d7fb084101a606296",
     nome: "Vassoura Emborrachada Multiuso 2 em 1",
     descricao: "Vassoura Emborrachada Multiuso 2 em 1",
