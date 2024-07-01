@@ -13,6 +13,16 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/e2ef241d9b83e156e5740168af41290f",
+    nome: "Escorredor de Pratos Suspenso de Parede dobravel",
+    descricao: "Escorredor de Pratos Suspenso de Parede dobravel",
+    alt: "Escorredor de Pratos Suspenso de Parede dobravel",
+    linkDeCompra: "https://s.shopee.com.br/2fqR0WFfXN",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltwjwwwq5uudff",
     nome: "Capa Para Colchão Impermeavel Matelado Com Elastico",
     descricao: "Capa Para Colchão Impermeavel Matelado Com Elastico",
