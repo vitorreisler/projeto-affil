@@ -3,6 +3,16 @@ export const produtosHotmart = [
     {
       id: uuidv4() ,
       urlImg:
+        "https://lirp.cdn-website.com/e48040b8/dms3rep/multi/opt/5-bc856579-458w.jpg",
+      nome: "Canva Flix",
+      descricao: "Canva Flix",
+      alt: "Canva Flix",
+      linkDeCompra: "https://go.hotmart.com/X94082714P",
+      categoria : ""
+    },
+    {
+      id: uuidv4() ,
+      urlImg:
         "https://static-media.hotmart.com/-e8w0dqYBduTTaNBGcKbASrHCJs=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/d7c81bb7-28c4-40ee-b04c-87b02684b165/Textodoseupargrafo1.png?w=920",
       nome: "Natflix Fitness",
       descricao: "FINALMENTE você encontrou um método de treinamento de fácil adesão, dinâmico, descomplicado, divertido",
@@ -40,6 +50,17 @@ export const produtosHotmart = [
       linkDeCompra: "https://go.hotmart.com/E93351293A",
       categoria : ""
     },
+    {
+      id: uuidv4() ,
+      urlImg:
+        "https://static-media.hotmart.com/84LQto6P4UgYGfKUgd4guvNGrOo=/filters:background_color(white)/hotmart/product_pictures/e420f680-f46f-42aa-a618-0b8f94b9e416/Course_Image01_580x320.jpg",
+      nome: "Curso de eletrônica geral",
+      descricao: "Curso de eletrônica geral",
+      alt: "Curso de eletrônica geral",
+      linkDeCompra: "https://go.hotmart.com/A94083148W",
+      categoria : ""
+    },
+   
     {
       id: uuidv4() ,
       urlImg:

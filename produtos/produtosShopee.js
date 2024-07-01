@@ -13,6 +13,36 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltwjwwwq5uudff",
+    nome: "Capa Para Colchão Impermeavel Matelado Com Elastico",
+    descricao: "Capa Para Colchão Impermeavel Matelado Com Elastico",
+    alt: "Capa Para Colchão Impermeavel Matelado Com Elastico",
+    linkDeCompra: "https://s.shopee.com.br/2fqQnU38v9",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltwv86x235uo14",
+    nome: "Calça Masculina Jogger Esportiva para treinos e Academia",
+    descricao: "Calça Masculina Jogger Esportiva para treinos e Academia",
+    alt: "Calça Masculina Jogger Esportiva para treinos e Academia",
+    linkDeCompra: "https://s.shopee.com.br/4VI4yvKsRw",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lp8ryycum8ut4f",
+    nome: "Kit 5 Cueca Samba Canção Masculino",
+    descricao: "Kit 5 Cueca Samba Canção Masculino",
+    alt: "Kit 5 Cueca Samba Canção Masculino",
+    linkDeCompra: "https://s.shopee.com.br/2AuAChNx0Y",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/d31327001fd6fc1d7fb084101a606296",
     nome: "Vassoura Emborrachada Multiuso 2 em 1",
     descricao: "Vassoura Emborrachada Multiuso 2 em 1",

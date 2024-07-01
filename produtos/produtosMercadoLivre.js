@@ -23,6 +23,16 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_915608-MLU70080882478_062023-F.webp",
+    nome: "Repetidor De Sinal Wifi Amplificador Potente Sem Fio Turbo",
+    descricao: "Repetidor De Sinal Wifi Amplificador Potente Sem Fio Turbo ",
+    alt: "Repetidor De Sinal Wifi Amplificador Potente Sem Fio Turbo ",
+    linkDeCompra: "https://mercadolivre.com/sec/23jofeX",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_967903-MLA43465119543_092020-F.webp",
     nome: "Papel Higiênico Supreme Folha Tripla 24 Rolos Neve",
     descricao: "Papel Higiênico Supreme Folha Tripla 24 Rolos Neve",
