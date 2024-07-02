@@ -3,11 +3,71 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-23030-vbhazp81y4nv83",
+    nome: "Escova Removedora Tira Pelos Dos Pets Cães E Gatos",
+    descricao: "Escova Removedora Tira Pelos Dos Pets Cães E Gatos",
+    alt: "Escova Removedora Tira Pelos Dos Pets Cães E Gatos",
+    linkDeCompra: "https://s.shopee.com.br/30THTuZceo",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lujtfnzf2s11c1",
     nome: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
     descricao: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
     alt: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
     linkDeCompra: "https://s.shopee.com.br/B94CVJ7y6",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/2b08fd6e6f605ce1e832fb5f583cfcea",
+    nome: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
+    descricao: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
+    alt: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
+    linkDeCompra: "https://s.shopee.com.br/4VI5G5QiZP",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lkku7qj13zdf5e",
+    nome: "Luminária Abajur de Mesa LED Luz Recarregável",
+    descricao: "Luminária Abajur de Mesa LED Luz Recarregável",
+    alt: "Luminária Abajur de Mesa LED Luz Recarregável",
+    linkDeCompra: "https://s.shopee.com.br/AKFsCu25Sy",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lkbl1phsc821fe",
+    nome: "Luminária De Lua Cheia 3d Led Abajur Decoração",
+    descricao: "Luminária De Lua Cheia 3d Led Abajur Decoração",
+    alt: "Luminária De Lua Cheia 3d Led Abajur Decoração",
+    linkDeCompra: "https://s.shopee.com.br/3L67s7Hz90",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-23020-z2og9fggpanve0",
+    nome: "Luminária De Led Sobrepor Bastão Recarregável Sem Fio Com Suporte Magnético E Touch",
+    descricao: "Luminária De Led Sobrepor Bastão Recarregável Sem Fio Com Suporte Magnético E Touch",
+    alt: "Luminária De Led Sobrepor Bastão Recarregável Sem Fio Com Suporte Magnético E Touch",
+    linkDeCompra: "https://s.shopee.com.br/7fF72E27Cm",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-22120-8k9tem5xaalv08",
+    nome: "Aderência de mão Hand grip 5-60KG",
+    descricao: "Aderência de mão Hand grip 5-60KG",
+    alt: "Aderência de mão Hand grip 5-60KG",
+    linkDeCompra: "https://s.shopee.com.br/4AfErvL4mE",
     categoria: "",
   },
   {
