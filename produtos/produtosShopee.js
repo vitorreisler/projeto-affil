@@ -3,6 +3,56 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltwtcr875cic34",
+    nome: "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
+    descricao: "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
+    alt: "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
+    linkDeCompra: "https://s.shopee.com.br/2VX2DNogwW",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvlyuuc5ktb603",
+    nome: "Conjunto de Mesinhas Canto E Apoio Pe Palito",
+    descricao: "Conjunto de Mesinhas Canto E Apoio Pe Palito",
+    alt: "Conjunto de Mesinhas Canto E Apoio Pe Palito",
+    linkDeCompra: "https://s.shopee.com.br/6KjkoL1Mjn",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lko80pnpi8o85c",
+    nome: "Armário Carrinho Multiuso Com 4 Camadas",
+    descricao: "Armário Carrinho Multiuso Com 4 Camadas",
+    alt: "Armário Carrinho Multiuso Com 4 Camadas",
+    linkDeCompra: "https://s.shopee.com.br/1LL4qsVfOw",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/df9b78d28baa2b99c43e6196c95bd0b1",
+    nome: "Kit 10 Espelho Adesivo Decorativo Hexágono 12x10cm",
+    descricao: "Kit 10 Espelho Adesivo Decorativo Hexágono 12x10cm",
+    alt: "Kit 10 Espelho Adesivo Decorativo Hexágono 12x10cm",
+    linkDeCompra: "https://s.shopee.com.br/8pR5mDj5O3",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvg1suov7f3bda",
+    nome: "Kit 4 Tapetes Soft para Banheiro",
+    descricao: "Kit 4 Tapetes Soft para Banheiro",
+    alt: "Kit 4 Tapetes Soft para Banheiro",
+    linkDeCompra: "https://s.shopee.com.br/8ABOyu5iOt",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-23030-vbhazp81y4nv83",
     nome: "Escova Removedora Tira Pelos Dos Pets Cães E Gatos",
     descricao: "Escova Removedora Tira Pelos Dos Pets Cães E Gatos",
