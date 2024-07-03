@@ -3,11 +3,81 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwyf4h6nq7cv9b",
+    nome: "Conjunto Social Feminino 3 Peças Blazer + cropped + short",
+    descricao: "Conjunto Social Feminino 3 Peças Blazer + cropped + short",
+    alt: "Conjunto Social Feminino 3 Peças Blazer + cropped + short",
+    linkDeCompra: "https://s.shopee.com.br/8UoHSSrDWs",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rccv-lsa5ml6t8lc4ff",
+    nome: "Cobertor Manta Casal Macio 2,00X1,80 Microfibra",
+    descricao: "Cobertor Manta Casal Macio 2,00X1,80 Microfibra",
+    alt: "Cobertor Manta Casal Macio 2,00X1,80 Microfibra",
+    linkDeCompra: "https://s.shopee.com.br/8zkY3YomyA",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lkvetf5wiycyfe",
+    nome: "Café com Deus Pai - Porções diárias de Renovação",
+    descricao: "Café com Deus Pai - Porções diárias de Renovação",
+    alt: "Café com Deus Pai - Porções diárias de Renovação",
+    linkDeCompra: "https://s.shopee.com.br/50EPN3f9ZS",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltwtcr875cic34",
     nome: "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
     descricao: "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
     alt: "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
     linkDeCompra: "https://s.shopee.com.br/2VX2DNogwW",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-23030-4cb0m6tksdovc0",
+    nome: "Kit 3 Mini Vasinhos com FLOR artificial",
+    descricao: "Kit 3 Mini Vasinhos com FLOR artificial",
+    alt: "Kit 3 Mini Vasinhos com FLOR artificial",
+    linkDeCompra: "https://s.shopee.com.br/1B1gjUkD49",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqovlfxp5kwvfe",
+    nome: "Kit com 2 Regatas Masculina Longline em Dry com Capuz ",
+    descricao: "Kit com 2 Regatas Masculina Longline em Dry com Capuz ",
+    alt: "Kit com 2 Regatas Masculina Longline em Dry com Capuz ",
+    linkDeCompra: "https://s.shopee.com.br/6AQMdw3S5o",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv263el2t2g9b9",
+    nome: "Regata Masculina Long Costa Nadador Militar Cavada ",
+    descricao: "Regata Masculina Long Costa Nadador Militar Cavada ",
+    alt: "Regata Masculina Long Costa Nadador Militar Cavada ",
+    linkDeCompra: "https://s.shopee.com.br/qOqInBf7s",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-ljstkz11rgju34",
+    nome: "bermuda e shorts 2 em 1 academia ",
+    descricao: "bermuda e shorts 2 em 1 academia ",
+    alt: "bermuda e shorts 2 em 1 academia ",
+    linkDeCompra: "https://s.shopee.com.br/9UgocELN2o",
     categoria: "",
   },
   {

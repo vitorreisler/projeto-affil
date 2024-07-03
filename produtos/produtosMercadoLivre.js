@@ -3,6 +3,36 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_706067-MLU70011839962_062023-F.webp",
+    nome: "Areia Sanitária para Gatos Classic Pipicat Pacote 4kg",
+    descricao: "Areia Sanitária para Gatos Classic Pipicat Pacote 4kg",
+    alt: "Areia Sanitária para Gatos Classic Pipicat Pacote 4kg",
+    linkDeCompra: "https://mercadolivre.com/sec/2rRJXkw",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_623574-MLA76926627271_062024-F.webp",
+    nome: "Gel Creme Rápida Absorção Com Aloe Vera Cetaphil 453g",
+    descricao: "Gel Creme Rápida Absorção Com Aloe Vera Cetaphil 453g",
+    alt: "Gel Creme Rápida Absorção Com Aloe Vera Cetaphil 453g",
+    linkDeCompra: "https://mercadolivre.com/sec/2udi9qr",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_910327-MLU69484805758_052023-F.webp",
+    nome: "Prancha De Cabelo Taiff - Elegance Red Íon 200ºc Bivolt Cor Preto 110V/220V",
+    descricao: "Prancha De Cabelo Taiff - Elegance Red Íon 200ºc Bivolt Cor Preto 110V/220V",
+    alt: "Prancha De Cabelo Taiff - Elegance Red Íon 200ºc Bivolt Cor Preto 110V/220V",
+    linkDeCompra: "https://mercadolivre.com/sec/1SKcjtA",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_785332-MLA74651907100_022024-F.webp",
     nome: "Garrafa térmica Termolar Lúmina Bomba de Pressão de vidro 1L",
     descricao: "Garrafa térmica Termolar Lúmina Bomba de Pressão de vidro 1L",

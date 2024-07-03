@@ -2,13 +2,33 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/812uFHrZPDL._AC_SL1500_.jpg",
-    nome: "Lola Cosmetics, 25834, Morte Súbita - Máscara Super Hidratante, 450g",
+    urlImg: "https://m.media-amazon.com/images/I/61i2HM5i97L._AC_SL1500_.jpg",
+    nome: "Chocolate Sonho de Valsa Pacote 1Kg",
     descricao:
-      "Lola Cosmetics, 25834, Morte Súbita - Máscara Super Hidratante, 450g",
-    alt: "Lola Cosmetics, 25834, Morte Súbita - Máscara Super Hidratante, 450g",
-    linkDeCompra: "https://amzn.to/4eBovxU",
-    categoria: "Beleza",
+      "Chocolate Sonho de Valsa Pacote 1Kg",
+    alt: "Chocolate Sonho de Valsa Pacote 1Kg",
+    linkDeCompra: "https://amzn.to/3VXSsQy",
+    categoria: "Alimento",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71hFk5aKMYL._AC_SL1500_.jpg",
+    nome: "Bis Original Ao Leite - Kit com 3 unidades de 100,8g",
+    descricao:
+      "Bis Original Ao Leite - Kit com 3 unidades de 100,8g",
+    alt: "Bis Original Ao Leite - Kit com 3 unidades de 100,8g",
+    linkDeCompra: "https://amzn.to/3XQklMP",
+    categoria: "Alimento",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51CL2s7YMEL._AC_SL1074_.jpg",
+    nome: "Whisky Johnnie Walker Black Label 12 Anos 1L",
+    descricao:
+      "Whisky Johnnie Walker Black Label 12 Anos 1L",
+    alt: "Whisky Johnnie Walker Black Label 12 Anos 1L",
+    linkDeCompra: "https://amzn.to/4bxjwMb",
+    categoria: "Alimento",
   },
   {
     id: uuidv4(),
