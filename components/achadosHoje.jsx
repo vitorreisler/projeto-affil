@@ -7,11 +7,11 @@ const AchadosHoje = () => {
   return (
     <>
       <h1 className="text-3xl">Achadinhos de Hoje</h1>
-      <section className=" gap-5 grid grid-cols-1 p-3 md:grid-cols-3 md:items-center md:p-8 border border-gray-200 rounded-lg shadow-md w-full ">
+      <section className=" gap-5 p-3 flex flex-wrap justify-center sm:items-center md:p-8 border border-gray-200 rounded-lg shadow-md w-full ">
         {achadosHoje.map(
           ({ id, urlImg, nome, descricao, alt, linkDeCompra, plataforma }) => {
             return (
-              <div key={id} className=" flex flex-col items-center border max-w-[250px] border-gray-200 ">
+              <div key={id} className=" flex flex-col items-center border max-w-[250px] border-gray-200 rounded-md duration-500 hover:scale-105  ">
                 <a target="_blank" href={linkDeCompra}>
                   <img
                     src={urlImg}
@@ -19,7 +19,7 @@ const AchadosHoje = () => {
                     alt={alt}
                   />
                 </a>
-                <a href={linkDeCompra}>
+                <a href={linkDeCompra} className="p-3">
                 <h4
                   className={`mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white ${
                     nome.length > 30
@@ -29,10 +29,6 @@ const AchadosHoje = () => {
                 >
                   {nome}
                 </h4>
-
-                </a>
-
-
                 <p
                   className={`mb-3 font-normal text-gray-700 dark:text-gray-400  ${
                     descricao.length < 30
@@ -43,6 +39,10 @@ const AchadosHoje = () => {
                   {" "}
                   {descricao}
                 </p>
+
+                </a>
+
+
 
                 {plataforma === "" ? (
                   " "
