@@ -13,6 +13,16 @@ export const produtosHotmart = [
     {
       id: uuidv4() ,
       urlImg:
+        "https://static-media.hotmart.com/xVG83HBjCVb3S4ZtKVXkydUTHU8=/295x165/smart/filters:quality(100)/hotmart/product_pictures/9b28add3-55c5-435e-8d95-31e894d9db16/thumbyoutubesemaparecerhotmart.png",
+      nome: "YouTube sem aparecer",
+      descricao: "YouTube sem aparecer",
+      alt: "YouTube sem aparecer",
+      linkDeCompra: "https://go.hotmart.com/B94087717Y",
+      categoria : ""
+    },
+    {
+      id: uuidv4() ,
+      urlImg:
         "https://static-media.hotmart.com/-e8w0dqYBduTTaNBGcKbASrHCJs=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/d7c81bb7-28c4-40ee-b04c-87b02684b165/Textodoseupargrafo1.png?w=920",
       nome: "Natflix Fitness",
       descricao: "FINALMENTE você encontrou um método de treinamento de fácil adesão, dinâmico, descomplicado, divertido",
