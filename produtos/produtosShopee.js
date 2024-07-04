@@ -13,6 +13,26 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-23020-zihjyjcc32mv41",
+    nome: "Cabeceira de Cama Casal 1,40 Estofada Branco Courino Semi Sintético Modelo Bia",
+    descricao: "Cabeceira de Cama Casal 1,40 Estofada Branco Courino Semi Sintético Modelo Bia",
+    alt: "Cabeceira de Cama Casal 1,40 Estofada Branco Courino Semi Sintético Modelo Bia",
+    linkDeCompra: "https://s.shopee.com.br/1VeXBxZqFO",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lfr93p7xagzj2a",
+    nome: "Conjunto Feminino de Moletom Calça Jogger e Cropped Com Capuz",
+    descricao: "Conjunto Feminino de Moletom Calça Jogger e Cropped Com Capuz",
+    alt: "Conjunto Feminino de Moletom Calça Jogger e Cropped Com Capuz",
+    linkDeCompra: "https://s.shopee.com.br/4VI8lHgT2o",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rccv-lsa5ml6t8lc4ff",
     nome: "Cobertor Manta Casal Macio 2,00X1,80 Microfibra",
     descricao: "Cobertor Manta Casal Macio 2,00X1,80 Microfibra",

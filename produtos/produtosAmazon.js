@@ -2,6 +2,16 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71kvvuuKK3L._AC_SL1500_.jpg",
+    nome: "Filtro de Linha Power Line de 6 tomadas em Gabinete Plástico",
+    descricao:
+      "Filtro de Linha Power Line de 6 tomadas em Gabinete Plástico",
+    alt: "Filtro de Linha Power Line de 6 tomadas em Gabinete Plástico",
+    linkDeCompra: "https://amzn.to/4buhso6",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61i2HM5i97L._AC_SL1500_.jpg",
     nome: "Chocolate Sonho de Valsa Pacote 1Kg",
     descricao:
