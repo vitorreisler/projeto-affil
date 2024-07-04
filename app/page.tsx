@@ -2,6 +2,8 @@
 import { useEffect, useState } from "react";
 import Categorias from "../components/categorias";
 import Review from "../components/review";
+import AchadosHoje from "../components/achadosHoje";
+
 
 export default function Home() {
   const [isSmallScreen, setIsSmallScreen] = useState(false);
@@ -25,6 +27,7 @@ export default function Home() {
       )}
 
       <section className="flex flex-col items-center justify-center mx-auto gap-4 max-w-7xl pt-5 px-6 flex-grow">
+        <AchadosHoje />
         <Categorias />
         <Review />
       </section>

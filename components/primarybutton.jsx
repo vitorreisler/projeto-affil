@@ -3,7 +3,7 @@ const PrimaryButton = ({linkDeCompra, msgDoButton}) => {
         <a
           target="_blank"
           href={linkDeCompra}
-          className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-black bg-yellow-300 rounded-lg hover:bg-yellow-200 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-yellow-300 dark:hover:bg-yellow-500 dark:focus:ring-yellow-500"
+          className="inline-flex items-center px-3 py-2 my-3 text-sm font-medium text-center text-black bg-yellow-300 rounded-lg hover:bg-yellow-200 focus:ring-4 focus:outline-none focus:ring-yellow-400 dark:bg-yellow-300 dark:hover:bg-yellow-500 dark:focus:ring-yellow-500"
         >
           {msgDoButton}
           <svg
