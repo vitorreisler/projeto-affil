@@ -11,11 +11,11 @@ const AchadosHoje = () => {
         {achadosHoje.map(
           ({ id, urlImg, nome, descricao, alt, linkDeCompra, plataforma }) => {
             return (
-              <div key={id} className=" flex flex-col items-center border max-w-[250px] border-gray-200 rounded-md duration-500 hover:scale-105  ">
-                <a target="_blank" href={linkDeCompra}>
+              <div key={id} className="max-w-[250px] flex flex-col items-center border border-gray-200 shadow-md rounded-md duration-500 hover:scale-105  ">
+                <a target="_blank" href={linkDeCompra} >
                   <img
                     src={urlImg}
-                    className="h-[150px] object-cover"
+                    className="h-[235px] rounded-t-md"
                     alt={alt}
                   />
                 </a>

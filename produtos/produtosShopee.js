@@ -3,6 +3,46 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98r-llmj5xue9djn36",
+    nome: "Mop Spray Rodo Prático Eficiente",
+    descricao: "Mop Spray Rodo Prático Eficiente",
+    alt: "Mop Spray Rodo Prático Eficiente",
+    linkDeCompra: "https://s.shopee.com.br/9f0Gai2Sp6",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqzi5qdaizvoa9",
+    nome: "Kit 20 Pote Plástico Hermético + Jarra Vasilhas Conjunto de Potes",
+    descricao: "Kit 20 Pote Plástico Hermético + Jarra Vasilhas Conjunto de Potes",
+    alt: "Kit 20 Pote Plástico Hermético + Jarra Vasilhas Conjunto de Potes",
+    linkDeCompra: "https://s.shopee.com.br/5AXrEEOmH7",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lua3qwndlxlsfa",
+    nome: "Kit 3 Vegas Pendentes Lustre Estilo Arandela",
+    descricao: "Kit 3 Vegas Pendentes Lustre Estilo Arandela",
+    alt: "Kit 3 Vegas Pendentes Lustre Estilo Arandela",
+    linkDeCompra: "https://s.shopee.com.br/9UgqOJN7Ys",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltfdrav9065lb5",
+    nome: "Sapateira 4 andares",
+    descricao: "Sapateira 4 andares",
+    alt: "Sapateira 4 andares",
+    linkDeCompra: "https://s.shopee.com.br/1qHPGRKntg",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwyf4h6nq7cv9b",
     nome: "Conjunto Social Feminino 3 Peças Blazer + cropped + short",
     descricao: "Conjunto Social Feminino 3 Peças Blazer + cropped + short",

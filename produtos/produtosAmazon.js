@@ -2,6 +2,46 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71zlH2tQTPL._AC_SL1500_.jpg",
+    nome: "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m",
+    descricao:
+      "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m",
+    alt: "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m",
+    linkDeCompra: "https://amzn.to/3XLLdgY",
+    categoria: "Construção",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61XZlLdPRbL._AC_SL1500_.jpg",
+    nome: "Wifi Hd 1080p A8 Câmera de Segurança, Câmera Ip Icsee Prova D'água Infravermelho Externa（Smartcamera-A08）",
+    descricao:
+      "Wifi Hd 1080p A8 Câmera de Segurança, Câmera Ip Icsee Prova D'água Infravermelho Externa（Smartcamera-A08）",
+    alt: "Wifi Hd 1080p A8 Câmera de Segurança, Câmera Ip Icsee Prova D'água Infravermelho Externa（Smartcamera-A08）",
+    linkDeCompra: "https://amzn.to/3LgGiwQ",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/514SAWMycXL._AC_SL1200_.jpg",
+    nome: "Mini Lanterna Tatica Led Alumínio Super Forte Recarregavel Usb",
+    descricao:
+      "Mini Lanterna Tatica Led Alumínio Super Forte Recarregavel Usb",
+    alt: "Mini Lanterna Tatica Led Alumínio Super Forte Recarregavel Usb",
+    linkDeCompra: "https://amzn.to/3RUsgop",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71nc0hjm8PL._AC_SL1500_.jpg",
+    nome: "HESIMING Kit adaptador USB C para Lightning, conversor de capa de cabo de",
+    descricao:
+      "HESIMING Kit adaptador USB C para Lightning, conversor de capa de cabo de",
+    alt: "HESIMING Kit adaptador USB C para Lightning, conversor de capa de cabo de",
+    linkDeCompra: "https://amzn.to/3xN0a7P",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71kvvuuKK3L._AC_SL1500_.jpg",
     nome: "Filtro de Linha Power Line de 6 tomadas em Gabinete Plástico",
     descricao:

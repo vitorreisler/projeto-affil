@@ -3,6 +3,46 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_685597-MLA70302947178_072023-F.webp",
+    nome: "Calvin Klein CK All Tradicional EDT 100ml para sem gênero",
+    descricao: "Calvin Klein CK All Tradicional EDT 100ml para sem gênero",
+    alt: "Calvin Klein CK All Tradicional EDT 100ml para sem gênero",
+    linkDeCompra: "https://mercadolivre.com/sec/2vcVEQZ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_801146-MLU77161624280_072024-F.webp",
+    nome: "Aparador De Pelos Super Groom 10 Bg-03 Mondial",
+    descricao: "Aparador De Pelos Super Groom 10 Bg-03 Mondial",
+    alt: "Aparador De Pelos Super Groom 10 Bg-03 Mondial",
+    linkDeCompra: "https://mercadolivre.com/sec/1nNsdFs",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_837429-MLU72642575761_112023-F.webp",
+    nome: "Spray Rapunzel - Tônico Capilar 230ml Lola Cosmetics",
+    descricao: "Spray Rapunzel - Tônico Capilar 230ml Lola Cosmetics",
+    alt: "Spray Rapunzel - Tônico Capilar 230ml Lola Cosmetics",
+    linkDeCompra: "https://mercadolivre.com/sec/2yCwEQL",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_736786-MLB53436588181_012023-F.webp",
+    nome: "Máquina De Cortar Cabelo Fazer Barba Acabamento Dragão",
+    descricao: "Máquina De Cortar Cabelo Fazer Barba Acabamento Dragão",
+    alt: "Máquina De Cortar Cabelo Fazer Barba Acabamento Dragão",
+    linkDeCompra: "https://mercadolivre.com/sec/1NerjNP",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_706067-MLU70011839962_062023-F.webp",
     nome: "Areia Sanitária para Gatos Classic Pipicat Pacote 4kg",
     descricao: "Areia Sanitária para Gatos Classic Pipicat Pacote 4kg",
