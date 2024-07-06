@@ -3,6 +3,46 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-23020-u15sal8wl9mv6e",
+    nome: "Cortina Blackout 2,00 x 1,40 Metros Corta 100% a Luz Com Tecido Voal Liso  ",
+    descricao: "Cortina Blackout 2,00 x 1,40 Metros Corta 100% a Luz Com Tecido Voal Liso  ",
+    alt: "Cortina Blackout 2,00 x 1,40 Metros Corta 100% a Luz Com Tecido Voal Liso  ",
+    linkDeCompra: "https://s.shopee.com.br/A9wYZJg08I",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lobc4n4pzj648d",
+    nome: "Kit Com 4 Unidades Enchimento Almofada Refil 45x45 Silicone ANTIALÉRGICO",
+    descricao: "Kit Com 4 Unidades Enchimento Almofada Refil 45x45 Silicone ANTIALÉRGICO",
+    alt: "Kit Com 4 Unidades Enchimento Almofada Refil 45x45 Silicone ANTIALÉRGICO",
+    linkDeCompra: "https://s.shopee.com.br/9f0HyJRhsg",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-22120-16k3wt9hwjlv7c",
+    nome: "Kit Quadros Decorativos para Decoração de Quarto Sala Casa Cozinha + Frase Abençoados por Deus",
+    descricao: "Kit Quadros Decorativos para Decoração de Quarto Sala Casa Cozinha + Frase Abençoados por Deus",
+    alt: "Kit Quadros Decorativos para Decoração de Quarto Sala Casa Cozinha + Frase Abençoados por Deus",
+    linkDeCompra: "https://s.shopee.com.br/6Kjq08Jbrl",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ls32k159tmwr89",
+    nome: "Penteadeira 50x30 Escrivaninha Suspensa Organizadora Maquiagens Quarto 100% MDF",
+    descricao: "Penteadeira 50x30 Escrivaninha Suspensa Organizadora Maquiagens Quarto 100% MDF",
+    alt: "Penteadeira 50x30 Escrivaninha Suspensa Organizadora Maquiagens Quarto 100% MDF",
+    linkDeCompra: "https://s.shopee.com.br/6zzWnDByc5",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98r-llmj5xue9djn36",
     nome: "Mop Spray Rodo Prático Eficiente",
     descricao: "Mop Spray Rodo Prático Eficiente",

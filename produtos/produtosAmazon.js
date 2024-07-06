@@ -2,6 +2,26 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71ls0w+LdGL._AC_SL1500_.jpg",
+    nome: "Roku Express | Dispositivo de streaming para TV HD/Full HD compatível com Alexa, Siri e Google. Inclui Cabo HDMI Premium",
+    descricao:
+      "Roku Express | Dispositivo de streaming para TV HD/Full HD compatível com Alexa, Siri e Google. Inclui Cabo HDMI Premium",
+    alt: "Roku Express | Dispositivo de streaming para TV HD/Full HD compatível com Alexa, Siri e Google. Inclui Cabo HDMI Premium",
+    linkDeCompra: "https://amzn.to/3RVrt6X",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51strPHxyuL._AC_SL1000_.jpg",
+    nome: "G-Tech Balgl10 Balança Digital em Vidro Temperado, Transparente",
+    descricao:
+      "G-Tech Balgl10 Balança Digital em Vidro Temperado, Transparente",
+    alt: "G-Tech Balgl10 Balança Digital em Vidro Temperado, Transparente",
+    linkDeCompra: "https://amzn.to/3VKJANW",
+    categoria: "Saúde",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71zlH2tQTPL._AC_SL1500_.jpg",
     nome: "Scotch, 3M, Fixa Forte, Fita Dupla Face, Fixação Extrema, 24mm x 2m",
     descricao:

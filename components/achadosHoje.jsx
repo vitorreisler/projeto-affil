@@ -3,7 +3,6 @@ import Card from "./card";
 import PrimaryButton from "./primarybutton";
 
 const AchadosHoje = () => {
-  console.log(achadosHoje);
   return (
     <>
       <h1 className="text-3xl">Achadinhos de Hoje</h1>
@@ -19,7 +18,7 @@ const AchadosHoje = () => {
                     alt={alt}
                   />
                 </a>
-                <a href={linkDeCompra} className="p-3">
+                <a target="_blank" href={linkDeCompra} className="p-3">
                 <h4
                   className={`mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white ${
                     nome.length > 30

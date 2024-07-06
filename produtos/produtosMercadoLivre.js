@@ -3,6 +3,46 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_769256-MLU77340609219_062024-F.webp",
+    nome: "Conjunto De Panelas Caçarolas Polido Fortlar 5 Pçs. Cor Polida",
+    descricao: "Conjunto De Panelas Caçarolas Polido Fortlar 5 Pçs. Cor Polida",
+    alt: "Conjunto De Panelas Caçarolas Polido Fortlar 5 Pçs. Cor Polida",
+    linkDeCompra: "https://mercadolivre.com/sec/1J8m7z1",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_848839-MLU73551913063_122023-F.webp",
+    nome: "Rede De Descanso Dormir Casal Balanco Jeans Cor Preta",
+    descricao: "Rede De Descanso Dormir Casal Balanco Jeans Cor Preta",
+    alt: "Rede De Descanso Dormir Casal Balanco Jeans Cor Preta",
+    linkDeCompra: "https://mercadolivre.com/sec/31TJveh",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_828338-MLB74881640684_032024-F.webp",
+    nome: "Conjunto Sonic Infantil Homem Aranha Masculino Spider Man",
+    descricao: "Conjunto Sonic Infantil Homem Aranha Masculino Spider Man",
+    alt: "Conjunto Sonic Infantil Homem Aranha Masculino Spider Man",
+    linkDeCompra: "https://mercadolivre.com/sec/1vfJybE",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_679155-MLB74544823114_022024-F.webp",
+    nome: "Kit Whey Protein Bodybuilders 2kg + Bcaa + Creatina + Shaker",
+    descricao: "Kit Whey Protein Bodybuilders 2kg + Bcaa + Creatina + Shaker",
+    alt: "Kit Whey Protein Bodybuilders 2kg + Bcaa + Creatina + Shaker",
+    linkDeCompra: "https://mercadolivre.com/sec/22WY5dw",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_685597-MLA70302947178_072023-F.webp",
     nome: "Calvin Klein CK All Tradicional EDT 100ml para sem gênero",
     descricao: "Calvin Klein CK All Tradicional EDT 100ml para sem gênero",
