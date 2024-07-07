@@ -2,6 +2,26 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71PzO3BvlrL._AC_SL1409_.jpg",
+    nome: "Playskool, Boneco Mr. Potato Head Toy Story Buzz, Multicor",
+    descricao:
+      "Playskool, Boneco Mr. Potato Head Toy Story Buzz, Multicor",
+    alt: "Playskool, Boneco Mr. Potato Head Toy Story Buzz, Multicor",
+    linkDeCompra: "https://amzn.to/3VSbTKu",
+    categoria: "Brinquedo",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/41vpDxPet+L._AC_SL1080_.jpg",
+    nome: "Lousa Mágica Infantil Digital 10 Polegadas - Grande, Resistente a Queda, Caneta Inclusa, Diversão e Aprendizado para Crianças! (PRETO)",
+    descricao:
+      "Lousa Mágica Infantil Digital 10 Polegadas - Grande, Resistente a Queda, Caneta Inclusa, Diversão e Aprendizado para Crianças! (PRETO)",
+    alt: "Lousa Mágica Infantil Digital 10 Polegadas - Grande, Resistente a Queda, Caneta Inclusa, Diversão e Aprendizado para Crianças! (PRETO)",
+    linkDeCompra: "https://amzn.to/3xM8vZv",
+    categoria: "Brinquedo",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71ls0w+LdGL._AC_SL1500_.jpg",
     nome: "Roku Express | Dispositivo de streaming para TV HD/Full HD compatível com Alexa, Siri e Google. Inclui Cabo HDMI Premium",
     descricao:

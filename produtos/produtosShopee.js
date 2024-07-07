@@ -3,6 +3,46 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lje3bazqqhkv8e",
+    nome: "Kit 2 Travesseiros Penas E Plumas De Ganso Anti Alergico Material Sintético",
+    descricao: "Kit 2 Travesseiros Penas E Plumas De Ganso Anti Alergico Material Sintético",
+    alt: "Kit 2 Travesseiros Penas E Plumas De Ganso Anti Alergico Material Sintético",
+    linkDeCompra: "https://s.shopee.com.br/5AXtmisvv7",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/58137d3e76430589f73496c0c9cef6d6",
+    nome: "04 Fronhas De Cetim Anti Frizz (02 Pares) 70cm X 50cm",
+    descricao: "04 Fronhas De Cetim Anti Frizz (02 Pares) 70cm X 50cm",
+    alt: "04 Fronhas De Cetim Anti Frizz (02 Pares) 70cm X 50cm",
+    linkDeCompra: "https://s.shopee.com.br/4AfMbEJbaS",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lfu4v233y5xb93",
+    nome: "SPOT TRILHO 3 LAMPADAS DIRECIONAVEIS DE PLASTICO",
+    descricao: "SPOT TRILHO 3 LAMPADAS DIRECIONAVEIS DE PLASTICO",
+    alt: "SPOT TRILHO 3 LAMPADAS DIRECIONAVEIS DE PLASTICO",
+    linkDeCompra: "https://s.shopee.com.br/A9wZjMjqsS",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lr7hn7b9juij0f",
+    nome: "Edredom Casal Dupla Face Cobre Leito Queen + Lençol Queen Com Elastico 6 Peças Tecido Toque Macio",
+    descricao: "Edredom Casal Dupla Face Cobre Leito Queen + Lençol Queen Com Elastico 6 Peças Tecido Toque Macio",
+    alt: "Edredom Casal Dupla Face Cobre Leito Queen + Lençol Queen Com Elastico 6 Peças Tecido Toque Macio",
+    linkDeCompra: "https://s.shopee.com.br/6pg7l2fJzt",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134201-23020-u15sal8wl9mv6e",
     nome: "Cortina Blackout 2,00 x 1,40 Metros Corta 100% a Luz Com Tecido Voal Liso  ",
     descricao: "Cortina Blackout 2,00 x 1,40 Metros Corta 100% a Luz Com Tecido Voal Liso  ",

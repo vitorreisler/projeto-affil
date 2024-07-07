@@ -3,6 +3,26 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_672228-MLB76168405460_052024-F.webp",
+    nome: "Meia Calça De Lã Térmica Translúcida Forrada Pelinho Pelúcia",
+    descricao: "Meia Calça De Lã Térmica Translúcida Forrada Pelinho Pelúcia",
+    alt: "Meia Calça De Lã Térmica Translúcida Forrada Pelinho Pelúcia",
+    linkDeCompra: "https://mercadolivre.com/sec/1tJXxnT",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_632886-MLU75980405863_042024-F.webp",
+    nome: "Robô Aspirador De Pó Erb10 Preto Electrolux Bivolt 127V/220V",
+    descricao: "Robô Aspirador De Pó Erb10 Preto Electrolux Bivolt 127V/220V",
+    alt: "Robô Aspirador De Pó Erb10 Preto Electrolux Bivolt 127V/220V",
+    linkDeCompra: "https://mercadolivre.com/sec/18UYMv8",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_769256-MLU77340609219_062024-F.webp",
     nome: "Conjunto De Panelas Caçarolas Polido Fortlar 5 Pçs. Cor Polida",
     descricao: "Conjunto De Panelas Caçarolas Polido Fortlar 5 Pçs. Cor Polida",
