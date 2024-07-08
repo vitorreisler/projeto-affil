@@ -3,6 +3,26 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_751081-MLU77090104033_062024-F.webp",
+    nome: "Creatina Hardcore Monohidratada 300g Integral Médica Po Em Pote Sabor Neutro",
+    descricao: "Creatina Hardcore Monohidratada 300g Integral Médica Po Em Pote Sabor Neutro",
+    alt: "Creatina Hardcore Monohidratada 300g Integral Médica Po Em Pote Sabor Neutro",
+    linkDeCompra: "https://mercadolivre.com/sec/31PwtUF",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_762258-MLB72905087933_112023-F.webp",
+    nome: "Tenis Asics Revelation Leve Confortável Macio",
+    descricao: "Tenis Asics Revelation Leve Confortável Macio",
+    alt: "Tenis Asics Revelation Leve Confortável Macio",
+    linkDeCompra: "https://mercadolivre.com/sec/2RNWWne",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_672228-MLB76168405460_052024-F.webp",
     nome: "Meia Calça De Lã Térmica Translúcida Forrada Pelinho Pelúcia",
     descricao: "Meia Calça De Lã Térmica Translúcida Forrada Pelinho Pelúcia",

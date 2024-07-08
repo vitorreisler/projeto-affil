@@ -2,6 +2,26 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61Kw3+vAfpL._AC_.jpg",
+    nome: "Kit com 10 Adaptador De Tomada Benjamim Power Cubo Com 4 Entradas Multiplicador de Tomadas 10A 20A Até 250v",
+    descricao:
+      "Kit com 10 Adaptador De Tomada Benjamim Power Cubo Com 4 Entradas Multiplicador de Tomadas 10A 20A Até 250v",
+    alt: "Kit com 10 Adaptador De Tomada Benjamim Power Cubo Com 4 Entradas Multiplicador de Tomadas 10A 20A Até 250v",
+    linkDeCompra: "https://amzn.to/3xJKz9d",
+    categoria: "Escritório",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/31j4RSIQHDL._AC_.jpg",
+    nome: "Rodízio Kit 5 Rodinhas Para Cadeira De Escritório Giratória",
+    descricao:
+      "Rodízio Kit 5 Rodinhas Para Cadeira De Escritório Giratória",
+    alt: "Rodízio Kit 5 Rodinhas Para Cadeira De Escritório Giratória",
+    linkDeCompra: "https://amzn.to/4by5BoT",
+    categoria: "Escritório",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71PzO3BvlrL._AC_SL1409_.jpg",
     nome: "Playskool, Boneco Mr. Potato Head Toy Story Buzz, Multicor",
     descricao:

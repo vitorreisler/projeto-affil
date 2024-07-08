@@ -3,6 +3,46 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbn8-lmvty6kzppp5e5",
+    nome: "Bolsa Mala Esportiva",
+    descricao: "Bolsa Mala Esportiva",
+    alt: "Bolsa Mala Esportiva",
+    linkDeCompra: "https://s.shopee.com.br/2qA0OLSFgo",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/352cbc4419d08dec3395b19b90ca6702",
+    nome: "Bateria Portátil Power Bank 10.000mah Universal",
+    descricao: "Bateria Portátil Power Bank 10.000mah Universal",
+    alt: "Bateria Portátil Power Bank 10.000mah Universal",
+    linkDeCompra: "https://s.shopee.com.br/5pnbxnMqZL",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbm5-lokxrchxw3sa7a",
+    nome: "Lovito Bolsa de Ombro Pequena com Corrente para Mulheres",
+    descricao: "Lovito Bolsa de Ombro Pequena com Corrente para Mulheres",
+    alt: "Lovito Bolsa de Ombro Pequena com Corrente para Mulheres",
+    linkDeCompra: "https://s.shopee.com.br/40LxmN96lV",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rcdt-lqwm22hpdqaa09",
+    nome: "Bolsa Térmica Portátil Com Isolamento Térmico De Desenho Moda",
+    descricao: "Bolsa Térmica Portátil Com Isolamento Térmico De Desenho Moda",
+    alt: "Bolsa Térmica Portátil Com Isolamento Térmico De Desenho Moda",
+    linkDeCompra: "https://s.shopee.com.br/9zdAvKJZ7x",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lje3bazqqhkv8e",
     nome: "Kit 2 Travesseiros Penas E Plumas De Ganso Anti Alergico Material Sintético",
     descricao: "Kit 2 Travesseiros Penas E Plumas De Ganso Anti Alergico Material Sintético",
