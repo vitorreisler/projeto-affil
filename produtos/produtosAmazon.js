@@ -2,6 +2,26 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61YP-Xf2uzL._AC_SL1200_.jpg",
+    nome: "Suporte C/Rodinhas Base Ajustável Máquina Lavar Fogão Geladeira Móveis Resistente Reforçado",
+    descricao:
+      "Suporte C/Rodinhas Base Ajustável Máquina Lavar Fogão Geladeira Móveis Resistente Reforçado",
+    alt: "Suporte C/Rodinhas Base Ajustável Máquina Lavar Fogão Geladeira Móveis Resistente Reforçado",
+    linkDeCompra: "https://amzn.to/3zH5Z7i",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61nbiJ9iyTL._AC_SL1500_.jpg",
+    nome: "Pacote com 4 calços de borracha para pés de máquina de lavar, antivibração e anti-deslocamento",
+    descricao:
+      "Pacote com 4 calços de borracha para pés de máquina de lavar, antivibração e anti-deslocamento",
+    alt: "Pacote com 4 calços de borracha para pés de máquina de lavar, antivibração e anti-deslocamento",
+    linkDeCompra: "https://amzn.to/3RY79la",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61Kw3+vAfpL._AC_.jpg",
     nome: "Kit com 10 Adaptador De Tomada Benjamim Power Cubo Com 4 Entradas Multiplicador de Tomadas 10A 20A Até 250v",
     descricao:

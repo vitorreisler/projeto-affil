@@ -3,6 +3,26 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_608591-MLB51780544674_092022-F.webp",
+    nome: "Kit 2 Microfones Type C Profissional De Lapela Anti Ruído Cor Preto",
+    descricao: "Kit 2 Microfones Type C Profissional De Lapela Anti Ruído Cor Preto",
+    alt: "Kit 2 Microfones Type C Profissional De Lapela Anti Ruído Cor Preto",
+    linkDeCompra: "https://mercadolivre.com/sec/1KTd1Cw",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_729657-MLA74244419319_012024-F.webp",
+    nome: "Ring Light Iluminador Led Profissional 26cm Tripé 2,10m Estrutura Preto Luz Branco-frio 110V/220V",
+    descricao: "Ring Light Iluminador Led Profissional 26cm Tripé 2,10m Estrutura Preto Luz Branco-frio 110V/220V",
+    alt: "Ring Light Iluminador Led Profissional 26cm Tripé 2,10m Estrutura Preto Luz Branco-frio 110V/220V",
+    linkDeCompra: "https://mercadolivre.com/sec/1nLQ8W1",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_751081-MLU77090104033_062024-F.webp",
     nome: "Creatina Hardcore Monohidratada 300g Integral Médica Po Em Pote Sabor Neutro",
     descricao: "Creatina Hardcore Monohidratada 300g Integral Médica Po Em Pote Sabor Neutro",

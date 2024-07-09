@@ -3,6 +3,56 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-22120-1ljny7et7mlv2d",
+    nome: "Mini Kit Jardinagem Conjunto Ferramentas 4-5 Peças Metal Cabo Madeira Jardim",
+    descricao: "Mini Kit Jardinagem Conjunto Ferramentas 4-5 Peças Metal Cabo Madeira Jardim",
+    alt: "Mini Kit Jardinagem Conjunto Ferramentas 4-5 Peças Metal Cabo Madeira Jardim",
+    linkDeCompra: "https://s.shopee.com.br/9Ugw5VqBuT",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rd64-lui7coplbmwrc5",
+    nome: "Pulverizador Borrifador Spray Para Jardinagem Multiuso Alta Pressão 2 Litros Com Trava",
+    descricao: "Pulverizador Borrifador Spray Para Jardinagem Multiuso Alta Pressão 2 Litros Com Trava",
+    alt: "Pulverizador Borrifador Spray Para Jardinagem Multiuso Alta Pressão 2 Litros Com Trava",
+    linkDeCompra: "https://s.shopee.com.br/6pgAuWOlVI",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lr7f00orrm786a",
+    nome: "Kit Com 12 Gotejador Irrigador Acoplável Em Garrafa Pet Jardim Dosador Vaso Em Garrafa",
+    descricao: "Kit Com 12 Gotejador Irrigador Acoplável Em Garrafa Pet Jardim Dosador Vaso Em Garrafa",
+    alt: "Kit Com 12 Gotejador Irrigador Acoplável Em Garrafa Pet Jardim Dosador Vaso Em Garrafa",
+    linkDeCompra: "https://s.shopee.com.br/6zzb6kcndY",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/29a7f5ba5ef6ec89ef921a8b03cc3abb",
+    nome: "Vaso Decorativo Autoirrigável Bigball 1 UN para Suculentas com Proteção UV e Anti Dengue",
+    descricao: "Vaso Decorativo Autoirrigável Bigball 1 UN para Suculentas com Proteção UV e Anti Dengue",
+    alt: "Vaso Decorativo Autoirrigável Bigball 1 UN para Suculentas com Proteção UV e Anti Dengue",
+    linkDeCompra: "https://s.shopee.com.br/9pJmTuCAzP",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/bbd058adccf259811116dd75ee9cbc5e",
+    nome: "Painel Vertical treliça de Madeira para horta em varanda kit com 02 treliça",
+    descricao: "Painel Vertical treliça de Madeira para horta em varanda kit com 02 treliça",
+    alt: "Painel Vertical treliça de Madeira para horta em varanda kit com 02 treliça",
+    linkDeCompra: "https://s.shopee.com.br/4KypvklatZ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rbn8-lmvty6kzppp5e5",
     nome: "Bolsa Mala Esportiva",
     descricao: "Bolsa Mala Esportiva",
