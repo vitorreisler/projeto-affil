@@ -3,6 +3,46 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-23030-v7txqvu97vov27",
+    nome: "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
+    descricao: "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
+    alt: "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
+    linkDeCompra: "https://s.shopee.com.br/5VAoq5X8VZ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rcdl-lqyvs3gwkam594",
+    nome: "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
+    descricao: "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
+    alt: "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
+    linkDeCompra: "https://s.shopee.com.br/1qHWTBpCeq",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-loomznzg0hpu65",
+    nome: "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
+    descricao: "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
+    alt: "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
+    linkDeCompra: "https://s.shopee.com.br/4KyrRghyKG",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/240503a428f7ce57b85b8eb73635e83d",
+    nome: "KIT 2 Peças Coletor Tira Pelos E Fiapos",
+    descricao: "KIT 2 Peças Coletor Tira Pelos E Fiapos",
+    alt: "KIT 2 Peças Coletor Tira Pelos E Fiapos",
+    linkDeCompra: "https://s.shopee.com.br/9zdEBwquET",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134201-22120-1ljny7et7mlv2d",
     nome: "Mini Kit Jardinagem Conjunto Ferramentas 4-5 Peças Metal Cabo Madeira Jardim",
     descricao: "Mini Kit Jardinagem Conjunto Ferramentas 4-5 Peças Metal Cabo Madeira Jardim",

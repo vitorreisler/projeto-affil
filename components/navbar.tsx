@@ -10,6 +10,8 @@ import {
 import { Link } from "@nextui-org/link";
 import { Input } from "@nextui-org/input";
 import { CiShop } from "react-icons/ci";
+import { BiSolidShoppingBags } from "react-icons/bi";
+
 
 import { link as linkStyles } from "@nextui-org/theme";
 
@@ -17,7 +19,6 @@ import { siteConfig } from "@/config/site";
 import NextLink from "next/link";
 import clsx from "clsx";
 
-import { ThemeSwitch } from "@/components/theme-switch";
 import { FaInstagram } from "react-icons/fa";
 import { SearchIcon } from "@/components/icons";
 import { FaAmazon } from "react-icons/fa";
@@ -92,7 +93,11 @@ export const Navbar = () => {
                     <FaPeopleGroup />
                     {item.label}
                   </span>
-                ) : (
+                ) : item.label === "Temu" ? (
+                  <span className="flex items-center gap-1">
+                    <BiSolidShoppingBags />
+                    {item.label}
+                  </span> ): (
                   ""
                 )}
               </NextLink>

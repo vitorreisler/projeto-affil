@@ -2,6 +2,16 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71wXgOv8jaL._AC_SL1500_.jpg",
+    nome: "Suporte de esfregão e vassoura para parede",
+    descricao:
+      "Suporte de esfregão e vassoura para parede",
+    alt: "Suporte de esfregão e vassoura para parede",
+    linkDeCompra: "https://amzn.to/3xDgdFq",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61YP-Xf2uzL._AC_SL1200_.jpg",
     nome: "Suporte C/Rodinhas Base Ajustável Máquina Lavar Fogão Geladeira Móveis Resistente Reforçado",
     descricao:

@@ -18,9 +18,13 @@ export const siteConfig = {
       href: "/shopee",
     },
     {
+      label: "Temu",
+      href: "/temu",
+    },
+    /*{
       label: "Mercado Livre",
       href: "/mercado-livre",
-    },
+    },*/
     {
       label: "Grupo de Ofertas",
       href: "/landingpage",
@@ -40,9 +44,13 @@ export const siteConfig = {
       href: "/shopee",
     },
     {
+      label: "Temu",
+      href: "/temu",
+    },
+    /*{
       label: "Mercado Livre",
       href: "/mercado-livre",
-    },
+    },*/
     {
       label: "Grupo de Ofertas",
       href: "/landingpage",

@@ -3,6 +3,26 @@ export const produtosMercadoLivre = [
   {
     id: uuidv4(),
     urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_902207-MLU70654788683_072023-F.webp",
+    nome: "Varal Reforçado 60 Kg Retrátil Parede Alumínio Roupa De Cama",
+    descricao: "Varal Reforçado 60 Kg Retrátil Parede Alumínio Roupa De Cama",
+    alt: "Varal Reforçado 60 Kg Retrátil Parede Alumínio Roupa De Cama",
+    linkDeCompra: "https://mercadolivre.com/sec/2BXEv3T",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_934962-MLB73645265549_122023-F.webp",
+    nome: "Capa Máquina Lavar Roupas Ziper 10 11 12 13 14 15 16 17 18kg",
+    descricao: "Capa Máquina Lavar Roupas Ziper 10 11 12 13 14 15 16 17 18kg",
+    alt: "Capa Máquina Lavar Roupas Ziper 10 11 12 13 14 15 16 17 18kg",
+    linkDeCompra: "https://mercadolivre.com/sec/2VC1aMM",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://http2.mlstatic.com/D_NQ_NP_2X_608591-MLB51780544674_092022-F.webp",
     nome: "Kit 2 Microfones Type C Profissional De Lapela Anti Ruído Cor Preto",
     descricao: "Kit 2 Microfones Type C Profissional De Lapela Anti Ruído Cor Preto",

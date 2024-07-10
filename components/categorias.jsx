@@ -27,22 +27,30 @@ const Categorias = () => {
     },
     {
       urlImg:
+        "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/7e4dc85ead8b81425c1075d4c4d494b1.jpg?imageView2/2/w/800/q/70/format/webp",
+      alt: "temu",
+      tituloCategoria: "temu",
+      descricaoCategoria: "",
+      to: "/temu",
+    },
+    /*{
+      urlImg:
         "https://http2.mlstatic.com/D_NQ_NP_2X_693684-MLB54835234994_042023-F.webp",
       alt: "Mercado Livre",
       tituloCategoria: "Mercado Livre",
       descricaoCategoria: "",
       to: "/mercado-livre",
-    },
+    },*/
   ];
   return (
     <>
     <h1 className="text-3xl">Achadinhos</h1>
-      <section className=" gap-5 grid grid-cols-2 p-3 md:grid-cols-4 md:items-center md:p-8 border border-gray-200 rounded-lg shadow-md w-full ">
+      <section className=" gap-5 grid grid-cols-2 p-3 md:grid-cols-4 md:items-center  md:p-8 border border-gray-200 rounded-lg shadow-md w-full ">
         {categoriasData.map((item, i) => {
           return (
             <div
               key={i}
-              className="text-center shadow-md hover:shadow-lg relative max-w-[12rem] border border-solid border-gray-200 rounded-2xl transition-all duration-500 hover:scale-105"
+              className="text-center md:mx-auto shadow-md hover:shadow-lg relative max-w-[12rem] border border-solid border-gray-200 rounded-2xl transition-all duration-500 hover:scale-105"
             >
               <div className="block overflow-hidden object-cover">
                 <a href={item.to}>

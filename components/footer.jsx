@@ -25,11 +25,20 @@ const Footer = () => {
               Shopee
             </a>
           </li>
+          {
+          <li>
+            <a href="/temu" className="hover:underline">
+              Temu{" "}
+            </a>
+          </li>
+          }
+          {/*
           <li>
             <a href="/mercado-livre" className="hover:underline">
               Mercado Livre{" "}
             </a>
           </li>
+          */}
         </ul>
       </div>
     </footer>
