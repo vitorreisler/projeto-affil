@@ -13,85 +13,117 @@ import { v4 as uuidv4 } from "uuid";
 const ml = "Mercado Livre"
 const sh = "Shopee"
 const am = "Amazon"
+const te = "Temu"
 export const achadosHoje = [
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/br-11134201-23030-v7txqvu97vov27",
-    nome: "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
-    descricao: "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
-    alt: "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
-    linkDeCompra: "https://s.shopee.com.br/5VAoq5X8VZ",
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rd64-lwx6r5k3blca5a",
+    nome: "Massageador 8 Bolas Shiatsu Lombar Pescoço ",
+    descricao: "Massageador 8 Bolas Shiatsu Lombar Pescoço ",
+    alt: "Massageador 8 Bolas Shiatsu Lombar Pescoço ",
+    linkDeCompra: "https://s.shopee.com.br/2VXEzY0fn4",
     plataforma: sh,
   },
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/sg-11134201-7rcdl-lqyvs3gwkam594",
-    nome: "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
-    descricao: "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
-    alt: "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
-    linkDeCompra: "https://s.shopee.com.br/1qHWTBpCeq",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-loomznzg0hpu65",
-    nome: "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
-    descricao: "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
-    alt: "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
-    linkDeCompra: "https://s.shopee.com.br/4KyrRghyKG",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/240503a428f7ce57b85b8eb73635e83d",
-    nome: "KIT 2 Peças Coletor Tira Pelos E Fiapos",
-    descricao: "KIT 2 Peças Coletor Tira Pelos E Fiapos",
-    alt: "KIT 2 Peças Coletor Tira Pelos E Fiapos",
-    linkDeCompra: "https://s.shopee.com.br/9zdEBwquET",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://http2.mlstatic.com/D_NQ_NP_2X_902207-MLU70654788683_072023-F.webp",
-    nome: "Varal Reforçado 60 Kg Retrátil Parede Alumínio Roupa De Cama",
-    descricao: "Varal Reforçado 60 Kg Retrátil Parede Alumínio Roupa De Cama",
-    alt: "Varal Reforçado 60 Kg Retrátil Parede Alumínio Roupa De Cama",
-    linkDeCompra: "https://mercadolivre.com/sec/2BXEv3T",
-    plataforma: ml,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://http2.mlstatic.com/D_NQ_NP_2X_934962-MLB73645265549_122023-F.webp",
-    nome: "Capa Máquina Lavar Roupas Ziper 10 11 12 13 14 15 16 17 18kg",
-    descricao: "Capa Máquina Lavar Roupas Ziper 10 11 12 13 14 15 16 17 18kg",
-    alt: "Capa Máquina Lavar Roupas Ziper 10 11 12 13 14 15 16 17 18kg",
-    linkDeCompra: "https://mercadolivre.com/sec/2VC1aMM",
-    plataforma: ml,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/71wXgOv8jaL._AC_SL1500_.jpg",
-    nome: "Suporte de esfregão e vassoura para parede",
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbm7-ln3ij4arylcbe8",
+    nome: "Pistola de massagem elétrica, massageador de tecidos profundos",
     descricao:
-      "Suporte de esfregão e vassoura para parede",
-    alt: "Suporte de esfregão e vassoura para parede",
-    linkDeCompra: "https://amzn.to/3xDgdFq",
+      "Pistola de massagem elétrica, massageador de tecidos profundos",
+    alt: "Pistola de massagem elétrica, massageador de tecidos profundos",
+    linkDeCompra: "https://s.shopee.com.br/3q275HT36y",
+    plataforma: sh,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lj3gs15k31bz64",
+    nome: "Massageador Elétrico De Pés Esteira",
+    descricao: "Massageador Elétrico De Pés Esteira",
+    alt: "Massageador Elétrico De Pés Esteira",
+    linkDeCompra: "https://s.shopee.com.br/1VehnFtivA",
+    plataforma: sh,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltcswj9rpeyk17",
+    nome: "KIT Mini Massageador Elétrico Portátil Cervical EMS ",
+    descricao: "KIT Mini Massageador Elétrico Portátil Cervical EMS ",
+    alt: "KIT Mini Massageador Elétrico Portátil Cervical EMS ",
+    linkDeCompra: "https://s.shopee.com.br/5pngwpZrMS",
+    plataforma: sh,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwcvy2b5cxh200",
+    nome: "Tina Escalda Spa de Pés Bacia de Pedicure",
+    descricao: "Tina Escalda Spa de Pés Bacia de Pedicure",
+    alt: "Tina Escalda Spa de Pés Bacia de Pedicure",
+    linkDeCompra: "https://s.shopee.com.br/VmAawVmhl",
+    plataforma: sh,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://img.kwcdn.com/product/fancy/ac33ee90-83de-491f-9a14-a56e196a281f.jpg?imageView2/2/w/800/q/70/format/webp",
+    nome: "Toalha De Banho Vestível 1pc",
+    descricao: "Toalha De Banho Vestível 1pc",
+    alt: "Toalha De Banho Vestível 1pc",
+    linkDeCompra: "https://temu.to/m/uvve5bfoz3v",
+    plataforma: te,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://img.kwcdn.com/product/fancy/3bc09175-4e60-45f3-a811-0da43262b647.jpg?imageView2/2/w/800/q/70/format/webp",
+    nome: "Bomba de água para garrafa 1pc",
+    descricao: "Bomba de água para garrafa 1pc",
+    alt: "Bomba de água para garrafa 1pc",
+    linkDeCompra: "https://temu.to/m/uien961op2u",
+    plataforma: te,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://img.kwcdn.com/product/fancy/55fc4787-11b2-4a56-8f88-65911fdcaa6f.jpg?imageView2/2/w/800/q/70/format/webp",
+    nome: "Vestido Estampado De Ombro De Fora Com Estampa Paisley",
+    descricao: "Vestido Estampado De Ombro De Fora Com Estampa Paisley",
+    alt: "Vestido Estampado De Ombro De Fora Com Estampa Paisley",
+    linkDeCompra: "https://temu.to/m/udejycc9vi5",
+    plataforma: te,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/7e4dc85ead8b81425c1075d4c4d494b1.jpg?imageView2/2/w/800/q/70/format/webp",
+    nome: "Câmera De Painel Frontal E Interna, Dash Cam De 8,03 Cm 1080P",
+    descricao: "Câmera De Painel Frontal E Interna, Dash Cam De 8,03 Cm 1080P",
+    alt: "Câmera De Painel Frontal E Interna, Dash Cam De 8,03 Cm 1080P",
+    linkDeCompra: "https://temu.to/m/uotlve0sjf6",
+    plataforma: te,
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51WpabdQwVL._AC_SL1080_.jpg",
+    nome: "Kit Repós Plastica e Spa dos Pés 150 + Bisturi de Calosidade 222 + Creme Removedor",
+    descricao:
+      "Kit Repós Plastica e Spa dos Pés 150 + Bisturi de Calosidade 222 + Creme Removedor",
+    alt: "Kit Repós Plastica e Spa dos Pés 150 + Bisturi de Calosidade 222 + Creme Removedor",
+    linkDeCompra: "https://amzn.to/4eT10AB",
     plataforma: am,
   },
   {
     id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/51kbuKySrCL._AC_SL1024_.jpg",
-    nome: "Rack Estante Sobre Maquina de Lavar Instalação Fácil, Resistente, Ideal Para Apartamento Ou Casa Alugada Não Precisa Furar Parede",
+    urlImg: "https://m.media-amazon.com/images/I/71lrDvnAu3L._AC_SL1500_.jpg",
+    nome: "KISS NEW YORK Combo de Navalhas",
     descricao:
-      "Rack Estante Sobre Maquina de Lavar Instalação Fácil, Resistente, Ideal Para Apartamento Ou Casa Alugada Não Precisa Furar Parede",
-    alt: "Rack Estante Sobre Maquina de Lavar Instalação Fácil, Resistente, Ideal Para Apartamento Ou Casa Alugada Não Precisa Furar Parede",
-    linkDeCompra: "https://amzn.to/45Vq464",
+      "KISS NEW YORK Combo de Navalhas",
+    alt: "KISS NEW YORK Combo de Navalhas",
+    linkDeCompra: "https://amzn.to/4cBeH5E",
     plataforma: am,
   },
 

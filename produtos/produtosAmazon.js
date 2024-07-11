@@ -2,6 +2,26 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51WpabdQwVL._AC_SL1080_.jpg",
+    nome: "Kit Repós Plastica e Spa dos Pés 150 + Bisturi de Calosidade 222 + Creme Removedor",
+    descricao:
+      "Kit Repós Plastica e Spa dos Pés 150 + Bisturi de Calosidade 222 + Creme Removedor",
+    alt: "Kit Repós Plastica e Spa dos Pés 150 + Bisturi de Calosidade 222 + Creme Removedor",
+    linkDeCompra: "https://amzn.to/4eT10AB",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71lrDvnAu3L._AC_SL1500_.jpg",
+    nome: "KISS NEW YORK Combo de Navalhas",
+    descricao:
+      "KISS NEW YORK Combo de Navalhas",
+    alt: "KISS NEW YORK Combo de Navalhas",
+    linkDeCompra: "https://amzn.to/4cBeH5E",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71wXgOv8jaL._AC_SL1500_.jpg",
     nome: "Suporte de esfregão e vassoura para parede",
     descricao:

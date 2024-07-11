@@ -1,5 +1,57 @@
 import { v4 as uuidv4 } from "uuid";
 export const produtosShopee = [
+ 
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rd64-lwx6r5k3blca5a",
+    nome: "Massageador 8 Bolas Shiatsu Lombar Pescoço ",
+    descricao: "Massageador 8 Bolas Shiatsu Lombar Pescoço ",
+    alt: "Massageador 8 Bolas Shiatsu Lombar Pescoço ",
+    linkDeCompra: "https://s.shopee.com.br/2VXEzY0fn4",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbm7-ln3ij4arylcbe8",
+    nome: "Pistola de massagem elétrica, massageador de tecidos profundos",
+    descricao:
+      "Pistola de massagem elétrica, massageador de tecidos profundos",
+    alt: "Pistola de massagem elétrica, massageador de tecidos profundos",
+    linkDeCompra: "https://s.shopee.com.br/3q275HT36y",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lj3gs15k31bz64",
+    nome: "Massageador Elétrico De Pés Esteira",
+    descricao: "Massageador Elétrico De Pés Esteira",
+    alt: "Massageador Elétrico De Pés Esteira",
+    linkDeCompra: "https://s.shopee.com.br/1VehnFtivA",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltcswj9rpeyk17",
+    nome: "KIT Mini Massageador Elétrico Portátil Cervical EMS ",
+    descricao: "KIT Mini Massageador Elétrico Portátil Cervical EMS ",
+    alt: "KIT Mini Massageador Elétrico Portátil Cervical EMS ",
+    linkDeCompra: "https://s.shopee.com.br/5pngwpZrMS",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwcvy2b5cxh200",
+    nome: "Tina Escalda Spa de Pés Bacia de Pedicure",
+    descricao: "Tina Escalda Spa de Pés Bacia de Pedicure",
+    alt: "Tina Escalda Spa de Pés Bacia de Pedicure",
+    linkDeCompra: "https://s.shopee.com.br/VmAawVmhl",
+    categoria: "",
+  },
   {
     id: uuidv4(),
     urlImg:
@@ -819,17 +871,6 @@ export const produtosShopee = [
       "Caixinha De Som G-speaker smart Carregador Indução Altofalante Bluetooth Android e IOS Luminaria",
     alt: "Caixinha De Som G-speaker smart Carregador Indução ",
     linkDeCompra: "https://s.shopee.com.br/3q1RVN8Rrm",
-    categoria: "",
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/sg-11134201-7rbm7-ln3ij4arylcbe8",
-    nome: "Pistola de massagem elétrica, massageador de tecidos profundos",
-    descricao:
-      "Pistola de massagem elétrica, massageador de tecidos profundos",
-    alt: "Pistola de massagem elétrica, massageador de tecidos profundos",
-    linkDeCompra: "https://s.shopee.com.br/3q275HT36y",
     categoria: "",
   },
   {
