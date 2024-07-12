@@ -1,6 +1,47 @@
 import { v4 as uuidv4 } from "uuid";
 export const produtosShopee = [
- 
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ln8yjv452ad735",
+    nome: "Mini Impressora Via Bluetooth Portátil Térmica 58mm",
+    descricao: "Mini Impressora Via Bluetooth Portátil Térmica 58mm",
+    alt: "Mini Impressora Via Bluetooth Portátil Térmica 58mm",
+    linkDeCompra: "https://s.shopee.com.br/5AY1f66Qco",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/a5d8b7c161a70b296d3ffede03015364",
+    nome: "Mini Impressora Térmica Portátil Móvel Fotográfica Telefone Residencial",
+    descricao:
+      "Mini Impressora Térmica Portátil Móvel Fotográfica Telefone Residencial",
+    alt: "Mini Impressora Térmica Portátil Móvel Fotográfica Telefone Residencial",
+    linkDeCompra: "https://s.shopee.com.br/6Kjz38mwui",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134201-7r98r-llnlvy2npte337",
+    nome: "Mini Maquina Costura Portátil Elétrica + Pedal Bivolt 110v-220v",
+    descricao:
+      "Mini Maquina Costura Portátil Elétrica + Pedal Bivolt 110v-220v",
+    alt: "Mini Maquina Costura Portátil Elétrica + Pedal Bivolt 110v-220v",
+    linkDeCompra: "https://s.shopee.com.br/6fMpRDLLPQ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lu115g2kb49s4d",
+    nome: "Máquina de Fazer Donuts Rosquinhas Confeitaria",
+    descricao: "Máquina de Fazer Donuts Rosquinhas Confeitaria",
+    alt: "Máquina de Fazer Donuts Rosquinhas Confeitaria",
+    linkDeCompra: "https://s.shopee.com.br/50EbS5cAnh",
+    categoria: "",
+  },
   {
     id: uuidv4(),
     urlImg:
@@ -16,8 +57,7 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rbm7-ln3ij4arylcbe8",
     nome: "Pistola de massagem elétrica, massageador de tecidos profundos",
-    descricao:
-      "Pistola de massagem elétrica, massageador de tecidos profundos",
+    descricao: "Pistola de massagem elétrica, massageador de tecidos profundos",
     alt: "Pistola de massagem elétrica, massageador de tecidos profundos",
     linkDeCompra: "https://s.shopee.com.br/3q275HT36y",
     categoria: "",
@@ -57,7 +97,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134201-23030-v7txqvu97vov27",
     nome: "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
-    descricao: "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
+    descricao:
+      "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
     alt: "Cesto De Roupa Suja 72 Litros Resistente Lavanderia Com Tampa Organizador Roupas Lavanderia Banheiro Balde Multiuso",
     linkDeCompra: "https://s.shopee.com.br/5VAoq5X8VZ",
     categoria: "",
@@ -67,7 +108,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rcdl-lqyvs3gwkam594",
     nome: "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
-    descricao: "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
+    descricao:
+      "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
     alt: "Mini Máquina de Lavar Roupas Panos Toalhas no Balde Portátil Ultrassônica Lavanderia USB Lava Louças Branco com USB",
     linkDeCompra: "https://s.shopee.com.br/1qHWTBpCeq",
     categoria: "",
@@ -77,7 +119,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-loomznzg0hpu65",
     nome: "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
-    descricao: "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
+    descricao:
+      "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
     alt: "Pote Hermético com Copo Medidor Bico Dosador Cozinha Lavanderia Multiuso",
     linkDeCompra: "https://s.shopee.com.br/4KyrRghyKG",
     categoria: "",
@@ -97,7 +140,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134201-22120-1ljny7et7mlv2d",
     nome: "Mini Kit Jardinagem Conjunto Ferramentas 4-5 Peças Metal Cabo Madeira Jardim",
-    descricao: "Mini Kit Jardinagem Conjunto Ferramentas 4-5 Peças Metal Cabo Madeira Jardim",
+    descricao:
+      "Mini Kit Jardinagem Conjunto Ferramentas 4-5 Peças Metal Cabo Madeira Jardim",
     alt: "Mini Kit Jardinagem Conjunto Ferramentas 4-5 Peças Metal Cabo Madeira Jardim",
     linkDeCompra: "https://s.shopee.com.br/9Ugw5VqBuT",
     categoria: "",
@@ -107,7 +151,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rd64-lui7coplbmwrc5",
     nome: "Pulverizador Borrifador Spray Para Jardinagem Multiuso Alta Pressão 2 Litros Com Trava",
-    descricao: "Pulverizador Borrifador Spray Para Jardinagem Multiuso Alta Pressão 2 Litros Com Trava",
+    descricao:
+      "Pulverizador Borrifador Spray Para Jardinagem Multiuso Alta Pressão 2 Litros Com Trava",
     alt: "Pulverizador Borrifador Spray Para Jardinagem Multiuso Alta Pressão 2 Litros Com Trava",
     linkDeCompra: "https://s.shopee.com.br/6pgAuWOlVI",
     categoria: "",
@@ -117,7 +162,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lr7f00orrm786a",
     nome: "Kit Com 12 Gotejador Irrigador Acoplável Em Garrafa Pet Jardim Dosador Vaso Em Garrafa",
-    descricao: "Kit Com 12 Gotejador Irrigador Acoplável Em Garrafa Pet Jardim Dosador Vaso Em Garrafa",
+    descricao:
+      "Kit Com 12 Gotejador Irrigador Acoplável Em Garrafa Pet Jardim Dosador Vaso Em Garrafa",
     alt: "Kit Com 12 Gotejador Irrigador Acoplável Em Garrafa Pet Jardim Dosador Vaso Em Garrafa",
     linkDeCompra: "https://s.shopee.com.br/6zzb6kcndY",
     categoria: "",
@@ -127,7 +173,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/29a7f5ba5ef6ec89ef921a8b03cc3abb",
     nome: "Vaso Decorativo Autoirrigável Bigball 1 UN para Suculentas com Proteção UV e Anti Dengue",
-    descricao: "Vaso Decorativo Autoirrigável Bigball 1 UN para Suculentas com Proteção UV e Anti Dengue",
+    descricao:
+      "Vaso Decorativo Autoirrigável Bigball 1 UN para Suculentas com Proteção UV e Anti Dengue",
     alt: "Vaso Decorativo Autoirrigável Bigball 1 UN para Suculentas com Proteção UV e Anti Dengue",
     linkDeCompra: "https://s.shopee.com.br/9pJmTuCAzP",
     categoria: "",
@@ -137,7 +184,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/bbd058adccf259811116dd75ee9cbc5e",
     nome: "Painel Vertical treliça de Madeira para horta em varanda kit com 02 treliça",
-    descricao: "Painel Vertical treliça de Madeira para horta em varanda kit com 02 treliça",
+    descricao:
+      "Painel Vertical treliça de Madeira para horta em varanda kit com 02 treliça",
     alt: "Painel Vertical treliça de Madeira para horta em varanda kit com 02 treliça",
     linkDeCompra: "https://s.shopee.com.br/4KypvklatZ",
     categoria: "",
@@ -187,7 +235,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lje3bazqqhkv8e",
     nome: "Kit 2 Travesseiros Penas E Plumas De Ganso Anti Alergico Material Sintético",
-    descricao: "Kit 2 Travesseiros Penas E Plumas De Ganso Anti Alergico Material Sintético",
+    descricao:
+      "Kit 2 Travesseiros Penas E Plumas De Ganso Anti Alergico Material Sintético",
     alt: "Kit 2 Travesseiros Penas E Plumas De Ganso Anti Alergico Material Sintético",
     linkDeCompra: "https://s.shopee.com.br/5AXtmisvv7",
     categoria: "",
@@ -217,7 +266,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lr7hn7b9juij0f",
     nome: "Edredom Casal Dupla Face Cobre Leito Queen + Lençol Queen Com Elastico 6 Peças Tecido Toque Macio",
-    descricao: "Edredom Casal Dupla Face Cobre Leito Queen + Lençol Queen Com Elastico 6 Peças Tecido Toque Macio",
+    descricao:
+      "Edredom Casal Dupla Face Cobre Leito Queen + Lençol Queen Com Elastico 6 Peças Tecido Toque Macio",
     alt: "Edredom Casal Dupla Face Cobre Leito Queen + Lençol Queen Com Elastico 6 Peças Tecido Toque Macio",
     linkDeCompra: "https://s.shopee.com.br/6pg7l2fJzt",
     categoria: "",
@@ -227,7 +277,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134201-23020-u15sal8wl9mv6e",
     nome: "Cortina Blackout 2,00 x 1,40 Metros Corta 100% a Luz Com Tecido Voal Liso  ",
-    descricao: "Cortina Blackout 2,00 x 1,40 Metros Corta 100% a Luz Com Tecido Voal Liso  ",
+    descricao:
+      "Cortina Blackout 2,00 x 1,40 Metros Corta 100% a Luz Com Tecido Voal Liso  ",
     alt: "Cortina Blackout 2,00 x 1,40 Metros Corta 100% a Luz Com Tecido Voal Liso  ",
     linkDeCompra: "https://s.shopee.com.br/A9wYZJg08I",
     categoria: "",
@@ -237,7 +288,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lobc4n4pzj648d",
     nome: "Kit Com 4 Unidades Enchimento Almofada Refil 45x45 Silicone ANTIALÉRGICO",
-    descricao: "Kit Com 4 Unidades Enchimento Almofada Refil 45x45 Silicone ANTIALÉRGICO",
+    descricao:
+      "Kit Com 4 Unidades Enchimento Almofada Refil 45x45 Silicone ANTIALÉRGICO",
     alt: "Kit Com 4 Unidades Enchimento Almofada Refil 45x45 Silicone ANTIALÉRGICO",
     linkDeCompra: "https://s.shopee.com.br/9f0HyJRhsg",
     categoria: "",
@@ -247,7 +299,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134201-22120-16k3wt9hwjlv7c",
     nome: "Kit Quadros Decorativos para Decoração de Quarto Sala Casa Cozinha + Frase Abençoados por Deus",
-    descricao: "Kit Quadros Decorativos para Decoração de Quarto Sala Casa Cozinha + Frase Abençoados por Deus",
+    descricao:
+      "Kit Quadros Decorativos para Decoração de Quarto Sala Casa Cozinha + Frase Abençoados por Deus",
     alt: "Kit Quadros Decorativos para Decoração de Quarto Sala Casa Cozinha + Frase Abençoados por Deus",
     linkDeCompra: "https://s.shopee.com.br/6Kjq08Jbrl",
     categoria: "",
@@ -257,7 +310,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ls32k159tmwr89",
     nome: "Penteadeira 50x30 Escrivaninha Suspensa Organizadora Maquiagens Quarto 100% MDF",
-    descricao: "Penteadeira 50x30 Escrivaninha Suspensa Organizadora Maquiagens Quarto 100% MDF",
+    descricao:
+      "Penteadeira 50x30 Escrivaninha Suspensa Organizadora Maquiagens Quarto 100% MDF",
     alt: "Penteadeira 50x30 Escrivaninha Suspensa Organizadora Maquiagens Quarto 100% MDF",
     linkDeCompra: "https://s.shopee.com.br/6zzWnDByc5",
     categoria: "",
@@ -277,7 +331,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqzi5qdaizvoa9",
     nome: "Kit 20 Pote Plástico Hermético + Jarra Vasilhas Conjunto de Potes",
-    descricao: "Kit 20 Pote Plástico Hermético + Jarra Vasilhas Conjunto de Potes",
+    descricao:
+      "Kit 20 Pote Plástico Hermético + Jarra Vasilhas Conjunto de Potes",
     alt: "Kit 20 Pote Plástico Hermético + Jarra Vasilhas Conjunto de Potes",
     linkDeCompra: "https://s.shopee.com.br/5AXrEEOmH7",
     categoria: "",
@@ -317,7 +372,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134201-23020-zihjyjcc32mv41",
     nome: "Cabeceira de Cama Casal 1,40 Estofada Branco Courino Semi Sintético Modelo Bia",
-    descricao: "Cabeceira de Cama Casal 1,40 Estofada Branco Courino Semi Sintético Modelo Bia",
+    descricao:
+      "Cabeceira de Cama Casal 1,40 Estofada Branco Courino Semi Sintético Modelo Bia",
     alt: "Cabeceira de Cama Casal 1,40 Estofada Branco Courino Semi Sintético Modelo Bia",
     linkDeCompra: "https://s.shopee.com.br/1VeXBxZqFO",
     categoria: "",
@@ -357,7 +413,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltwtcr875cic34",
     nome: "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
-    descricao: "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
+    descricao:
+      "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
     alt: "Kit Petisqueira Redonda Para Frios Queijo Com Molheira Ramekin e Garfinhos para Petiscos",
     linkDeCompra: "https://s.shopee.com.br/2VX2DNogwW",
     categoria: "",
@@ -457,7 +514,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lujtfnzf2s11c1",
     nome: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
-    descricao: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
+    descricao:
+      "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
     alt: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
     linkDeCompra: "https://s.shopee.com.br/B94CVJ7y6",
     categoria: "",
@@ -467,7 +525,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/2b08fd6e6f605ce1e832fb5f583cfcea",
     nome: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
-    descricao: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
+    descricao:
+      "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
     alt: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
     linkDeCompra: "https://s.shopee.com.br/4VI5G5QiZP",
     categoria: "",
@@ -497,7 +556,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-23020-z2og9fggpanve0",
     nome: "Luminária De Led Sobrepor Bastão Recarregável Sem Fio Com Suporte Magnético E Touch",
-    descricao: "Luminária De Led Sobrepor Bastão Recarregável Sem Fio Com Suporte Magnético E Touch",
+    descricao:
+      "Luminária De Led Sobrepor Bastão Recarregável Sem Fio Com Suporte Magnético E Touch",
     alt: "Luminária De Led Sobrepor Bastão Recarregável Sem Fio Com Suporte Magnético E Touch",
     linkDeCompra: "https://s.shopee.com.br/7fF72E27Cm",
     categoria: "",
@@ -627,7 +687,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/84cc4690d03616f8ad6f9144b5e28557",
     nome: "Organizador Multiuso Plasutil Geladeira Dispensa Cozinha Guarda e Conserva",
-    descricao: "Organizador Multiuso Plasutil Geladeira Dispensa Cozinha Guarda e Conserva",
+    descricao:
+      "Organizador Multiuso Plasutil Geladeira Dispensa Cozinha Guarda e Conserva",
     alt: "Organizador Multiuso Plasutil Geladeira Dispensa Cozinha Guarda e Conserva",
     linkDeCompra: "https://s.shopee.com.br/5pnQwwNLKl",
     categoria: "",
@@ -637,7 +698,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/ff9798595fe07590713fd810f4166091",
     nome: "Organizador De Condimentos Cozinha Montado Na Parede Louça De Mesa Suprimentos De Armazenamento",
-    descricao: "Organizador De Condimentos Cozinha Montado Na Parede Louça De Mesa Suprimentos De Armazenamento",
+    descricao:
+      "Organizador De Condimentos Cozinha Montado Na Parede Louça De Mesa Suprimentos De Armazenamento",
     alt: "Organizador De Condimentos Cozinha Montado Na Parede Louça De Mesa Suprimentos De Armazenamento",
     linkDeCompra: "https://s.shopee.com.br/AKFqJE1PNT",
     categoria: "",
@@ -647,7 +709,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rcds-ltfc0m7lb5ft3a",
     nome: "Escova A Vapor 3 Em 1 Autolimpante Para Massagem De Cães E Gatos",
-    descricao: "Escova A Vapor 3 Em 1 Autolimpante Para Massagem De Cães E Gatos",
+    descricao:
+      "Escova A Vapor 3 Em 1 Autolimpante Para Massagem De Cães E Gatos",
     alt: "Escova A Vapor 3 Em 1 Autolimpante Para Massagem De Cães E Gatos",
     linkDeCompra: "https://s.shopee.com.br/6V33FGauzT",
     categoria: "",
@@ -657,7 +720,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7qved-lguppgya0yrw8b",
     nome: "TEAK Molde De Sabão De Silicone 4/6 Cavity Flower Shaped Cake Mould DIY Craft Suprimentos Multifuncionais Sabonetes Artesanais",
-    descricao: "TEAK Molde De Sabão De Silicone 4/6 Cavity Flower Shaped Cake Mould DIY Craft Suprimentos Multifuncionais Sabonetes Artesanais",
+    descricao:
+      "TEAK Molde De Sabão De Silicone 4/6 Cavity Flower Shaped Cake Mould DIY Craft Suprimentos Multifuncionais Sabonetes Artesanais",
     alt: "TEAK Molde De Sabão De Silicone 4/6 Cavity Flower Shaped Cake Mould DIY Craft Suprimentos Multifuncionais Sabonetes Artesanais",
     linkDeCompra: "https://s.shopee.com.br/4Kya4l9wrQ",
     categoria: "",
@@ -727,7 +791,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvm98b66j9zyb5",
     nome: "Projetor 4K HD 150 Polegadas Celular, Tv B0x, Xbox, PS, Pc, Wifi HY300 Pro Magcubic ",
-    descricao: "Projetor 4K HD 150 Polegadas Celular, Tv B0x, Xbox, PS, Pc, Wifi HY300 Pro Magcubic ",
+    descricao:
+      "Projetor 4K HD 150 Polegadas Celular, Tv B0x, Xbox, PS, Pc, Wifi HY300 Pro Magcubic ",
     alt: "Projetor 4K HD 150 Polegadas Celular, Tv B0x, Xbox, PS, Pc, Wifi HY300 Pro Magcubic ",
     linkDeCompra: "https://s.shopee.com.br/4pupGQK0cI",
     categoria: "",
@@ -767,7 +832,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/922c099d67b8102fb3f4411abae0b7da",
     nome: "500 Etiquetas Adesivas Gratidão ter você como cliente Redondo 3 cm ",
-    descricao: "500 Etiquetas Adesivas Gratidão ter você como cliente Redondo 3 cm ",
+    descricao:
+      "500 Etiquetas Adesivas Gratidão ter você como cliente Redondo 3 cm ",
     alt: "500 Etiquetas Adesivas Gratidão ter você como cliente Redondo 3 cm ",
     linkDeCompra: "https://s.shopee.com.br/7Kc8keVZqK",
     categoria: "",
@@ -777,7 +843,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lgdam2nu3wjj0f",
     nome: "Suporte Multiuso De Parede Para Celular Controle Plástico Para Carregar Remoto Um Slot",
-    descricao: "Suporte Multiuso De Parede Para Celular Controle Plástico Para Carregar Remoto Um Slot",
+    descricao:
+      "Suporte Multiuso De Parede Para Celular Controle Plástico Para Carregar Remoto Um Slot",
     alt: "Suporte Multiuso De Parede Para Celular Controle Plástico Para Carregar Remoto Um Slot",
     linkDeCompra: "https://s.shopee.com.br/40LgmcsuAd",
     categoria: "",
@@ -807,7 +874,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rcey-lscnoezuf8e705",
     nome: "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável ",
-    descricao: "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável ",
+    descricao:
+      "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável ",
     alt: "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável ",
     linkDeCompra: "https://s.shopee.com.br/1qH96xxNaN",
     categoria: "",
@@ -827,7 +895,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/cn-11134301-7r98o-lnxurnun8mfv48",
     nome: "Porta-cartões RFID fino Anti-roubo Carteira masculina Universal ",
-    descricao: "Porta-cartões RFID fino Anti-roubo Carteira masculina Universal ",
+    descricao:
+      "Porta-cartões RFID fino Anti-roubo Carteira masculina Universal ",
     alt: "Porta-cartões RFID fino Anti-roubo Carteira masculina Universal ",
     linkDeCompra: "https://s.shopee.com.br/3finIQJ6rB",
     categoria: "",
@@ -1018,8 +1087,7 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-23020-uuxfsesav3nvfb",
     nome: "Amolador De Facas Em Aço Inox Profissional",
-    descricao:
-      "Amolador De Facas Em Aço Inox Profissional",
+    descricao: "Amolador De Facas Em Aço Inox Profissional",
     alt: "Amolador De Facas Em Aço Inox Profissional",
     linkDeCompra: "https://s.shopee.com.br/2VWkh4ilx3",
     categoria: "",
@@ -1068,9 +1136,9 @@ export const produtosShopee = [
     categoria: "",
   },
 
-//FIM COZINHA
+  //FIM COZINHA
 
-//CASA E ROUPAS
+  //CASA E ROUPAS
 
   {
     id: uuidv4(),
@@ -1141,7 +1209,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/2d62df7923eaa326df1d589d756b1703",
     nome: "Conjuntos Feminino Cropped Ciganinha com Bojo + Short com Detalhe Gringo",
-    descricao: "Conjuntos Feminino Cropped Ciganinha com Bojo + Short com Detalhe Gringo",
+    descricao:
+      "Conjuntos Feminino Cropped Ciganinha com Bojo + Short com Detalhe Gringo",
     alt: "Conjuntos Feminino Cropped Ciganinha com Bojo + Short com Detalhe Gringo",
     linkDeCompra: "https://s.shopee.com.br/5Kqulua7IY",
     categoria: "",
@@ -1160,9 +1229,10 @@ export const produtosShopee = [
     id: uuidv4(),
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lteasyv09w5bf4",
-    nome: "Kit 15 Pares Meia Infantil Estampadinha\lisa menino e menina de criança",
-    descricao: "Kit 15 Pares Meia Infantil Estampadinha\lisa menino e menina de criança",
-    alt: "Kit 15 Pares Meia Infantil Estampadinha\lisa menino e menina de criança",
+    nome: "Kit 15 Pares Meia Infantil Estampadinhalisa menino e menina de criança",
+    descricao:
+      "Kit 15 Pares Meia Infantil Estampadinhalisa menino e menina de criança",
+    alt: "Kit 15 Pares Meia Infantil Estampadinhalisa menino e menina de criança",
     linkDeCompra: "https://s.shopee.com.br/9zckKmooaI",
     categoria: "",
   },
@@ -1233,7 +1303,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/6f970737fd9c18bc590d7fb9145ead93",
     nome: "Papel de Parede Adesivo de Espuma 3D Desenho de Tijolo à Prova D'água",
-    descricao: "Papel de Parede Adesivo de Espuma 3D Desenho de Tijolo à Prova D'água",
+    descricao:
+      "Papel de Parede Adesivo de Espuma 3D Desenho de Tijolo à Prova D'água",
     alt: "Papel de Parede Adesivo de Espuma 3D Desenho de Tijolo à Prova D'água",
     linkDeCompra: "https://s.shopee.com.br/3VPGaDpFAb",
     categoria: "",
@@ -1273,7 +1344,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rd4o-lwsmgawfeo075c",
     nome: "Ventilador de mesa 30 cm 6 pás com 3 velocidades - VSP-30-B - Mondial",
-    descricao: "Ventilador de mesa 30 cm 6 pás com 3 velocidades - VSP-30-B - Mondial",
+    descricao:
+      "Ventilador de mesa 30 cm 6 pás com 3 velocidades - VSP-30-B - Mondial",
     alt: "Ventilador de mesa 30 cm 6 pás com 3 velocidades - VSP-30-B - Mondial",
     linkDeCompra: "https://s.shopee.com.br/2VWkgtIHRU",
     categoria: "",
@@ -1283,7 +1355,8 @@ export const produtosShopee = [
     urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rbkq-logf8g52u9tr08",
     nome: "Ventilador Refrigerador De Ar Condicionado Umidificador Portátil TIPO C Usb",
-    descricao: "Ventilador Refrigerador De Ar Condicionado Umidificador Portátil TIPO C Usb",
+    descricao:
+      "Ventilador Refrigerador De Ar Condicionado Umidificador Portátil TIPO C Usb",
     alt: "Ventilador Refrigerador De Ar Condicionado Umidificador Portátil TIPO C Usb",
     linkDeCompra: "https://s.shopee.com.br/8zkEQueSCj",
     categoria: "",
@@ -1308,5 +1381,4 @@ export const produtosShopee = [
     linkDeCompra: "https://s.shopee.com.br/6zzARCxIHI",
     categoria: "",
   },
-
 ];

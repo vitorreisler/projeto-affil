@@ -3,6 +3,26 @@ export const produtosTemu = [
   {
     id: uuidv4(),
     urlImg:
+      "https://img.kwcdn.com/product/1e233167ee/cefb4852-cee0-4e18-b9f4-9a18aed002db_800x800.png?imageView2/2/w/800/q/70/format/webp",
+    nome: "Luminária de Acampamento Solar LED Multifuncional",
+    descricao: "Luminária de Acampamento Solar LED Multifuncional",
+    alt: "Luminária de Acampamento Solar LED Multifuncional",
+    linkDeCompra: "https://temu.to/m/urcfe1q37yw",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://img.kwcdn.com/product/fancy/7049c818-9108-4456-9288-c9ed5e711ab3.jpg?imageView2/2/w/800/q/70/format/webp",
+    nome: "Conjunto de Chave de Fenda de Precisão 128 em 1",
+    descricao: "Conjunto de Chave de Fenda de Precisão 128 em 1",
+    alt: "Conjunto de Chave de Fenda de Precisão 128 em 1",
+    linkDeCompra: "https://temu.to/m/uso6pi2mgh4",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://img.kwcdn.com/product/fancy/ac33ee90-83de-491f-9a14-a56e196a281f.jpg?imageView2/2/w/800/q/70/format/webp",
     nome: "Toalha De Banho Vestível 1pc",
     descricao: "Toalha De Banho Vestível 1pc",

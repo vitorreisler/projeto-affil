@@ -2,6 +2,26 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51VEZ0pFsdS._SL1000_.jpg",
+    nome: "Além da Ordem: Mais 12 Regras Para a Vida",
+    descricao:
+      "Além da Ordem: Mais 12 Regras Para a Vida",
+    alt: "Além da Ordem: Mais 12 Regras Para a Vida",
+    linkDeCompra: "https://amzn.to/4cxTNEL",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51DSFiydE-L._SL1000_.jpg",
+    nome: "12 Regras Para a Vida: Um Antídoto Para o Caos",
+    descricao:
+      "12 Regras Para a Vida: Um Antídoto Para o Caos",
+    alt: "12 Regras Para a Vida: Um Antídoto Para o Caos",
+    linkDeCompra: "https://amzn.to/3SqVqft",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/51WpabdQwVL._AC_SL1080_.jpg",
     nome: "Kit Repós Plastica e Spa dos Pés 150 + Bisturi de Calosidade 222 + Creme Removedor",
     descricao:
