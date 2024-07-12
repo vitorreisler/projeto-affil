@@ -13,7 +13,7 @@ export default function LandingPage() {
   }, []);
   return (
     <section className="w-fullflex flex-col items-center justify-center mx-auto gap-4 max-w-7xl pt-5 px-6 flex-grow">
-      <h1 className={`text-5xl text-center my-3`}>Os melhores produtos <br /> Amazon, Shopee e Mercado Livre </h1>
+      <h1 className={`text-5xl text-center my-3`}>Os melhores produtos <br /> Amazon, Shopee e Hotmart </h1>
 
       <section
         id="descricao-landingpage"
@@ -24,7 +24,7 @@ export default function LandingPage() {
         {isSmallScreen ? (
           <p className="text-xl">
             Bem-vindo às melhores ofertas! 🛒💥 Encontre promoções exclusivas da
-            Shopee, Amazon, Mercado Livre e Hotmart. Quer receber descontos
+            Shopee, Amazon, e Hotmart. Quer receber descontos
             incríveis primeiro? Entre no nosso grupo VIP do WhatsApp! 🚀📲
           </p>
         ) : (
@@ -48,7 +48,7 @@ export default function LandingPage() {
 			<br />
 			 É isso
             que nossa comunidade oferece! Uma forma de você economizar,
-            aproveitar as melhores promoções da Amazon, Shopee e Mercado Livre,
+            aproveitar as melhores promoções da Amazon, Shopee e Hotmart,
             e ainda receber dicas e conselhos exclusivos. 🎉📈
           </p>
         )}
@@ -120,11 +120,13 @@ export default function LandingPage() {
                   Produtos que mais bombam na shopee
                 </span>
               </li>
-              <li className="flex  justify-between">
-                <img
+              <li className="flex  justify-evenly">
+                  {  
+                  /*<img
                   src={"/images/mercadoLivreIcon.png"}
                   alt="mercado-livre "
-                />
+                  />*/
+                }
                 <img
                   className="rounded-lg"
                   src={"/images/shopeeIcon.png"}
