@@ -3,6 +3,39 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwygna5ymkcy4b",
+    nome: "Interruptor Inteligente Tomada 1-4 Botão WiFi",
+    descricao:
+      "Interruptor Inteligente Tomada 1-4 Botão WiFi",
+    alt: "Interruptor Inteligente Tomada 1-4 Botão WiFi",
+    linkDeCompra: "https://s.shopee.com.br/1qHbOvjZ6o",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ln0bsyedrr5v9d",
+    nome: "Tomada Wi-fi Inteligente 16a",
+    descricao:
+      "Tomada Wi-fi Inteligente 16a",
+    alt: "Tomada Wi-fi Inteligente 16a",
+    linkDeCompra: "https://s.shopee.com.br/3fjFa6KxAg",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/2b08fd6e6f605ce1e832fb5f583cfcea",
+    nome: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
+    descricao:
+      "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
+    alt: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
+    linkDeCompra: "https://s.shopee.com.br/4VI5G5QiZP",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ln8yjv452ad735",
     nome: "Mini Impressora Via Bluetooth Portátil Térmica 58mm",
     descricao: "Mini Impressora Via Bluetooth Portátil Térmica 58mm",
@@ -518,17 +551,6 @@ export const produtosShopee = [
       "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
     alt: "Puff Gigante Redondo140x20 Sem Enchimento Suede Premium Linha Gold",
     linkDeCompra: "https://s.shopee.com.br/B94CVJ7y6",
-    categoria: "",
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/2b08fd6e6f605ce1e832fb5f583cfcea",
-    nome: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
-    descricao:
-      "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
-    alt: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
-    linkDeCompra: "https://s.shopee.com.br/4VI5G5QiZP",
     categoria: "",
   },
   {

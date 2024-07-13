@@ -18,8 +18,8 @@ export const siteConfig = {
       href: "/shopee",
     },
     {
-      label: "Temu",
-      href: "/temu",
+      label: "Magalu",
+      href: "/magalu",
     },
     /*{
       label: "Mercado Livre",
@@ -44,8 +44,8 @@ export const siteConfig = {
       href: "/shopee",
     },
     {
-      label: "Temu",
-      href: "/temu",
+      label: "Magalu",
+      href: "/magalu",
     },
     /*{
       label: "Mercado Livre",

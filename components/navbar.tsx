@@ -93,7 +93,7 @@ export const Navbar = () => {
                     <FaPeopleGroup />
                     {item.label}
                   </span>
-                ) : item.label === "Temu" ? (
+                ) : item.label === "Magalu" ? (
                   <span className="flex items-center gap-1">
                     <BiSolidShoppingBags />
                     {item.label}

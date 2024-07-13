@@ -2,6 +2,16 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61T2cXCWIjL._AC_SL1000_.jpg",
+    nome: "Echo Dot 5ª geração",
+    descricao:
+      "Echo Dot 5ª geração",
+    alt: "Echo Dot 5ª geração",
+    linkDeCompra: "https://amzn.to/3W4rjvd",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/51VEZ0pFsdS._SL1000_.jpg",
     nome: "Além da Ordem: Mais 12 Regras Para a Vida",
     descricao:

@@ -2,15 +2,6 @@
 const Categorias = () => {
   const categoriasData = [
     {
-      urlImg:
-        "https://img.freepik.com/vetores-gratis/tecnologia-anti-gravidade-com-elementos_23-2148085009.jpg?w=740&t=st=1719004464~exp=1719005064~hmac=1a0a829c0ffdff35e38579c04c8a8e35d0e1714bf7c5cb27a1e61bb74bdbc175",
-      alt: "Hotmart",
-      tituloCategoria: "Hotmart",
-      descricaoCategoria:
-        "",
-      to: "/hotmart",
-    },
-    {
       urlImg: "https://m.media-amazon.com/images/I/617-HLllfZL._AC_SL1000_.jpg",
       alt: "Amazon",
       tituloCategoria: "Amazon",
@@ -27,11 +18,20 @@ const Categorias = () => {
     },
     {
       urlImg:
-        "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/7e4dc85ead8b81425c1075d4c4d494b1.jpg?imageView2/2/w/800/q/70/format/webp",
-      alt: "temu",
-      tituloCategoria: "temu",
+        "https://a-static.mlcdn.com.br/800x560/smart-tv-hd-led-32-samsung-t4300-wi-fi-hdr-2-hdmi-1-usb/magazineluiza/225608200/46a9481fcf16f6013036bcda7b4e9742.jpg",
+      alt: "magalu",
+      tituloCategoria: "magalu",
       descricaoCategoria: "",
-      to: "/temu",
+      to: "/magalu",
+    },
+    {
+      urlImg:
+        "https://img.freepik.com/vetores-gratis/tecnologia-anti-gravidade-com-elementos_23-2148085009.jpg?w=740&t=st=1719004464~exp=1719005064~hmac=1a0a829c0ffdff35e38579c04c8a8e35d0e1714bf7c5cb27a1e61bb74bdbc175",
+      alt: "Hotmart",
+      tituloCategoria: "Hotmart",
+      descricaoCategoria:
+        "",
+      to: "/hotmart",
     },
     /*{
       urlImg:
@@ -52,7 +52,7 @@ const Categorias = () => {
               key={i}
               className="text-center md:mx-auto shadow-md hover:shadow-lg relative max-w-[12rem] border border-solid border-gray-200 rounded-2xl transition-all duration-500 hover:scale-105"
             >
-              <div className="block overflow-hidden object-cover">
+              <div className="block overflow-hidden object-cover md:min-h-[200px]">
                 <a href={item.to}>
                 <img
                   className=" m-auto rounded-t-2xl "

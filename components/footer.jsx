@@ -27,8 +27,8 @@ const Footer = () => {
           </li>
           {
           <li>
-            <a href="/temu" className="hover:underline">
-              Temu{" "}
+            <a href="/magalu" className="hover:underline">
+              Magalu
             </a>
           </li>
           }

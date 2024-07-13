@@ -1,63 +1,5 @@
 import { v4 as uuidv4 } from "uuid";
-/*{
-  id: uuidv4(),
-  urlImg:
-    "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwyf4h6nq7cv9b",
-  nome: "Conjunto Social Feminino 3 Peças Blazer + cropped + short",
-  descricao: "Conjunto Social Feminino 3 Peças Blazer + cropped + short",
-  alt: "Conjunto Social Feminino 3 Peças Blazer + cropped + short",
-  linkDeCompra: "https://s.shopee.com.br/8UoHSSrDWs",
-  plataforma: "Shopee",
-},
-*/
-const ml = "Magazine Luiza"
-const sh = "Shopee"
-const am = "Amazon"
-const te = "Temu"
-export const achadosHoje = [
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwygna5ymkcy4b",
-    nome: "Interruptor Inteligente Tomada 1-4 Botão WiFi",
-    descricao:
-      "Interruptor Inteligente Tomada 1-4 Botão WiFi",
-    alt: "Interruptor Inteligente Tomada 1-4 Botão WiFi",
-    linkDeCompra: "https://s.shopee.com.br/1qHbOvjZ6o",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ln0bsyedrr5v9d",
-    nome: "Tomada Wi-fi Inteligente 16a",
-    descricao:
-      "Tomada Wi-fi Inteligente 16a",
-    alt: "Tomada Wi-fi Inteligente 16a",
-    linkDeCompra: "https://s.shopee.com.br/3fjFa6KxAg",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/2b08fd6e6f605ce1e832fb5f583cfcea",
-    nome: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
-    descricao:
-      "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
-    alt: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
-    linkDeCompra: "https://s.shopee.com.br/4VI5G5QiZP",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/61T2cXCWIjL._AC_SL1000_.jpg",
-    nome: "Echo Dot 5ª geração",
-    descricao:
-      "Echo Dot 5ª geração",
-    alt: "Echo Dot 5ª geração",
-    linkDeCompra: "https://amzn.to/3W4rjvd",
-    plataforma: am,
-  },
+export const produtosMagalu = [
   {
     id: uuidv4(),
     urlImg: "https://a-static.mlcdn.com.br/800x560/console-playstation-5-digital-slim-com-2-jogos-sony/webfonesoficial/43107/ed8ef7ed2857aeb39b9717161ac1531c.jpeg",
@@ -66,7 +8,7 @@ export const achadosHoje = [
       "PlayStation 5 Digital SLIM com 2 jogos - Sony",
     alt: "PlayStation 5 Digital SLIM com 2 jogos - Sony",
     linkDeCompra: "https://divulgador.magalu.com/FTGkC1w_",
-    plataforma: ml,
+    categoria: "",
   },
   {
     id: uuidv4(),
@@ -76,7 +18,7 @@ export const achadosHoje = [
       "Samsung Galaxy S23 256GB Preto 5G 8GB RAM 6,1” Câm Tripla + Selfie 12MP",
     alt: "Samsung Galaxy S23 256GB Preto 5G 8GB RAM 6,1” Câm Tripla + Selfie 12MP",
     linkDeCompra: "https://divulgador.magalu.com/rB7lvK0l",
-    plataforma: ml,
+    categoria: "",
   },
   {
     id: uuidv4(),
@@ -86,7 +28,7 @@ export const achadosHoje = [
       "Apple iPhone 13 128GB",
     alt: "Apple iPhone 13 128GB",
     linkDeCompra: "https://divulgador.magalu.com/UVOzCNNB",
-    plataforma: ml,
+    categoria: "",
   },
   {
     id: uuidv4(),
@@ -96,7 +38,7 @@ export const achadosHoje = [
       "Geladeira/Refrigerador Electrolux Frost Free - Duplex 371L",
     alt: "Geladeira/Refrigerador Electrolux Frost Free - Duplex 371L",
     linkDeCompra: "https://divulgador.magalu.com/g9IqF3=T",
-    plataforma: ml,
+    categoria: "",
   },
   {
     id: uuidv4(),
@@ -106,7 +48,7 @@ export const achadosHoje = [
       "Console Nintendo Switch Oled com Joy-Con, Branco",
     alt: "Console Nintendo Switch Oled com Joy-Con, Branco",
     linkDeCompra: "https://divulgador.magalu.com/nubBKpIo",
-    plataforma: ml,
+    categoria: "",
   },
   {
     id: uuidv4(),
@@ -116,7 +58,7 @@ export const achadosHoje = [
       "Teclado Mecanico Gamer TGT Sherman Compacto",
     alt: "Teclado Mecanico Gamer TGT Sherman Compacto",
     linkDeCompra: "https://divulgador.magalu.com/A1ZV6eeV",
-    plataforma: ml,
+    categoria: "",
   },
   {
     id: uuidv4(),
@@ -126,7 +68,7 @@ export const achadosHoje = [
       "Suporte De Tv Led Articulado Para TV LED",
     alt: "Suporte De Tv Led Articulado Para TV LED",
     linkDeCompra: "https://divulgador.magalu.com/Jl0k0cMV",
-    plataforma: ml,
+    categoria: "",
   },
   {
     id: uuidv4(),
@@ -136,7 +78,7 @@ export const achadosHoje = [
       "Suporte De Parede Fixo Para Televisão Tv 26 à 63 Polegadas Fixa - Lelong",
     alt: "Suporte De Parede Fixo Para Televisão Tv 26 à 63 Polegadas Fixa - Lelong",
     linkDeCompra: "https://divulgador.magalu.com/INeSd_la",
-    plataforma: ml,
+    categoria: "",
   },
   {
     id: uuidv4(),
@@ -146,7 +88,7 @@ export const achadosHoje = [
       "Kit Conjunto Jogo De Facas Antianderente Kit 6 Peças",
     alt: "Kit Conjunto Jogo De Facas Antianderente Kit 6 Peças",
     linkDeCompra: "https://divulgador.magalu.com/i2xiS0Eq",
-    plataforma: ml,
+    categoria: "",
   },
   {
     id: uuidv4(),
@@ -156,6 +98,7 @@ export const achadosHoje = [
       "Smart TV 43” Full HD LED TCL",
     alt: "Smart TV 43” Full HD LED TCL",
     linkDeCompra: "https://divulgador.magalu.com/Q=xKwW0M",
-    plataforma: ml,
+    categoria: "",
   },
-]
+  
+];
