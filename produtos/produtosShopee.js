@@ -3,6 +3,72 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-23010-549byglagxmvba",
+    nome: "Brinquedos De Gato Inteligente Automáticos",
+    descricao:
+      "Brinquedos De Gato Inteligente Automáticos",
+    alt: "Brinquedos De Gato Inteligente Automáticos",
+    linkDeCompra: "https://s.shopee.com.br/607CI7Vm6Q",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-22100-1so9ye5q25iv44",
+    nome: "Suporte Porta Toalha Banheiro",
+    descricao:
+      "Suporte Porta Toalha Banheiro",
+    alt: "Suporte Porta Toalha Banheiro",
+    linkDeCompra: "https://s.shopee.com.br/AUZbJPh0lJ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lorva0315kmq1d",
+    nome: "Kit 2 Prateleiras Suporte Com Alto Adesivos",
+    descricao:
+      "Kit 2 Prateleiras Suporte Com Alto Adesivos",
+    alt: "Kit 2 Prateleiras Suporte Com Alto Adesivos",
+    linkDeCompra: "https://s.shopee.com.br/1fyCnio7OD",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsmxjeg96b0b0e",
+    nome: "torneira cozinha parede preta flexível",
+    descricao:
+      "torneira cozinha parede preta flexível",
+    alt: "torneira cozinha parede preta flexível",
+    linkDeCompra: "https://s.shopee.com.br/VmFPLbntY",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lpf5wo1fbv5x5a",
+    nome: "Kit 10 placas pvc 3d revestimento de parede",
+    descricao:
+      "Kit 10 placas pvc 3d revestimento de parede",
+    alt: "Kit 10 placas pvc 3d revestimento de parede",
+    linkDeCompra: "https://s.shopee.com.br/2qAABjeB4n",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lk1531jwqjhi0e",
+    nome: "Papel Contact Adesivo 5 Metros",
+    descricao:
+      "Papel Contact Adesivo 5 Metros",
+    alt: "Papel Contact Adesivo 5 Metros",
+    linkDeCompra: "https://s.shopee.com.br/6V3SYIv3pQ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwygna5ymkcy4b",
     nome: "Interruptor Inteligente Tomada 1-4 Botão WiFi",
     descricao:
@@ -1329,16 +1395,6 @@ export const produtosShopee = [
       "Papel de Parede Adesivo de Espuma 3D Desenho de Tijolo à Prova D'água",
     alt: "Papel de Parede Adesivo de Espuma 3D Desenho de Tijolo à Prova D'água",
     linkDeCompra: "https://s.shopee.com.br/3VPGaDpFAb",
-    categoria: "",
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-ljlpca99nte2af",
-    nome: "Kit 2 Prateleiras Suporte Com Adesivos",
-    descricao: "Kit 2 Prateleiras Suporte Com Adesivos",
-    alt: "Kit 2 Prateleiras Suporte Com Adesivos",
-    linkDeCompra: "https://s.shopee.com.br/5fTlAH5dlW",
     categoria: "",
   },
   {

@@ -18,45 +18,57 @@ export const achadosHoje = [
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwygna5ymkcy4b",
-    nome: "Interruptor Inteligente Tomada 1-4 Botão WiFi",
+      "https://down-br.img.susercontent.com/file/sg-11134201-22100-1so9ye5q25iv44",
+    nome: "Suporte Porta Toalha Banheiro",
     descricao:
-      "Interruptor Inteligente Tomada 1-4 Botão WiFi",
-    alt: "Interruptor Inteligente Tomada 1-4 Botão WiFi",
-    linkDeCompra: "https://s.shopee.com.br/1qHbOvjZ6o",
+      "Suporte Porta Toalha Banheiro",
+    alt: "Suporte Porta Toalha Banheiro",
+    linkDeCompra: "https://s.shopee.com.br/AUZbJPh0lJ",
     plataforma: sh,
   },
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-ln0bsyedrr5v9d",
-    nome: "Tomada Wi-fi Inteligente 16a",
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lorva0315kmq1d",
+    nome: "Kit 2 Prateleiras Suporte Com Alto Adesivos",
     descricao:
-      "Tomada Wi-fi Inteligente 16a",
-    alt: "Tomada Wi-fi Inteligente 16a",
-    linkDeCompra: "https://s.shopee.com.br/3fjFa6KxAg",
+      "Kit 2 Prateleiras Suporte Com Alto Adesivos",
+    alt: "Kit 2 Prateleiras Suporte Com Alto Adesivos",
+    linkDeCompra: "https://s.shopee.com.br/1fyCnio7OD",
     plataforma: sh,
   },
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/2b08fd6e6f605ce1e832fb5f583cfcea",
-    nome: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsmxjeg96b0b0e",
+    nome: "torneira cozinha parede preta flexível",
     descricao:
-      "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
-    alt: "Lâmpada Bulbo Led Rgb 3w/5w/7w/9w/12w/15w Luz Colorida 16 Cores Bivolt",
-    linkDeCompra: "https://s.shopee.com.br/4VI5G5QiZP",
+      "torneira cozinha parede preta flexível",
+    alt: "torneira cozinha parede preta flexível",
+    linkDeCompra: "https://s.shopee.com.br/VmFPLbntY",
     plataforma: sh,
   },
   {
     id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/61T2cXCWIjL._AC_SL1000_.jpg",
-    nome: "Echo Dot 5ª geração",
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lpf5wo1fbv5x5a",
+    nome: "Kit 10 placas pvc 3d revestimento de parede",
     descricao:
-      "Echo Dot 5ª geração",
-    alt: "Echo Dot 5ª geração",
-    linkDeCompra: "https://amzn.to/3W4rjvd",
-    plataforma: am,
+      "Kit 10 placas pvc 3d revestimento de parede",
+    alt: "Kit 10 placas pvc 3d revestimento de parede",
+    linkDeCompra: "https://s.shopee.com.br/2qAABjeB4n",
+    plataforma: sh,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lk1531jwqjhi0e",
+    nome: "Papel Contact Adesivo 5 Metros",
+    descricao:
+      "Papel Contact Adesivo 5 Metros",
+    alt: "Papel Contact Adesivo 5 Metros",
+    linkDeCompra: "https://s.shopee.com.br/6V3SYIv3pQ",
+    plataforma: sh,
   },
   {
     id: uuidv4(),
@@ -87,75 +99,25 @@ export const achadosHoje = [
     alt: "Apple iPhone 13 128GB",
     linkDeCompra: "https://divulgador.magalu.com/UVOzCNNB",
     plataforma: ml,
+  }, 
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71oSXsvi1tL._AC_SL1500_.jpg",
+    nome: "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
+    descricao:
+      "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
+    alt: "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
+    linkDeCompra: "https://amzn.to/4d0gmBy",
+    plataforma: am,
   },
   {
     id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/800x560/geladeira-refrigerador-electrolux-frost-free-duplex-371l-dfx41/magazineluiza/013080800/7ed257d89938c3b90fa19d5f0c59fc05.jpg",
-    nome: "Geladeira/Refrigerador Electrolux Frost Free - Duplex 371L",
+    urlImg: "https://m.media-amazon.com/images/I/51-uXZ5hj8L._AC_.jpg",
+    nome: "Kit 2 Mesa de Cabeceira Retrô",
     descricao:
-      "Geladeira/Refrigerador Electrolux Frost Free - Duplex 371L",
-    alt: "Geladeira/Refrigerador Electrolux Frost Free - Duplex 371L",
-    linkDeCompra: "https://divulgador.magalu.com/g9IqF3=T",
-    plataforma: ml,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/800x560/console-nintendo-switch-oled-com-joy-con-branco-hbgskaaa2/kabum/385192/8c7dd6a643df5e97f5986ea4a0b0e366.jpeg",
-    nome: "Nintendo Switch Oled com Joy-Con, Branco",
-    descricao:
-      "Console Nintendo Switch Oled com Joy-Con, Branco",
-    alt: "Console Nintendo Switch Oled com Joy-Con, Branco",
-    linkDeCompra: "https://divulgador.magalu.com/nubBKpIo",
-    plataforma: ml,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/800x560/teclado-mecanico-gamer-tgt-sherman-compacto-rainbow-abnt2-switch-azul-preto-tgt-shtkl-rbw01/pichauinfo/tgt-shtkl-rbw01/4ad557933d45b66dfa2d38eba49d6a11.jpeg",
-    nome: "Teclado Mecanico Gamer TGT Sherman Compacto",
-    descricao:
-      "Teclado Mecanico Gamer TGT Sherman Compacto",
-    alt: "Teclado Mecanico Gamer TGT Sherman Compacto",
-    linkDeCompra: "https://divulgador.magalu.com/A1ZV6eeV",
-    plataforma: ml,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/800x560/suporte-de-tv-led-articulado-para-tv-led-lcd-plasma-3d-e-smart-parede-14-a-42-polegadas-35kg-caerus/eletromassa/15939189858/629f8a5170114da46068f6605a3e0514.jpeg",
-    nome: "Suporte De Tv Led Articulado Para TV LED",
-    descricao:
-      "Suporte De Tv Led Articulado Para TV LED",
-    alt: "Suporte De Tv Led Articulado Para TV LED",
-    linkDeCompra: "https://divulgador.magalu.com/Jl0k0cMV",
-    plataforma: ml,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/800x560/suporte-de-parede-fixo-para-televisao-tv-26-a-63-polegadas-fixa-lelong/eletromassa/14218/421a804098adce377e072a796e94c969.jpeg",
-    nome: "Suporte De Parede Fixo Para Televisão Tv 26 à 63 Polegadas Fixa - Lelong",
-    descricao:
-      "Suporte De Parede Fixo Para Televisão Tv 26 à 63 Polegadas Fixa - Lelong",
-    alt: "Suporte De Parede Fixo Para Televisão Tv 26 à 63 Polegadas Fixa - Lelong",
-    linkDeCompra: "https://divulgador.magalu.com/INeSd_la",
-    plataforma: ml,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/1500x1500/kit-conjunto-jogo-de-facas-antianderente-kit-6-pecas-chef-cozinha-aco-inoxidavel-churrasco-prime/magaprimer/be0f17185d6a11ee9e7a4201ac185056/54baf51ac93daadd3d8e278cfe8a6609.jpeg",
-    nome: "Kit Conjunto Jogo De Facas Antianderente Kit 6 Peças",
-    descricao:
-      "Kit Conjunto Jogo De Facas Antianderente Kit 6 Peças",
-    alt: "Kit Conjunto Jogo De Facas Antianderente Kit 6 Peças",
-    linkDeCompra: "https://divulgador.magalu.com/i2xiS0Eq",
-    plataforma: ml,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/1500x1500/smart-tv-43-full-hd-led-tcl-43s5400a-android-wi-fi-bluetooth-google-assistente-2-hdmi-1-usb/magazineluiza/237862800/96ffa7e02bf086c471baa241a84aa46e.jpg",
-    nome: "Smart TV 43” Full HD LED TCL",
-    descricao:
-      "Smart TV 43” Full HD LED TCL",
-    alt: "Smart TV 43” Full HD LED TCL",
-    linkDeCompra: "https://divulgador.magalu.com/Q=xKwW0M",
-    plataforma: ml,
+      "Kit 2 Mesa de Cabeceira Retrô",
+    alt: "Kit 2 Mesa de Cabeceira Retrô",
+    linkDeCompra: "https://amzn.to/3zFAQRT",
+    plataforma: am,
   },
 ]

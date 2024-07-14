@@ -1,4 +1,3 @@
-
 const Categorias = () => {
   const categoriasData = [
     {
@@ -29,8 +28,7 @@ const Categorias = () => {
         "https://img.freepik.com/vetores-gratis/tecnologia-anti-gravidade-com-elementos_23-2148085009.jpg?w=740&t=st=1719004464~exp=1719005064~hmac=1a0a829c0ffdff35e38579c04c8a8e35d0e1714bf7c5cb27a1e61bb74bdbc175",
       alt: "Hotmart",
       tituloCategoria: "Hotmart",
-      descricaoCategoria:
-        "",
+      descricaoCategoria: "",
       to: "/hotmart",
     },
     /*{
@@ -44,8 +42,8 @@ const Categorias = () => {
   ];
   return (
     <>
-    <h1 className="text-3xl">Achadinhos</h1>
-      <section className=" gap-5 grid grid-cols-2 p-3 md:grid-cols-4 md:items-center  md:p-8 border border-gray-200 rounded-lg shadow-md w-full ">
+      <section className=" gap-5 grid  grid-cols-2  md:grid-cols-4 md:items-center pb-5   border border-gray-200 rounded-lg shadow-md w-full ">
+        <h1 className="text-3xl col-span-2 text-center bg-yellow-300 p-4  md:col-span-4 rounded-t-md ">Achadinhos</h1>
         {categoriasData.map((item, i) => {
           return (
             <div
@@ -54,12 +52,11 @@ const Categorias = () => {
             >
               <div className="block overflow-hidden object-cover md:min-h-[200px]">
                 <a href={item.to}>
-                <img
-                  className=" m-auto rounded-t-2xl "
-                  src={item.urlImg}
-                  alt={item.alt}
-                />
-
+                  <img
+                    className=" m-auto rounded-t-2xl "
+                    src={item.urlImg}
+                    alt={item.alt}
+                  />
                 </a>
               </div>
               <div className="mb-7">

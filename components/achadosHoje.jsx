@@ -1,12 +1,11 @@
 import { achadosHoje } from "../produtos/achadosDeHoje";
-import Card from "./card";
 import PrimaryButton from "./primarybutton";
 
 const AchadosHoje = () => {
   return (
-    <>
-      <h1 className="text-3xl">Achadinhos de Hoje</h1>
-      <section className=" gap-5 p-3 flex flex-wrap justify-center sm:items-center md:p-8 border border-gray-200 rounded-lg shadow-md w-full ">
+    
+      <section className=" gap-5 w-full flex flex-wrap justify-center sm:items-center pb-5 border border-gray-200 rounded-lg shadow-md  ">
+      <h1 className="block w-full text-4xl text-center bg-yellow-300 rounded-t-md  p-4">Achadinhos de Hoje</h1>
         {achadosHoje.map(
           ({ id, urlImg, nome, descricao, alt, linkDeCompra, plataforma }) => {
             return (
@@ -61,7 +60,6 @@ const AchadosHoje = () => {
           }
         )}
       </section>
-    </>
   );
 };
 

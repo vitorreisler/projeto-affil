@@ -26,7 +26,7 @@ export default function Home() {
         <img className="w-full" src="/images/banner1.png" alt="Banner grande" />
       )}
 
-      <section className="flex flex-col items-center justify-center mx-auto gap-4 max-w-7xl pt-5 px-6 flex-grow">
+      <section className="flex flex-col items-center justify-center mx-auto gap-4 max-w-7xl pt-5 px-3 flex-grow">
         <AchadosHoje />
         <Categorias />
         <Review />

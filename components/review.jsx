@@ -60,48 +60,50 @@ const Review = () => {
 
   return (
     <>
-      <h1 className="text-3xl">O Que Nossos Clientes Dizem</h1>
-      <section className="w-full bg-slate-100 flex md:justify-between overflow-x-scroll scrollbar-hide shadow-lg p-4 mb-7">
-        {randomReviews.map((review, i) => (
-          <div
-            key={i}
-            className="block max-w-[320px] p-6 bg-white border border-gray-200 md:rounded-lg shadow-md  dark:bg-gray-800 dark:border-gray-700 "
-          >
-            <div className="flex flex-wrap gap-4 items-center justify-center md:justify-start">
-              <img
-                className="w-10 h-10 rounded-full"
-                src={review.imgPerfil}
-                alt="Rounded avatar"
-              />
-              <h5 className="mb-2 text-xl font-bold text-center tracking-tight text-gray-900 dark:text-white">
-                {review.titulo}
-              </h5>
+      <section className="w-full bg-slate-100 flex flex-col md:justify-between overflow-x-scroll scrollbar-hide shadow-lg pb-5 mb-7">
+      <h1 className="text-4xl block w-full bg-yellow-300 p-4 text-center mb-5 rounded-t-md flex-grow">O Que Nossos Clientes Dizem</h1>
+        <div className="flex justify-evenly">
+          {randomReviews.map((review, i) => (
+            <div
+              key={i}
+              className="block max-w-[320px] p-6 bg-white border border-gray-200 md:rounded-lg shadow-md  dark:bg-gray-800 dark:border-gray-700 "
+            >
+              <div className="flex flex-wrap gap-4 items-center justify-center md:justify-start">
+                <img
+                  className="w-10 h-10 rounded-full"
+                  src={review.imgPerfil}
+                  alt="Rounded avatar"
+                />
+                <h5 className="mb-2 text-xl font-bold text-center tracking-tight text-gray-900 dark:text-white">
+                  {review.titulo}
+                </h5>
+              </div>
+              <p className="font-normal text-gray-700 dark:text-gray-400">
+                {review.comentario}
+              </p>
+              <div className="flex items-center py-3">
+                {[...Array(5)].map((star, index) => {
+                  return (
+                    <svg
+                      key={index}
+                      className={`w-4 h-4 ms-1 ${
+                        index < review.nota
+                          ? "text-yellow-300"
+                          : "text-gray-300 dark:text-gray-500"
+                      }`}
+                      aria-hidden="true"
+                      xmlns="http://www.w3.org/2000/svg"
+                      fill="currentColor"
+                      viewBox="0 0 22 20"
+                    >
+                      <path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z" />
+                    </svg>
+                  );
+                })}
+              </div>
             </div>
-            <p className="font-normal text-gray-700 dark:text-gray-400">
-              {review.comentario}
-            </p>
-            <div className="flex items-center py-3">
-              {[...Array(5)].map((star, index) => {
-                return (
-                  <svg
-                    key={index}
-                    className={`w-4 h-4 ms-1 ${
-                      index < review.nota
-                        ? "text-yellow-300"
-                        : "text-gray-300 dark:text-gray-500"
-                    }`}
-                    aria-hidden="true"
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="currentColor"
-                    viewBox="0 0 22 20"
-                  >
-                    <path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z" />
-                  </svg>
-                );
-              })}
-            </div>
-          </div>
-        ))}
+          ))}
+        </div>
       </section>
     </>
   );

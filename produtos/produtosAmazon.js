@@ -2,6 +2,26 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71oSXsvi1tL._AC_SL1500_.jpg",
+    nome: "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
+    descricao:
+      "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
+    alt: "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
+    linkDeCompra: "https://amzn.to/4d0gmBy",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51-uXZ5hj8L._AC_.jpg",
+    nome: "Kit 2 Mesa de Cabeceira Retrô",
+    descricao:
+      "Kit 2 Mesa de Cabeceira Retrô",
+    alt: "Kit 2 Mesa de Cabeceira Retrô",
+    linkDeCompra: "https://amzn.to/3zFAQRT",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61T2cXCWIjL._AC_SL1000_.jpg",
     nome: "Echo Dot 5ª geração",
     descricao:
