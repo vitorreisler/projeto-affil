@@ -3,6 +3,49 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/cd5d36b80afed69a6ac0b0d94557a22b",
+    nome: "Placa Painel Ripado 30x30 - kit 22 peças (2m²) | 9 Cores | Anti-impacto | Autocolante",
+    descricao:
+      "Placa Painel Ripado 30x30 - kit 22 peças (2m²) | 9 Cores | Anti-impacto | Autocolante",
+    alt: "Placa Painel Ripado 30x30 - kit 22 peças (2m²) | 9 Cores | Anti-impacto | Autocolante",
+    linkDeCompra: "https://s.shopee.com.br/9f0XNWzsNb",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rcdz-ls49he5j81ut73",
+    nome: "Dobrável Pequena Mesa De Jantar Pernas Metal",
+    descricao:
+      "Dobrável Pequena Mesa De Jantar Pernas Metal",
+    alt: "Dobrável Pequena Mesa De Jantar Pernas Metal",
+    linkDeCompra: "https://s.shopee.com.br/q0w2HMot",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvnorw01ymcef0",
+    nome: "Mesa Dobravel Retratil de Parede",
+    descricao:
+      "Mesa Dobravel Retratil de Parede",
+    alt: "Mesa Dobravel Retratil de Parede",
+    linkDeCompra: "https://s.shopee.com.br/3An2iR8IeT",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/df9b78d28baa2b99c43e6196c95bd0b1",
+    nome: "Kit 10 Espelho Adesivo Decorativo Hexágono 12x10cm",
+    descricao: "Kit 10 Espelho Adesivo Decorativo Hexágono 12x10cm",
+    alt: "Kit 10 Espelho Adesivo Decorativo Hexágono 12x10cm",
+    linkDeCompra: "https://s.shopee.com.br/8pR5mDj5O3",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-23010-549byglagxmvba",
     nome: "Brinquedos De Gato Inteligente Automáticos",
     descricao:
@@ -576,16 +619,6 @@ export const produtosShopee = [
     descricao: "Armário Carrinho Multiuso Com 4 Camadas",
     alt: "Armário Carrinho Multiuso Com 4 Camadas",
     linkDeCompra: "https://s.shopee.com.br/1LL4qsVfOw",
-    categoria: "",
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/df9b78d28baa2b99c43e6196c95bd0b1",
-    nome: "Kit 10 Espelho Adesivo Decorativo Hexágono 12x10cm",
-    descricao: "Kit 10 Espelho Adesivo Decorativo Hexágono 12x10cm",
-    alt: "Kit 10 Espelho Adesivo Decorativo Hexágono 12x10cm",
-    linkDeCompra: "https://s.shopee.com.br/8pR5mDj5O3",
     categoria: "",
   },
   {

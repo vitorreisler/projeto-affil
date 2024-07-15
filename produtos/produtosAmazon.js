@@ -2,10 +2,27 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71NqV-SLt8S._AC_SL1500_.jpg",
+    nome: "Colgate Creme Dental Clareador Luminous White Carvão Ativado 70G",
+    descricao: "Colgate Creme Dental Clareador Luminous White Carvão Ativado 70G",
+    alt: "Colgate Creme Dental Clareador Luminous White Carvão Ativado 70G",
+    linkDeCompra: "https://amzn.to/3zPULgQ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/6128GZRufUL._AC_SL1000_.jpg",
+    nome: "Sabonete em Barra Protex Carvão Detox 6 unid",
+    descricao: "Sabonete em Barra Protex Carvão Detox 6 unid",
+    alt: "Sabonete em Barra Protex Carvão Detox 6 unid",
+    linkDeCompra: "https://amzn.to/3Y3hAI1",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71oSXsvi1tL._AC_SL1500_.jpg",
     nome: "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
-    descricao:
-      "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
+    descricao: "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
     alt: "Cooktop a Gás, 4 Bocas, Mondial, Preto/Inox, Bivolt",
     linkDeCompra: "https://amzn.to/4d0gmBy",
     categoria: "",
@@ -14,8 +31,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/51-uXZ5hj8L._AC_.jpg",
     nome: "Kit 2 Mesa de Cabeceira Retrô",
-    descricao:
-      "Kit 2 Mesa de Cabeceira Retrô",
+    descricao: "Kit 2 Mesa de Cabeceira Retrô",
     alt: "Kit 2 Mesa de Cabeceira Retrô",
     linkDeCompra: "https://amzn.to/3zFAQRT",
     categoria: "",
@@ -24,8 +40,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61T2cXCWIjL._AC_SL1000_.jpg",
     nome: "Echo Dot 5ª geração",
-    descricao:
-      "Echo Dot 5ª geração",
+    descricao: "Echo Dot 5ª geração",
     alt: "Echo Dot 5ª geração",
     linkDeCompra: "https://amzn.to/3W4rjvd",
     categoria: "",
@@ -34,8 +49,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/51VEZ0pFsdS._SL1000_.jpg",
     nome: "Além da Ordem: Mais 12 Regras Para a Vida",
-    descricao:
-      "Além da Ordem: Mais 12 Regras Para a Vida",
+    descricao: "Além da Ordem: Mais 12 Regras Para a Vida",
     alt: "Além da Ordem: Mais 12 Regras Para a Vida",
     linkDeCompra: "https://amzn.to/4cxTNEL",
     categoria: "",
@@ -44,8 +58,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/51DSFiydE-L._SL1000_.jpg",
     nome: "12 Regras Para a Vida: Um Antídoto Para o Caos",
-    descricao:
-      "12 Regras Para a Vida: Um Antídoto Para o Caos",
+    descricao: "12 Regras Para a Vida: Um Antídoto Para o Caos",
     alt: "12 Regras Para a Vida: Um Antídoto Para o Caos",
     linkDeCompra: "https://amzn.to/3SqVqft",
     categoria: "",
@@ -64,8 +77,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71lrDvnAu3L._AC_SL1500_.jpg",
     nome: "KISS NEW YORK Combo de Navalhas",
-    descricao:
-      "KISS NEW YORK Combo de Navalhas",
+    descricao: "KISS NEW YORK Combo de Navalhas",
     alt: "KISS NEW YORK Combo de Navalhas",
     linkDeCompra: "https://amzn.to/4cBeH5E",
     categoria: "",
@@ -74,8 +86,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71wXgOv8jaL._AC_SL1500_.jpg",
     nome: "Suporte de esfregão e vassoura para parede",
-    descricao:
-      "Suporte de esfregão e vassoura para parede",
+    descricao: "Suporte de esfregão e vassoura para parede",
     alt: "Suporte de esfregão e vassoura para parede",
     linkDeCompra: "https://amzn.to/3xDgdFq",
     categoria: "",
@@ -114,8 +125,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/31j4RSIQHDL._AC_.jpg",
     nome: "Rodízio Kit 5 Rodinhas Para Cadeira De Escritório Giratória",
-    descricao:
-      "Rodízio Kit 5 Rodinhas Para Cadeira De Escritório Giratória",
+    descricao: "Rodízio Kit 5 Rodinhas Para Cadeira De Escritório Giratória",
     alt: "Rodízio Kit 5 Rodinhas Para Cadeira De Escritório Giratória",
     linkDeCompra: "https://amzn.to/4by5BoT",
     categoria: "Escritório",
@@ -124,8 +134,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71PzO3BvlrL._AC_SL1409_.jpg",
     nome: "Playskool, Boneco Mr. Potato Head Toy Story Buzz, Multicor",
-    descricao:
-      "Playskool, Boneco Mr. Potato Head Toy Story Buzz, Multicor",
+    descricao: "Playskool, Boneco Mr. Potato Head Toy Story Buzz, Multicor",
     alt: "Playskool, Boneco Mr. Potato Head Toy Story Buzz, Multicor",
     linkDeCompra: "https://amzn.to/3VSbTKu",
     categoria: "Brinquedo",
@@ -184,8 +193,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/514SAWMycXL._AC_SL1200_.jpg",
     nome: "Mini Lanterna Tatica Led Alumínio Super Forte Recarregavel Usb",
-    descricao:
-      "Mini Lanterna Tatica Led Alumínio Super Forte Recarregavel Usb",
+    descricao: "Mini Lanterna Tatica Led Alumínio Super Forte Recarregavel Usb",
     alt: "Mini Lanterna Tatica Led Alumínio Super Forte Recarregavel Usb",
     linkDeCompra: "https://amzn.to/3RUsgop",
     categoria: "Eletrônico",
@@ -204,8 +212,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71kvvuuKK3L._AC_SL1500_.jpg",
     nome: "Filtro de Linha Power Line de 6 tomadas em Gabinete Plástico",
-    descricao:
-      "Filtro de Linha Power Line de 6 tomadas em Gabinete Plástico",
+    descricao: "Filtro de Linha Power Line de 6 tomadas em Gabinete Plástico",
     alt: "Filtro de Linha Power Line de 6 tomadas em Gabinete Plástico",
     linkDeCompra: "https://amzn.to/4buhso6",
     categoria: "Eletrônico",
@@ -214,8 +221,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61i2HM5i97L._AC_SL1500_.jpg",
     nome: "Chocolate Sonho de Valsa Pacote 1Kg",
-    descricao:
-      "Chocolate Sonho de Valsa Pacote 1Kg",
+    descricao: "Chocolate Sonho de Valsa Pacote 1Kg",
     alt: "Chocolate Sonho de Valsa Pacote 1Kg",
     linkDeCompra: "https://amzn.to/3VXSsQy",
     categoria: "Alimento",
@@ -224,8 +230,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71hFk5aKMYL._AC_SL1500_.jpg",
     nome: "Bis Original Ao Leite - Kit com 3 unidades de 100,8g",
-    descricao:
-      "Bis Original Ao Leite - Kit com 3 unidades de 100,8g",
+    descricao: "Bis Original Ao Leite - Kit com 3 unidades de 100,8g",
     alt: "Bis Original Ao Leite - Kit com 3 unidades de 100,8g",
     linkDeCompra: "https://amzn.to/3XQklMP",
     categoria: "Alimento",
@@ -234,8 +239,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/51CL2s7YMEL._AC_SL1074_.jpg",
     nome: "Whisky Johnnie Walker Black Label 12 Anos 1L",
-    descricao:
-      "Whisky Johnnie Walker Black Label 12 Anos 1L",
+    descricao: "Whisky Johnnie Walker Black Label 12 Anos 1L",
     alt: "Whisky Johnnie Walker Black Label 12 Anos 1L",
     linkDeCompra: "https://amzn.to/4bxjwMb",
     categoria: "Alimento",
@@ -254,8 +258,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61JSetSXeXL._AC_SL1500_.jpg",
     nome: "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
-    descricao:
-      "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
+    descricao: "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
     alt: "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
     linkDeCompra: "https://amzn.to/3zkbpFk",
     categoria: "Beleza",
@@ -333,8 +336,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61IfUXVbkmL._AC_SL1007_.jpg",
     nome: "Mouse Sem Fio Lenovo 300 Compact 1000dpi Preto",
-    descricao:
-      "Mouse Sem Fio Lenovo 300 Compact 1000dpi Preto",
+    descricao: "Mouse Sem Fio Lenovo 300 Compact 1000dpi Preto",
     alt: "Mouse Sem Fio Lenovo 300 Compact 1000dpi Preto",
     linkDeCompra: "https://amzn.to/4bfstcR",
     categoria: "Eletrônico",
@@ -343,8 +345,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61WrR7z-pGL._AC_SL1280_.jpg",
     nome: "Mouse Dell WM126",
-    descricao:
-      "Mouse Dell WM126",
+    descricao: "Mouse Dell WM126",
     alt: "Mouse Dell WM126",
     linkDeCompra: "https://amzn.to/3XAVagZ",
     categoria: "Eletrônico",
@@ -363,8 +364,7 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/611J91ovSlL._AC_SL1500_.jpg",
     nome: "Mi Band 8 Active versão global (Preto)",
-    descricao:
-      "Xiaomi Mi Band 8 Active versão global (Preto)",
+    descricao: "Xiaomi Mi Band 8 Active versão global (Preto)",
     alt: "Xiaomi Mi Band 8 Active versão global (Preto)",
     linkDeCompra: "https://amzn.to/4ezVEdy",
     categoria: "Eletrônico",
@@ -391,7 +391,8 @@ export const produtosAmazon = [
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/41k-cvl8n-L._AC_.jpg",
     nome: "Película TPU Gel para Xiaomi Mi Band 8 Active, Mi Smart Band 8 active (Exclusivo) c/ 2 un",
-    descricao: "Película TPU Gel para Xiaomi Mi Band 8 Active, Mi Smart Band 8 active (Exclusivo) c/ 2 un",
+    descricao:
+      "Película TPU Gel para Xiaomi Mi Band 8 Active, Mi Smart Band 8 active (Exclusivo) c/ 2 un",
     alt: "Película TPU Gel para Xiaomi Mi Band 8 Active, Mi Smart Band 8 active (Exclusivo) c/ 2 un",
     linkDeCompra: "https://amzn.to/4eBu0g0",
     categoria: "Pelicula",

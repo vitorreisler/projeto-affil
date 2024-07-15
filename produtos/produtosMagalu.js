@@ -2,12 +2,22 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosMagalu = [
   {
     id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/800x560/console-playstation-5-digital-slim-com-2-jogos-sony/webfonesoficial/43107/ed8ef7ed2857aeb39b9717161ac1531c.jpeg",
-    nome: "PlayStation 5 Digital SLIM com 2 jogos - Sony",
+    urlImg: "https://a-static.mlcdn.com.br/800x560/geladeira-refrigerador-electrolux-manual-duplex-260l-cycle-defrost-dc35a-branco/magazineluiza/013070601/99daf5827bd1c657661692d7f2cf67ba.jpg",
+    nome: "Geladeira/Refrigerador Electrolux Manual Duplex 260L Cycle Defrost DC35A Branco",
     descricao:
-      "PlayStation 5 Digital SLIM com 2 jogos - Sony",
-    alt: "PlayStation 5 Digital SLIM com 2 jogos - Sony",
-    linkDeCompra: "https://divulgador.magalu.com/FTGkC1w_",
+      "Geladeira/Refrigerador Electrolux Manual Duplex 260L Cycle Defrost DC35A Branco",
+    alt: "Geladeira/Refrigerador Electrolux Manual Duplex 260L Cycle Defrost DC35A Branco",
+    linkDeCompra: "https://divulgador.magalu.com/HiWnHFk3",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/800x560/fogao-4-bocas-esmaltec-agata-acendimento-automatico-branco/magazineluiza/012258101/e527e9777940ae6e07d17ab0ffcf12ef.jpg",
+    nome: "Fogão 4 Bocas Esmaltec ",
+    descricao:
+      "Fogão 4 Bocas Esmaltec ",
+    alt: "Fogão 4 Bocas Esmaltec ",
+    linkDeCompra: "https://divulgador.magalu.com/BttnLpma",
     categoria: "",
   },
   {
@@ -28,16 +38,6 @@ export const produtosMagalu = [
       "Apple iPhone 13 128GB",
     alt: "Apple iPhone 13 128GB",
     linkDeCompra: "https://divulgador.magalu.com/UVOzCNNB",
-    categoria: "",
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/800x560/geladeira-refrigerador-electrolux-frost-free-duplex-371l-dfx41/magazineluiza/013080800/7ed257d89938c3b90fa19d5f0c59fc05.jpg",
-    nome: "Geladeira/Refrigerador Electrolux Frost Free - Duplex 371L",
-    descricao:
-      "Geladeira/Refrigerador Electrolux Frost Free - Duplex 371L",
-    alt: "Geladeira/Refrigerador Electrolux Frost Free - Duplex 371L",
-    linkDeCompra: "https://divulgador.magalu.com/g9IqF3=T",
     categoria: "",
   },
   {
