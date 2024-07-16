@@ -2,6 +2,36 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosMagalu = [
   {
     id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/800x560/rack-para-tv-ate-75-polegadas-madesa-reims-2-portas-1-gaveta/madesamoveis/691709acp/fde1151b2766bfe586bdfbc7efa741fa.jpeg",
+    nome: "Rack para TV até 75 Polegadas Madesa Reims 2 Portas 1 Gaveta ",
+    descricao:
+      "Rack para TV até 75 Polegadas Madesa Reims 2 Portas 1 Gaveta ",
+    alt: "Rack para TV até 75 Polegadas Madesa Reims 2 Portas 1 Gaveta ",
+    linkDeCompra: "https://divulgador.magalu.com/evqkaiq0",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/1500x1500/guarda-roupa-solteiro-istambul-2-portas-2-gavetas-com-espelho-branco-panorama-moveis/panoramamoveis/76191/84341ce69fcff7e67ac3f3b0dab71835.jpeg",
+    nome: "Guarda-Roupa Solteiro Istambul 2 Portas 2 Gavetas com Espelho Branco ",
+    descricao:
+      "Guarda-Roupa Solteiro Istambul 2 Portas 2 Gavetas com Espelho Branco ",
+    alt: "Guarda-Roupa Solteiro Istambul 2 Portas 2 Gavetas com Espelho Branco ",
+    linkDeCompra: "https://divulgador.magalu.com/EUo5lPij",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/800x560/smart-tv-32-full-hd-led-tcl-32s5400a-android-wi-fi-bluetooth-google-assistente-2-hdmi-1-usb/magazineluiza/237863300/bf4634716f6c15a499f6972b915f3462.jpg",
+    nome: "Smart TV 32” Full HD LED TCL 32S5400A Android ",
+    descricao:
+      "Smart TV 32” Full HD LED TCL 32S5400A Android ",
+    alt: "Smart TV 32” Full HD LED TCL 32S5400A Android ",
+    linkDeCompra: "https://divulgador.magalu.com/3JqE3Fi3",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://a-static.mlcdn.com.br/800x560/geladeira-refrigerador-electrolux-manual-duplex-260l-cycle-defrost-dc35a-branco/magazineluiza/013070601/99daf5827bd1c657661692d7f2cf67ba.jpg",
     nome: "Geladeira/Refrigerador Electrolux Manual Duplex 260L Cycle Defrost DC35A Branco",
     descricao:

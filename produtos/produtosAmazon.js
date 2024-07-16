@@ -2,6 +2,43 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/611J91ovSlL._AC_SL1500_.jpg",
+    nome: "Mi Band 8 Active versão global (Preto)",
+    descricao: "Xiaomi Mi Band 8 Active versão global (Preto)",
+    alt: "Xiaomi Mi Band 8 Active versão global (Preto)",
+    linkDeCompra: "https://amzn.to/4ezVEdy",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61n+WjDF9hL._AC_SL1500_.jpg",
+    nome: "Fritadeira Forno Oven Fry 4 em 1 Elgin 12 Litros",
+    descricao: "Fritadeira Forno Oven Fry 4 em 1 Elgin 12 Litros",
+    alt: "Fritadeira Forno Oven Fry 4 em 1 Elgin 12 Litros",
+    linkDeCompra: "https://amzn.to/3WpxzPi",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61A95inxrrL._AC_SL1500_.jpg",
+    nome: "Aparador e raspador de pelos do corpo, à prova d’água",
+    descricao: "Aparador e raspador de pelos do corpo, à prova d’água",
+    alt: "Aparador e raspador de pelos do corpo, à prova d’água",
+    linkDeCompra: "https://amzn.to/4bSXyn6",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/81ZvbEt1aAL._AC_SL1500_.jpg",
+    nome: "Kindle 11ª Geração (modelo 2022) – Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta ",
+    descricao:
+      "Kindle 11ª Geração (modelo 2022) – Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta ",
+    alt: "Kindle 11ª Geração (modelo 2022) – Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta ",
+    linkDeCompra: "https://amzn.to/4ar5WJt",
+    categoria: "Eletrônico",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/71NqV-SLt8S._AC_SL1500_.jpg",
     nome: "Colgate Creme Dental Clareador Luminous White Carvão Ativado 70G",
     descricao: "Colgate Creme Dental Clareador Luminous White Carvão Ativado 70G",
@@ -362,15 +399,6 @@ export const produtosAmazon = [
   },
   {
     id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/611J91ovSlL._AC_SL1500_.jpg",
-    nome: "Mi Band 8 Active versão global (Preto)",
-    descricao: "Xiaomi Mi Band 8 Active versão global (Preto)",
-    alt: "Xiaomi Mi Band 8 Active versão global (Preto)",
-    linkDeCompra: "https://amzn.to/4ezVEdy",
-    categoria: "Eletrônico",
-  },
-  {
-    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/31d2fUdrBaL._AC_SL1080_.jpg",
     nome: "JBL, Fone de Ouvido in Ear, C50HI - Preto",
     descricao: "JBL, Fone de Ouvido in Ear, C50HI - Preto",
@@ -434,16 +462,6 @@ export const produtosAmazon = [
       "Suporte para Notebook e Tablet em Alumínio Resistente Apoio Mesa em Metal Articulado Dobrável Ajustável",
     alt: "Suporte para Notebook e Tablet em Alumínio Resistente Apoio Mesa em Metal Articulado Dobrável Ajustável",
     linkDeCompra: "https://amzn.to/3KN057b",
-    categoria: "Eletrônico",
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/81ZvbEt1aAL._AC_SL1500_.jpg",
-    nome: "Kindle 11ª Geração (modelo 2022) – Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta ",
-    descricao:
-      "Kindle 11ª Geração (modelo 2022) – Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta ",
-    alt: "Kindle 11ª Geração (modelo 2022) – Mais leve, com resolução de 300 ppi e o dobro de armazenamento - Cor Preta ",
-    linkDeCompra: "https://amzn.to/4ar5WJt",
     categoria: "Eletrônico",
   },
   {

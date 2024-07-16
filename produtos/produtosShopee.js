@@ -3,6 +3,61 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rcdh-lr3e2aaifob4c2",
+    nome: "Lavadora de Alta Pressão Portátil Recarregável",
+    descricao:
+      "Lavadora de Alta Pressão Portátil Recarregável",
+    alt: "Lavadora de Alta Pressão Portátil Recarregável",
+    linkDeCompra: "https://s.shopee.com.br/20b6a6mRLg",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lioa4v3mvc8gee",
+    nome: "Jaqueta Masculina Forrada Apeluciada .Do P. ao G6",
+    descricao:
+      "Jaqueta Masculina Forrada Apeluciada .Do P. ao G6",
+    alt: "Jaqueta Masculina Forrada Apeluciada .Do P. ao G6",
+    linkDeCompra: "https://s.shopee.com.br/8KVAiCYrrd",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-luknjmzbn990b6",
+    nome: "Casaco Jaqueta Bomber Blusa Feminin",
+    descricao:
+      "Casaco Jaqueta Bomber Blusa Feminin",
+    alt: "Casaco Jaqueta Bomber Blusa Feminin",
+    linkDeCompra: "https://s.shopee.com.br/9pJyX3ceXA",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbmb-lo8gotg960in6f",
+    nome: "Jaqueta Bobojaco Impermeável Becker",
+    descricao:
+      "Jaqueta Bobojaco Impermeável Becker",
+    alt: "Jaqueta Bobojaco Impermeável Becker",
+    linkDeCompra: "https://s.shopee.com.br/6V3WWrjv7L",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/419b6fc33a8f346cabb46445ba8d5b29",
+    nome: "Parka Sobretudo Feminina",
+    descricao:
+      "Parka Sobretudo Feminina",
+    alt: "Parka Sobretudo Feminina",
+    linkDeCompra: "https://s.shopee.com.br/6pgMvloZyr",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/cd5d36b80afed69a6ac0b0d94557a22b",
     nome: "Placa Painel Ripado 30x30 - kit 22 peças (2m²) | 9 Cores | Anti-impacto | Autocolante",
     descricao:
