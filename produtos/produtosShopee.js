@@ -2,6 +2,16 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosShopee = [
   {
     id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lktf9euw96l4b8",
+    nome: "Gabinete para tanque com rodinhas ",
+    descricao:
+      "Gabinete para tanque com rodinhas ",
+    alt: "Gabinete para tanque com rodinhas ",
+    linkDeCompra: "https://s.shopee.com.br/4fbuW67G8p",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lg4itpblp72634",
     nome: "Pantufa Chinelo De Casa Feminina Menina Pelúcia Confortável",
