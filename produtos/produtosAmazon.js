@@ -2,6 +2,24 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61-zIU2pz8L._AC_SL1500_.jpg",
+    nome: "Gel Creme Hidratante Eucerin pH5 350g",
+    descricao: "Xiaomi Gel Creme Hidratante Eucerin pH5 350g",
+    alt: "Xiaomi Gel Creme Hidratante Eucerin pH5 350g",
+    linkDeCompra: "https://amzn.to/46aIGPn",
+    categoria: "Beleza",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51rFsoroiqL._AC_SL1500_.jpg",
+    nome: "NIVEA SUN Protetor Solar Protect & Hidrata FPS 50 400ml",
+    descricao: "Xiaomi NIVEA SUN Protetor Solar Protect & Hidrata FPS 50 400ml",
+    alt: "Xiaomi NIVEA SUN Protetor Solar Protect & Hidrata FPS 50 400ml",
+    linkDeCompra: "https://amzn.to/4bHZa2V",
+    categoria: "Beleza",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/611J91ovSlL._AC_SL1500_.jpg",
     nome: "Mi Band 8 Active versão global (Preto)",
     descricao: "Xiaomi Mi Band 8 Active versão global (Preto)",

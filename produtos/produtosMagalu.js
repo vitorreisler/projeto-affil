@@ -2,6 +2,36 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosMagalu = [
   {
     id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/1500x1500/cadeira-de-escritorio-preta-diretor-jadel-healer/devintex/31049/4a431968f43c27b7608dffd99ccb3918.jpeg",
+    nome: "Cadeira de escritório preta Diretor Jadel Healer",
+    descricao:
+      "Cadeira de escritório preta Diretor Jadel Healer",
+    alt: "Cadeira de escritório preta Diretor Jadel Healer",
+    linkDeCompra: "https://divulgador.magalu.com/uaEt4VjJ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/800x560/conjunto-sala-de-jantar-madesa-talita-mesa-tampo-de-madeira-com-4-cadeiras/madesamoveis/045677gx4tper/3dd1b305e47bc7b94921e1a9fc70bec5.jpeg",
+    nome: "Conjunto Sala de Jantar Madesa Talita Mesa Tampo de Madeira com 4 Cadeiras",
+    descricao:
+      "Conjunto Sala de Jantar Madesa Talita Mesa Tampo de Madeira com 4 Cadeiras",
+    alt: "Conjunto Sala de Jantar Madesa Talita Mesa Tampo de Madeira com 4 Cadeiras",
+    linkDeCompra: "https://divulgador.magalu.com/1gsTrw5R",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/800x560/aspirador-de-po-e-agua-wap-gtw-10-com-porta-acessorios-1400w-amarelo-e-preto/magazineluiza/219060400/5296bdbda5c6a0ea0f07c0f960dc6628.jpg",
+    nome: "Aspirador de Pó e Água Wap GTW 10 com Porta",
+    descricao:
+      "Aspirador de Pó e Água Wap GTW 10 com Porta",
+    alt: "Aspirador de Pó e Água Wap GTW 10 com Porta",
+    linkDeCompra: "https://divulgador.magalu.com/ylKrTQ_n",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://a-static.mlcdn.com.br/800x560/rack-para-tv-ate-75-polegadas-madesa-reims-2-portas-1-gaveta/madesamoveis/691709acp/fde1151b2766bfe586bdfbc7efa741fa.jpeg",
     nome: "Rack para TV até 75 Polegadas Madesa Reims 2 Portas 1 Gaveta ",
     descricao:

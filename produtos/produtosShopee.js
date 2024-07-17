@@ -3,6 +3,39 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lg4itpblp72634",
+    nome: "Pantufa Chinelo De Casa Feminina Menina Pelúcia Confortável",
+    descricao:
+      "Pantufa Chinelo De Casa Feminina Menina Pelúcia Confortável",
+    alt: "Pantufa Chinelo De Casa Feminina Menina Pelúcia Confortável",
+    linkDeCompra: "https://s.shopee.com.br/AKGGTkJmVP",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/cn-11134207-7r98o-lmo2ltuexm1w54",
+    nome: "Vaca de desenho animado Quatro Estações",
+    descricao:
+      "Vaca de desenho animado Quatro Estações",
+    alt: "Vaca de desenho animado Quatro Estações",
+    linkDeCompra: "https://s.shopee.com.br/3q2mjXslpg",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/f11d6f1fa54fec23268db43f9294745d",
+    nome: "pantufas ",
+    descricao:
+      "pantufas ",
+    alt: "pantufas ",
+    linkDeCompra: "https://s.shopee.com.br/6zzoQGhODP",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rcdh-lr3e2aaifob4c2",
     nome: "Lavadora de Alta Pressão Portátil Recarregável",
     descricao:
