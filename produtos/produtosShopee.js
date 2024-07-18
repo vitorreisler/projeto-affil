@@ -12,6 +12,26 @@ export const produtosShopee = [
   },
   {
     id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lnn3cnro7ah8fa",
+    nome: "Tabua Descongeladora De Carnes Alimentos Higiênica  ",
+    descricao:
+      "Tabua Descongeladora De Carnes Alimentos Higiênica  ",
+    alt: "Tabua Descongeladora De Carnes Alimentos Higiênica  ",
+    linkDeCompra: "https://s.shopee.com.br/5fUSfozyrn",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/sg-11134201-23010-w5kllq4i14lv2e",
+    nome: "Mini Controle Teclado Air Mouse Wireless 2.4 Ghz ",
+    descricao:
+      "Mini Controle Teclado Air Mouse Wireless 2.4 Ghz ",
+    alt: "Mini Controle Teclado Air Mouse Wireless 2.4 Ghz ",
+    linkDeCompra: "https://s.shopee.com.br/9zdRpTuwLI",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
     urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lg4itpblp72634",
     nome: "Pantufa Chinelo De Casa Feminina Menina Pelúcia Confortável",

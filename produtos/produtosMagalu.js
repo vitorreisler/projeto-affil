@@ -2,6 +2,26 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosMagalu = [
   {
     id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/800x560/guarda-roupa-dobravel-organizador-de-roupa-cinza-88130b-decoteam/loibrasil/10799/31de37db4e523a8e0cdcc6fd77e7e73f.jpeg",
+    nome: "Guarda Roupa Dobrável Organizador De Roupa Cinza",
+    descricao:
+      "Guarda Roupa Dobrável Organizador De Roupa Cinza",
+    alt: "Guarda Roupa Dobrável Organizador De Roupa Cinza",
+    linkDeCompra: "https://divulgador.magalu.com/hYZczOqR",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/1500x1500/impressora-multifuncional-epson-ecotank-l3210-tanque-de-tinta-colorida-usb/magazineluiza/232043000/23ecd0bce859cf5271efb111c0586f7b.jpg",
+    nome: "Impressora Multifuncional Epson Ecotank L3210",
+    descricao:
+      "Impressora Multifuncional Epson Ecotank L3210",
+    alt: "Impressora Multifuncional Epson Ecotank L3210",
+    linkDeCompra: "https://divulgador.magalu.com/V7YrMQw8",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://a-static.mlcdn.com.br/1500x1500/cadeira-de-escritorio-preta-diretor-jadel-healer/devintex/31049/4a431968f43c27b7608dffd99ccb3918.jpeg",
     nome: "Cadeira de escritório preta Diretor Jadel Healer",
     descricao:
