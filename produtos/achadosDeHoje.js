@@ -17,6 +17,36 @@ const te = "Temu"
 export const achadosHoje = [
   {
     id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxv35bwr0uqa2f",
+    nome: "Kit Acessórios de Banheiro Lavabo Preto + Ducha Pop + Acabamento de Metal Padrão Deca Metal 1/2 3/4",
+    descricao:
+      "Kit Acessórios de Banheiro Lavabo Preto + Ducha Pop + Acabamento de Metal Padrão Deca Metal 1/2 3/4",
+    alt: "Kit Acessórios de Banheiro Lavabo Preto + Ducha Pop + Acabamento de Metal Padrão Deca Metal 1/2 3/4",
+    linkDeCompra: "https://s.shopee.com.br/7zsRNK1twJ",
+    plataforma:sh,
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/sg-11134201-7rd62-lvjn8382u4729e",
+    nome: "Video game Stick 4K Com 20000 Jogos",
+    descricao:
+      "Video game Stick 4K Com 20000 Jogos",
+    alt: "Video game Stick 4K Com 20000 Jogos",
+    linkDeCompra: "https://s.shopee.com.br/7KckZieOXA",
+    plataforma:sh,
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/br-11134201-22120-58e726fygzkv8c",
+    nome: "Cozedor de Ovos Portátil Elétrico Cozinha à Vapor Egg Cooker 110v",
+    descricao:
+      "Cozedor de Ovos Portátil Elétrico Cozinha à Vapor Egg Cooker 110v",
+    alt: "Cozedor de Ovos Portátil Elétrico Cozinha à Vapor Egg Cooker 110v",
+    linkDeCompra: "https://s.shopee.com.br/7AJKLsdo4v",
+    plataforma:sh,
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lktf9euw96l4b8",
     nome: "Gabinete para tanque com rodinhas ",
     descricao:
