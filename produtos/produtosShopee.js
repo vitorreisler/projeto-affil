@@ -2,6 +2,36 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosShopee = [
   {
     id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/sg-11134201-7rcev-lsqeflg4a3c6ca",
+    nome: "Kit Ferramentas 115 Peças Jogo Mini Chaves Precisão Multiuso Celular",
+    descricao:
+      "Kit Ferramentas 115 Peças Jogo Mini Chaves Precisão Multiuso Celular",
+    alt: "Kit Ferramentas 115 Peças Jogo Mini Chaves Precisão Multiuso Celular",
+    linkDeCompra: "https://s.shopee.com.br/9pK78kTZ7A",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/cn-11134207-7r98o-lxceab7d8nj720",
+    nome: "Capas diversos modelos para diversos celulares",
+    descricao:
+      "Capas diversos modelos para diversos celulares",
+    alt: "Capas diversos modelos para diversos celulares",
+    linkDeCompra: "https://s.shopee.com.br/1fyPPuCcwS",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lum8q7tobtd144",
+    nome: "Caixa De Som C/ Microfones Karaokê Brincadeiras em Família",
+    descricao:
+      "Caixa De Som C/ Microfones Karaokê Brincadeiras em Família",
+    alt: "Caixa De Som C/ Microfones Karaokê Brincadeiras em Família",
+    linkDeCompra: "https://s.shopee.com.br/5KrhmWW9F7",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxv35bwr0uqa2f",
     nome: "Kit Acessórios de Banheiro Lavabo Preto + Ducha Pop + Acabamento de Metal Padrão Deca Metal 1/2 3/4",
     descricao:

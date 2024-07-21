@@ -2,6 +2,24 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51nQuf2RzbL._AC_SL1500_.jpg",
+    nome: "Panela De Pressão Tramontina Vancouver Vermelha 4,5L",
+    descricao: "Panela De Pressão Tramontina Vancouver Vermelha 4,5L",
+    alt: "Panela De Pressão Tramontina Vancouver Vermelha 4,5L",
+    linkDeCompra: "https://amzn.to/3WxaKcw",
+    categoria: "Casa",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/71b3InIEJyL._AC_SL1200_.jpg",
+    nome: "Escrivaninha Trevalla Kuadra 150cm Preto Onix",
+    descricao: "Escrivaninha Trevalla Kuadra 150cm Preto Onix",
+    alt: "Escrivaninha Trevalla Kuadra 150cm Preto Onix",
+    linkDeCompra: "https://amzn.to/46bAwGL",
+    categoria: "Casa",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61Kki0zSTYL._AC_SL1500_.jpg",
     nome: "Ralph Lauren, Polo Sport EDT, Perfume Masculino, 125 ml",
     descricao: "Ralph Lauren, Polo Sport EDT, Perfume Masculino, 125 ml",
@@ -534,15 +552,6 @@ export const produtosAmazon = [
     descricao: "Vonder Banqueta Plástica Dobrável Branca Altura 220 Mm",
     alt: "Vonder Banqueta Plástica Dobrável Branca Altura 220 Mm",
     linkDeCompra: "https://amzn.to/4ckhsbi",
-    categoria: "Casa",
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/71b3InIEJyL._AC_SL1200_.jpg",
-    nome: "Escrivaninha Trevalla Kuadra 150cm Preto Onix",
-    descricao: "Escrivaninha Trevalla Kuadra 150cm Preto Onix",
-    alt: "Escrivaninha Trevalla Kuadra 150cm Preto Onix",
-    linkDeCompra: "https://amzn.to/3xd1RLK",
     categoria: "Casa",
   },
   {
