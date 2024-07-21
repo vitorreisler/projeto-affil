@@ -12,7 +12,6 @@ import { Input } from "@nextui-org/input";
 import { CiShop } from "react-icons/ci";
 import { BiSolidShoppingBags } from "react-icons/bi";
 
-
 import { link as linkStyles } from "@nextui-org/theme";
 
 import { siteConfig } from "@/config/site";
@@ -26,7 +25,6 @@ import { SiShopee } from "react-icons/si";
 import { FaComputer } from "react-icons/fa6";
 import { BsBagCheckFill } from "react-icons/bs";
 import { FaPeopleGroup } from "react-icons/fa6";
-
 
 export const Navbar = () => {
   const searchInput = (
@@ -68,7 +66,7 @@ export const Navbar = () => {
                 color="foreground"
                 href={item.href}
               >
-                {item.label === "Hotmart" ? (
+                {item.label === "Cursos" ? (
                   <span className="flex items-center gap-1">
                     <FaComputer />
                     {item.label}
@@ -97,7 +95,8 @@ export const Navbar = () => {
                   <span className="flex items-center gap-1">
                     <BiSolidShoppingBags />
                     {item.label}
-                  </span> ): (
+                  </span>
+                ) : (
                   ""
                 )}
               </NextLink>
@@ -106,7 +105,10 @@ export const Navbar = () => {
         </ul>
       </NavbarContent>
 
-      <NavbarContent className="hidden sm:flex md:hidden basis-1/5 sm:basis-full" justify="end">
+      <NavbarContent
+        className="hidden sm:flex md:hidden basis-1/5 sm:basis-full"
+        justify="end"
+      >
         <NavbarItem className="hidden sm:flex md:hidden gap-2">
           <Link
             isExternal
@@ -116,7 +118,7 @@ export const Navbar = () => {
             <FaInstagram className="text-gray-800" />
           </Link>
         </NavbarItem>
-       { <NavbarItem className="hidden lg:flex">{searchInput}</NavbarItem>}
+        {<NavbarItem className="hidden lg:flex">{searchInput}</NavbarItem>}
       </NavbarContent>
 
       <NavbarContent className="sm:hidden md:flex basis-1" justify="end">

@@ -13,19 +13,24 @@ export default function LandingPage() {
   }, []);
   return (
     <section className="w-fullflex flex-col items-center justify-center mx-auto gap-4 max-w-7xl pt-5 px-6 flex-grow">
-      <h1 className={`text-5xl text-center my-3`}>Os melhores produtos <br /> Amazon, Shopee e Hotmart </h1>
+      <h1 className={`text-5xl text-center my-3`}>
+        Os melhores produtos <br /> Amazon, Shopee e Cursos{" "}
+      </h1>
 
       <section
         id="descricao-landingpage"
         className="flex flex-col w-[80%] items-center mx-auto gap-5 my-6 "
       >
-        <PrimaryButton linkDeCompra={"https://chat.whatsapp.com/JUpRKRlhrpbFcnjnbh0o60"} msgDoButton={"ENTRAR NO GRUPO"} />
+        <PrimaryButton
+          linkDeCompra={"https://chat.whatsapp.com/JUpRKRlhrpbFcnjnbh0o60"}
+          msgDoButton={"ENTRAR NO GRUPO"}
+        />
 
         {isSmallScreen ? (
           <p className="text-xl">
             Bem-vindo às melhores ofertas! 🛒💥 Encontre promoções exclusivas da
-            Shopee, Amazon, e Hotmart. Quer receber descontos
-            incríveis primeiro? Entre no nosso grupo VIP do WhatsApp! 🚀📲
+            Shopee, Amazon, e Cursos. Quer receber descontos incríveis primeiro?
+            Entre no nosso grupo VIP do WhatsApp! 🚀📲
           </p>
         ) : (
           <p className="text-2xl">
@@ -37,19 +42,17 @@ export default function LandingPage() {
             tão simples quanto parece. Ofertas que desaparecem rápido, produtos
             que não estão em promoção, e a sensação de estar sempre perdendo as
             melhores oportunidades... tudo isso pode ser frustrante para quem
-            tenta economizar. 😓 
-			<br />
-			Você se vê constantemente gastando mais do que
-            gostaria, com pouca confiança nas suas compras e sempre com medo de
-            perder uma promoção incrível. Soa familiar? 😟 E se eu dissesse que
-            é possível transformar suas compras, encontrar ofertas consistentes
-            sem perder horas procurando, e garantir os produtos mais desejados
-            de forma estratégica e inteligente, você acreditaria? 🛍️✨
-			<br />
-			 É isso
-            que nossa comunidade oferece! Uma forma de você economizar,
-            aproveitar as melhores promoções da Amazon, Shopee e Hotmart,
-            e ainda receber dicas e conselhos exclusivos. 🎉📈
+            tenta economizar. 😓
+            <br />
+            Você se vê constantemente gastando mais do que gostaria, com pouca
+            confiança nas suas compras e sempre com medo de perder uma promoção
+            incrível. Soa familiar? 😟 E se eu dissesse que é possível
+            transformar suas compras, encontrar ofertas consistentes sem perder
+            horas procurando, e garantir os produtos mais desejados de forma
+            estratégica e inteligente, você acreditaria? 🛍️✨
+            <br />É isso que nossa comunidade oferece! Uma forma de você
+            economizar, aproveitar as melhores promoções da Amazon, Shopee e
+            Cursos, e ainda receber dicas e conselhos exclusivos. 🎉📈
           </p>
         )}
       </section>
@@ -121,12 +124,10 @@ export default function LandingPage() {
                 </span>
               </li>
               <li className="flex  justify-evenly">
-                  {  
-                  /*<img
+                {/*<img
                   src={"/images/mercadoLivreIcon.png"}
                   alt="mercado-livre "
-                  />*/
-                }
+                  />*/}
                 <img
                   className="rounded-lg"
                   src={"/images/shopeeIcon.png"}
@@ -139,7 +140,10 @@ export default function LandingPage() {
                 />
               </li>
             </ul>
-            <PrimaryButton linkDeCompra={"https://chat.whatsapp.com/JUpRKRlhrpbFcnjnbh0o60"} msgDoButton={"ENTRAR NO GRUPO"} />
+            <PrimaryButton
+              linkDeCompra={"https://chat.whatsapp.com/JUpRKRlhrpbFcnjnbh0o60"}
+              msgDoButton={"ENTRAR NO GRUPO"}
+            />
           </div>
         </section>
       </section>

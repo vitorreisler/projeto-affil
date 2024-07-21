@@ -26,10 +26,10 @@ const Categorias = () => {
     {
       urlImg:
         "https://img.freepik.com/vetores-gratis/tecnologia-anti-gravidade-com-elementos_23-2148085009.jpg?w=740&t=st=1719004464~exp=1719005064~hmac=1a0a829c0ffdff35e38579c04c8a8e35d0e1714bf7c5cb27a1e61bb74bdbc175",
-      alt: "Hotmart",
-      tituloCategoria: "Hotmart",
+      alt: "Cursos",
+      tituloCategoria: "Cursos",
       descricaoCategoria: "",
-      to: "/hotmart",
+      to: "/cursos",
     },
     /*{
       urlImg:
@@ -43,7 +43,9 @@ const Categorias = () => {
   return (
     <>
       <section className=" gap-5 grid  grid-cols-2  md:grid-cols-4 md:items-center pb-5   border border-gray-200 rounded-lg shadow-md w-full ">
-        <h1 className="text-3xl col-span-2 text-center bg-yellow-300 p-4  md:col-span-4 rounded-t-md ">Achadinhos</h1>
+        <h1 className="text-3xl col-span-2 text-center bg-yellow-300 p-4  md:col-span-4 rounded-t-md ">
+          Achadinhos
+        </h1>
         {categoriasData.map((item, i) => {
           return (
             <div

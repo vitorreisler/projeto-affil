@@ -1,16 +1,16 @@
 import { RiComputerLine } from "react-icons/ri";
-import { produtosHotmart } from "../../produtos/produtosHotmart";
+import { produtosCursos } from "../../produtos/produtosCursos";
 import Card from "@/components/card";
 import Produtos from "@/components/produtos";
 
-const CategoriaHotmart = () => {
+const CategoriaCursos = () => {
   return (
     <section className="flex flex-col items-center">
       <h1 className="text-6xl text-center p-3 bg-yellow-200 w-full inline">
-        Cursos da Hotmart <RiComputerLine className="inline" />{" "}
+        Cursos <RiComputerLine className="inline" />{" "}
       </h1>
       <Produtos>
-        {produtosHotmart.map((item) => {
+        {produtosCursos.map((item) => {
           return (
             <Card
               key={item.id}
@@ -28,4 +28,4 @@ const CategoriaHotmart = () => {
   );
 };
 
-export default CategoriaHotmart;
+export default CategoriaCursos;
