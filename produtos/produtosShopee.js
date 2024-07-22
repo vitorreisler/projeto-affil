@@ -2,6 +2,36 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosShopee = [
   {
     id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/cn-11134207-7qukw-lglvujm5crjyc9",
+    nome: "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
+    descricao:
+      "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
+    alt: "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
+    linkDeCompra: "https://s.shopee.com.br/2AuhYd4n5s",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/sg-11134201-7rceg-lslb9woal7ed3e",
+    nome: "Escada Telescópica De Alumínio Multifuncional 13 Degraus",
+    descricao:
+      "Escada Telescópica De Alumínio Multifuncional 13 Degraus",
+    alt: "Escada Telescópica De Alumínio Multifuncional 13 Degraus",
+    linkDeCompra: "https://s.shopee.com.br/1qHr9rjEDY",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7qukw-ljt56qh3jt6y41",
+    nome: "Máquina Seladora Automática de Alimentos a Vácuo Bivolt",
+    descricao:
+      "Máquina Seladora Automática de Alimentos a Vácuo Bivolt",
+    alt: "Máquina Seladora Automática de Alimentos a Vácuo Bivolt",
+    linkDeCompra: "https://s.shopee.com.br/qPJxaFwdC",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://down-br.img.susercontent.com/file/sg-11134201-7rcev-lsqeflg4a3c6ca",
     nome: "Kit Ferramentas 115 Peças Jogo Mini Chaves Precisão Multiuso Celular",
     descricao:

@@ -17,6 +17,36 @@ const te = "Temu"
 export const achadosHoje = [
   {
     id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/cn-11134207-7qukw-lglvujm5crjyc9",
+    nome: "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
+    descricao:
+      "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
+    alt: "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
+    linkDeCompra: "https://s.shopee.com.br/2AuhYd4n5s",
+    plataforma:sh,
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/sg-11134201-7rceg-lslb9woal7ed3e",
+    nome: "Escada Telescópica De Alumínio Multifuncional 13 Degraus",
+    descricao:
+      "Escada Telescópica De Alumínio Multifuncional 13 Degraus",
+    alt: "Escada Telescópica De Alumínio Multifuncional 13 Degraus",
+    linkDeCompra: "https://s.shopee.com.br/1qHr9rjEDY",
+    plataforma:sh,
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7qukw-ljt56qh3jt6y41",
+    nome: "Máquina Seladora Automática de Alimentos a Vácuo Bivolt",
+    descricao:
+      "Máquina Seladora Automática de Alimentos a Vácuo Bivolt",
+    alt: "Máquina Seladora Automática de Alimentos a Vácuo Bivolt",
+    linkDeCompra: "https://s.shopee.com.br/qPJxaFwdC",
+    plataforma:sh,
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxv35bwr0uqa2f",
     nome: "Kit Acessórios de Banheiro Lavabo Preto + Ducha Pop + Acabamento de Metal Padrão Deca Metal 1/2 3/4",
     descricao:
