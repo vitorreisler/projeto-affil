@@ -13,135 +13,138 @@ import { v4 as uuidv4 } from "uuid";
 const ml = "Magazine Luiza"
 const sh = "Shopee"
 const am = "Amazon"
-const te = "Temu"
+const hm = "Hotmart"
+//const te = "Temu"
 export const achadosHoje = [
   {
     id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/cn-11134207-7qukw-lglvujm5crjyc9",
-    nome: "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
-    descricao:
-      "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
-    alt: "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
-    linkDeCompra: "https://s.shopee.com.br/2AuhYd4n5s",
-    plataforma:sh,
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7qvdk-ljr8fzgt7uh115",
+    nome: "Jaqueta Jeans Sarja Masculina",
+    descricao: "Jaqueta Jeans Sarja Masculina",
+    alt: "Jaqueta Jeans Sarja Masculina",
+    linkDeCompra: "https://s.shopee.com.br/1Vf1kionwJ",
+    plataforma: sh,
   },
   {
     id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/sg-11134201-7rceg-lslb9woal7ed3e",
-    nome: "Escada Telescópica De Alumínio Multifuncional 13 Degraus",
+    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lniz9iag1nf37d",
+    nome: "Kit 2 Moletom Canguru Com Capuz e Bolso Sem Estampa",
     descricao:
-      "Escada Telescópica De Alumínio Multifuncional 13 Degraus",
-    alt: "Escada Telescópica De Alumínio Multifuncional 13 Degraus",
-    linkDeCompra: "https://s.shopee.com.br/1qHr9rjEDY",
-    plataforma:sh,
+      "Kit 2 Moletom Canguru Com Capuz e Bolso Sem Estampa",
+    alt: "Kit 2 Moletom Canguru Com Capuz e Bolso Sem Estampa",
+    linkDeCompra: "https://s.shopee.com.br/9f0jSuew1T",
+    plataforma: sh
   },
   {
     id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7qukw-ljt56qh3jt6y41",
-    nome: "Máquina Seladora Automática de Alimentos a Vácuo Bivolt",
-    descricao:
-      "Máquina Seladora Automática de Alimentos a Vácuo Bivolt",
-    alt: "Máquina Seladora Automática de Alimentos a Vácuo Bivolt",
-    linkDeCompra: "https://s.shopee.com.br/qPJxaFwdC",
-    plataforma:sh,
+    urlImg:
+      "https://down-br.img.susercontent.com/file/7938494d04c4026d1d1b8e6f038af7b1",
+    nome: "Kit 3 Calças Jeans Masculina Original Elastano Skinny Ducam",
+    descricao: "Kit 3 Calças Jeans Masculina Original Elastano Skinny Ducam",
+    alt: "Kit 3 Calças Jeans Masculina Original Elastano Skinny Ducam",
+    linkDeCompra: "https://s.shopee.com.br/g5ukVeh7s",
+    plataforma: sh,
   },
   {
     id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxv35bwr0uqa2f",
-    nome: "Kit Acessórios de Banheiro Lavabo Preto + Ducha Pop + Acabamento de Metal Padrão Deca Metal 1/2 3/4",
-    descricao:
-      "Kit Acessórios de Banheiro Lavabo Preto + Ducha Pop + Acabamento de Metal Padrão Deca Metal 1/2 3/4",
-    alt: "Kit Acessórios de Banheiro Lavabo Preto + Ducha Pop + Acabamento de Metal Padrão Deca Metal 1/2 3/4",
-    linkDeCompra: "https://s.shopee.com.br/7zsRNK1twJ",
-    plataforma:sh,
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxlfn8eptm6qd4",
+    nome: "kit 2 calças jeans masculina tradicional para trabalho direto da fabrica",
+    descricao: "kit 2 calças jeans masculina tradicional para trabalho direto da fabrica",
+    alt: "kit 2 calças jeans masculina tradicional para trabalho direto da fabrica",
+    linkDeCompra: "https://s.shopee.com.br/8pRcTTSPp2",
+    plataforma: sh,
   },
   {
     id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/sg-11134201-7rd62-lvjn8382u4729e",
-    nome: "Video game Stick 4K Com 20000 Jogos",
-    descricao:
-      "Video game Stick 4K Com 20000 Jogos",
-    alt: "Video game Stick 4K Com 20000 Jogos",
-    linkDeCompra: "https://s.shopee.com.br/7KckZieOXA",
-    plataforma:sh,
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98q-lmt0296w5lh26d",
+    nome: "Kit 5 Camisetas Dry Fit Masculina",
+    descricao: "Kit 5 Camisetas Dry Fit Masculina",
+    alt: "Kit 5 Camisetas Dry Fit Masculina",
+    linkDeCompra: "https://s.shopee.com.br/AKGQGC1Vx3",
+    plataforma: sh,
   },
   {
     id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/br-11134201-22120-58e726fygzkv8c",
-    nome: "Cozedor de Ovos Portátil Elétrico Cozinha à Vapor Egg Cooker 110v",
-    descricao:
-      "Cozedor de Ovos Portátil Elétrico Cozinha à Vapor Egg Cooker 110v",
-    alt: "Cozedor de Ovos Portátil Elétrico Cozinha à Vapor Egg Cooker 110v",
-    linkDeCompra: "https://s.shopee.com.br/7AJKLsdo4v",
-    plataforma:sh,
+    urlImg:
+      "https://down-br.img.susercontent.com/file/7cce9d6e4398ad96cd21aecf830b24ce",
+    nome: "Kit 24 Pares de Meias Soquete Cano Curto Qualidade",
+    descricao: "Kit 24 Pares de Meias Soquete Cano Curto Qualidade",
+    alt: "Kit 24 Pares de Meias Soquete Cano Curto Qualidade",
+    linkDeCompra: "https://s.shopee.com.br/9pK9fSgyIk",
+    plataforma: sh,
   },
   {
     id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/sg-11134201-7rcev-lsqeflg4a3c6ca",
-    nome: "Kit Ferramentas 115 Peças Jogo Mini Chaves Precisão Multiuso Celular",
-    descricao:
-      "Kit Ferramentas 115 Peças Jogo Mini Chaves Precisão Multiuso Celular",
-    alt: "Kit Ferramentas 115 Peças Jogo Mini Chaves Precisão Multiuso Celular",
-    linkDeCompra: "https://s.shopee.com.br/9pK78kTZ7A",
-    plataforma:sh,
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rccw-lrc3xxiol5riba",
+    nome: "Kit 10 Cuecas Boxer de Algodão",
+    descricao: "Kit 10 Cuecas Boxer de Algodão",
+    alt: "Kit 10 Cuecas Boxer de Algodão",
+    linkDeCompra: "https://s.shopee.com.br/9f0jT5s5eC",
+    plataforma: sh,
   },
   {
     id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/cn-11134207-7r98o-lxceab7d8nj720",
-    nome: "Capas diversos modelos para diversos celulares",
-    descricao:
-      "Capas diversos modelos para diversos celulares",
-    alt: "Capas diversos modelos para diversos celulares",
-    linkDeCompra: "https://s.shopee.com.br/1fyPPuCcwS",
-    plataforma:sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lum8q7tobtd144",
-    nome: "Caixa De Som C/ Microfones Karaokê Brincadeiras em Família",
-    descricao:
-      "Caixa De Som C/ Microfones Karaokê Brincadeiras em Família",
-    alt: "Caixa De Som C/ Microfones Karaokê Brincadeiras em Família",
-    linkDeCompra: "https://s.shopee.com.br/5KrhmWW9F7",
-    plataforma:sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/51nQuf2RzbL._AC_SL1500_.jpg",
-    nome: "Panela De Pressão Tramontina Vancouver Vermelha 4,5L",
-    descricao: "Panela De Pressão Tramontina Vancouver Vermelha 4,5L",
-    alt: "Panela De Pressão Tramontina Vancouver Vermelha 4,5L",
-    linkDeCompra: "https://amzn.to/3WxaKcw",
+    urlImg: "./images/ofertasDiaAmazon.png",
+    nome: "OFERTAS DO DIA",
+    descricao: "OFERTAS DO DIA",
+    alt: "OFERTAS DO DIA",
+    linkDeCompra: "https://amzn.to/4fhosYm",
     plataforma: am,
   },
   {
     id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/71b3InIEJyL._AC_SL1200_.jpg",
-    nome: "Escrivaninha Trevalla Kuadra 150cm Preto Onix",
-    descricao: "Escrivaninha Trevalla Kuadra 150cm Preto Onix",
-    alt: "Escrivaninha Trevalla Kuadra 150cm Preto Onix",
-    linkDeCompra: "https://amzn.to/46bAwGL",
+    urlImg: "https://m.media-amazon.com/images/I/61tVQYGQdbL._AC_SL1200_.jpg",
+    nome: "Lysoform Original, Desinfetante Líquido, Limpeza Pesada e Eficiente, 5l",
+    descricao: "Lysoform Original, Desinfetante Líquido, Limpeza Pesada e Eficiente, 5l",
+    alt: "Lysoform Original, Desinfetante Líquido, Limpeza Pesada e Eficiente, 5l",
+    linkDeCompra: "https://amzn.to/3Wa6Tkq",
     plataforma: am,
   },
   {
     id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/800x560/apple-iphone-13-128gb-meia-noite-tela-61-12mp/magazineluiza/234661800/a57c1ab14765ab0b7ca87de98ba94b94.jpg",
-    nome: "Apple iPhone 13 128GB",
-    descricao:
-      "Apple iPhone 13 128GB",
-    alt: "Apple iPhone 13 128GB",
-    linkDeCompra: "https://divulgador.magalu.com/UVOzCNNB",
-    plataforma: ml,
+    urlImg:
+      "https://lirp.cdn-website.com/e48040b8/dms3rep/multi/opt/5-bc856579-458w.jpg",
+    nome: "Canva Flix",
+    descricao: "Canva Flix",
+    alt: "Canva Flix",
+    linkDeCompra: "https://go.hotmart.com/X94082714P",
+    plataforma: hm,
   },
   {
     id: uuidv4(),
-    urlImg: "https://a-static.mlcdn.com.br/800x560/console-nintendo-switch-oled-com-joy-con-branco-hbgskaaa2/kabum/385192/8c7dd6a643df5e97f5986ea4a0b0e366.jpeg",
-    nome: "Nintendo Switch Oled com Joy-Con, Branco",
+    urlImg:
+      "https://static-media.hotmart.com/xVG83HBjCVb3S4ZtKVXkydUTHU8=/295x165/smart/filters:quality(100)/hotmart/product_pictures/9b28add3-55c5-435e-8d95-31e894d9db16/thumbyoutubesemaparecerhotmart.png",
+    nome: "YouTube sem aparecer",
+    descricao: "YouTube sem aparecer",
+    alt: "YouTube sem aparecer",
+    linkDeCompra: "https://go.hotmart.com/B94087717Y",
+    plataforma: hm,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://static-media.hotmart.com/-e8w0dqYBduTTaNBGcKbASrHCJs=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/d7c81bb7-28c4-40ee-b04c-87b02684b165/Textodoseupargrafo1.png?w=920",
+    nome: "Natflix Fitness",
     descricao:
-      "Console Nintendo Switch Oled com Joy-Con, Branco",
-    alt: "Console Nintendo Switch Oled com Joy-Con, Branco",
-    linkDeCompra: "https://divulgador.magalu.com/nubBKpIo",
-    plataforma: ml,
+      "FINALMENTE você encontrou um método de treinamento de fácil adesão, dinâmico, descomplicado, divertido",
+    alt: "Natflix Fitness",
+    linkDeCompra: "https://go.hotmart.com/G74896668X",
+    plataforma: hm,
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://static-media.hotmart.com/iQOds1EvguK9lBC5L5xowi_64ck=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/56b06116-5a7e-4bd0-a89c-f6acdaf23ee7/AirFryerhotmart02.png?w=920",
+    nome: "Receitas Top para Air Fryer",
+    descricao:
+      "Nosso curso 'Receitas Top para Air Fryer' vai transformar sua cozinha e sua vida!",
+    alt: "Receitas Top para Air Fryer",
+    linkDeCompra: "https://go.hotmart.com/P93350943L",
+    plataforma: hm,
   },
   ]
 

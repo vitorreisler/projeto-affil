@@ -2,6 +2,24 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "./images/ofertasDiaAmazon.png",
+    nome: "OFERTAS DO DIA",
+    descricao: "OFERTAS DO DIA",
+    alt: "OFERTAS DO DIA",
+    linkDeCompra: "https://amzn.to/4fhosYm",
+    categoria: "Geral",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/61tVQYGQdbL._AC_SL1200_.jpg",
+    nome: "Lysoform Original, Desinfetante Líquido, Limpeza Pesada e Eficiente, 5l",
+    descricao: "Lysoform Original, Desinfetante Líquido, Limpeza Pesada e Eficiente, 5l",
+    alt: "Lysoform Original, Desinfetante Líquido, Limpeza Pesada e Eficiente, 5l",
+    linkDeCompra: "https://amzn.to/3Wa6Tkq",
+    categoria: "Limpeza",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/51nQuf2RzbL._AC_SL1500_.jpg",
     nome: "Panela De Pressão Tramontina Vancouver Vermelha 4,5L",
     descricao: "Panela De Pressão Tramontina Vancouver Vermelha 4,5L",
@@ -39,9 +57,9 @@ export const produtosAmazon = [
   {
     id: uuidv4(),
     urlImg: "https://m.media-amazon.com/images/I/61zkaFUfsRL._AC_SL1500_.jpg",
-    nome: "Gel Creme Hidratante Eucerin pH5 350g",
-    descricao: "Gel Creme Hidratante Eucerin pH5 350g",
-    alt: " Gel Creme Hidratante Eucerin pH5 350g",
+    nome: "Cetaphil Optimal Hydration Sérum Hidratante Facial 48h 30ml",
+    descricao: "Cetaphil Optimal Hydration Sérum Hidratante Facial 48h 30ml",
+    alt: " Cetaphil Optimal Hydration Sérum Hidratante Facial 48h 30ml",
     linkDeCompra: "https://amzn.to/3WsX6qQ",
     categoria: "Beleza",
   },

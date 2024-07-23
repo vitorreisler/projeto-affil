@@ -2,6 +2,76 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosShopee = [
   {
     id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7qvdk-ljr8fzgt7uh115",
+    nome: "Jaqueta Jeans Sarja Masculina",
+    descricao: "Jaqueta Jeans Sarja Masculina",
+    alt: "Jaqueta Jeans Sarja Masculina",
+    linkDeCompra: "https://s.shopee.com.br/1Vf1kionwJ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lniz9iag1nf37d",
+    nome: "Kit 2 Moletom Canguru Com Capuz e Bolso Sem Estampa",
+    descricao:
+      "Kit 2 Moletom Canguru Com Capuz e Bolso Sem Estampa",
+    alt: "Kit 2 Moletom Canguru Com Capuz e Bolso Sem Estampa",
+    linkDeCompra: "https://s.shopee.com.br/9f0jSuew1T",
+    categoria:"",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/7938494d04c4026d1d1b8e6f038af7b1",
+    nome: "Kit 3 Calças Jeans Masculina Original Elastano Skinny Ducam",
+    descricao: "Kit 3 Calças Jeans Masculina Original Elastano Skinny Ducam",
+    alt: "Kit 3 Calças Jeans Masculina Original Elastano Skinny Ducam",
+    linkDeCompra: "https://s.shopee.com.br/g5ukVeh7s",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxlfn8eptm6qd4",
+    nome: "kit 2 calças jeans masculina tradicional para trabalho direto da fabrica",
+    descricao: "kit 2 calças jeans masculina tradicional para trabalho direto da fabrica",
+    alt: "kit 2 calças jeans masculina tradicional para trabalho direto da fabrica",
+    linkDeCompra: "https://s.shopee.com.br/8pRcTTSPp2",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98q-lmt0296w5lh26d",
+    nome: "Kit 5 Camisetas Dry Fit Masculina",
+    descricao: "Kit 5 Camisetas Dry Fit Masculina",
+    alt: "Kit 5 Camisetas Dry Fit Masculina",
+    linkDeCompra: "https://s.shopee.com.br/AKGQGC1Vx3",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/7cce9d6e4398ad96cd21aecf830b24ce",
+    nome: "Kit 24 Pares de Meias Soquete Cano Curto Qualidade",
+    descricao: "Kit 24 Pares de Meias Soquete Cano Curto Qualidade",
+    alt: "Kit 24 Pares de Meias Soquete Cano Curto Qualidade",
+    linkDeCompra: "https://s.shopee.com.br/9pK9fSgyIk",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rccw-lrc3xxiol5riba",
+    nome: "Kit 10 Cuecas Boxer de Algodão",
+    descricao: "Kit 10 Cuecas Boxer de Algodão",
+    alt: "Kit 10 Cuecas Boxer de Algodão",
+    linkDeCompra: "https://s.shopee.com.br/9f0jT5s5eC",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
     urlImg: "https://down-br.img.susercontent.com/file/cn-11134207-7qukw-lglvujm5crjyc9",
     nome: "Fone De Ouvido Bluetooth 4.2 Capacete Sem Fio Kit De Telefone",
     descricao:
@@ -1073,16 +1143,6 @@ export const produtosShopee = [
     descricao: "Luminária Projetor Estrela 360º Galaxy",
     alt: "Luminária Projetor Estrela 360º Galaxy",
     linkDeCompra: "https://s.shopee.com.br/pb24BWTL",
-    categoria: "",
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/sg-11134201-7rbll-llpdpz5hrn0r18",
-    nome: "Kit 10 Camisetas Dry Fit Masculina",
-    descricao: "Kit 10 Camisetas Dry Fit Masculina",
-    alt: "Kit 10 Camisetas Dry Fit Masculina",
-    linkDeCompra: "https://s.shopee.com.br/B90zkcHgB",
     categoria: "",
   },
   {
