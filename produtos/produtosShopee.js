@@ -3,6 +3,36 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/887eaea12d9f3a742d1381fcd01e596d",
+    nome: "Máscara para Dormir Anti Claridade / Tapa Olho",
+    descricao: "Máscara para Dormir Anti Claridade / Tapa Olho",
+    alt: "Máscara para Dormir Anti Claridade / Tapa Olho",
+    linkDeCompra: "https://s.shopee.com.br/7AJQ3Ft9XV",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/a387443ea386e6bfcce3c8e4ecae56e8",
+    nome: "Travesseiro Almofada De Postura Para Pernas Pés Joelhos Ortopédico",
+    descricao: "Travesseiro Almofada De Postura Para Pernas Pés Joelhos Ortopédico",
+    alt: "Travesseiro Almofada De Postura Para Pernas Pés Joelhos Ortopédico",
+    linkDeCompra: "https://s.shopee.com.br/4KzEfLQWbi",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbm6-lqq84fen3pplce",
+    nome: "Pillow Top Extra Macio Para Colchão Queen 1,58mx1,98mx0,05.",
+    descricao: "Pillow Top Extra Macio Para Colchão Queen 1,58mx1,98mx0,05.",
+    alt: "Pillow Top Extra Macio Para Colchão Queen 1,58mx1,98mx0,05.",
+    linkDeCompra: "https://s.shopee.com.br/7zsX0s3TGl",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7qvdk-ljr8fzgt7uh115",
     nome: "Jaqueta Jeans Sarja Masculina",
     descricao: "Jaqueta Jeans Sarja Masculina",
