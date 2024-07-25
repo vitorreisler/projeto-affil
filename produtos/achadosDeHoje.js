@@ -19,102 +19,64 @@ export const achadosHoje = [
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/887eaea12d9f3a742d1381fcd01e596d",
-    nome: "Máscara para Dormir Anti Claridade / Tapa Olho",
-    descricao: "Máscara para Dormir Anti Claridade / Tapa Olho",
-    alt: "Máscara para Dormir Anti Claridade / Tapa Olho",
-    linkDeCompra: "https://s.shopee.com.br/7AJQ3Ft9XV",
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rd5w-lvkjeihn5nkq8a",
+    nome: "Adaptador Tomada Universal Internacional Viagem + 150 Países",
+    descricao: "Adaptador Tomada Universal Internacional Viagem + 150 Países",
+    alt: "Adaptador Tomada Universal Internacional Viagem + 150 Países",
+    linkDeCompra: "https://s.shopee.com.br/9f0ljK3j4d",
     plataforma: sh,
   },
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/a387443ea386e6bfcce3c8e4ecae56e8",
-    nome: "Travesseiro Almofada De Postura Para Pernas Pés Joelhos Ortopédico",
-    descricao: "Travesseiro Almofada De Postura Para Pernas Pés Joelhos Ortopédico",
-    alt: "Travesseiro Almofada De Postura Para Pernas Pés Joelhos Ortopédico",
-    linkDeCompra: "https://s.shopee.com.br/4KzEfLQWbi",
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rdwp-lxj51hsctsp6dc",
+    nome: "Essager 30W USB Tipo C Mini Carregador De Carro Rápido 3.0",
+    descricao: "Essager 30W USB Tipo C Mini Carregador De Carro Rápido 3.0",
+    alt: "Essager 30W USB Tipo C Mini Carregador De Carro Rápido 3.0",
+    linkDeCompra: "https://s.shopee.com.br/qGDNwAWa",
     plataforma: sh,
   },
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/sg-11134201-7rbm6-lqq84fen3pplce",
-    nome: "Pillow Top Extra Macio Para Colchão Queen 1,58mx1,98mx0,05.",
-    descricao: "Pillow Top Extra Macio Para Colchão Queen 1,58mx1,98mx0,05.",
-    alt: "Pillow Top Extra Macio Para Colchão Queen 1,58mx1,98mx0,05.",
-    linkDeCompra: "https://s.shopee.com.br/7zsX0s3TGl",
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lkg29xc0nw4n10",
+    nome: "Adaptador Bluetooth Para Carro Transmissor FM - X8",
+    descricao: "Adaptador Bluetooth Para Carro Transmissor FM - X8",
+    alt: "Adaptador Bluetooth Para Carro Transmissor FM - X8",
+    linkDeCompra: "https://s.shopee.com.br/B9gPZphSV",
     plataforma: sh,
   },
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/sg-11134201-7qvdk-ljr8fzgt7uh115",
-    nome: "Jaqueta Jeans Sarja Masculina",
-    descricao: "Jaqueta Jeans Sarja Masculina",
-    alt: "Jaqueta Jeans Sarja Masculina",
-    linkDeCompra: "https://s.shopee.com.br/1Vf1kionwJ",
+      "https://down-br.img.susercontent.com/file/94f906d486a9a77ac2506bb48573f01e",
+    nome: "Adaptador E Receptor USB Bluetooth 5.0 Plug usb Transmissor de audio para Notebook",
+    descricao: "Adaptador E Receptor USB Bluetooth 5.0 Plug usb Transmissor de audio para Notebook",
+    alt: "Adaptador E Receptor USB Bluetooth 5.0 Plug usb Transmissor de audio para Notebook",
+    linkDeCompra: "https://s.shopee.com.br/2fr1O4RHZQ",
     plataforma: sh,
   },
   {
     id: uuidv4(),
-    urlImg: "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lniz9iag1nf37d",
-    nome: "Kit 2 Moletom Canguru Com Capuz e Bolso Sem Estampa",
+    urlImg:
+      "https://static-media.hotmart.com/-e8w0dqYBduTTaNBGcKbASrHCJs=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/d7c81bb7-28c4-40ee-b04c-87b02684b165/Textodoseupargrafo1.png?w=920",
+    nome: "Natflix Fitness",
     descricao:
-      "Kit 2 Moletom Canguru Com Capuz e Bolso Sem Estampa",
-    alt: "Kit 2 Moletom Canguru Com Capuz e Bolso Sem Estampa",
-    linkDeCompra: "https://s.shopee.com.br/9f0jSuew1T",
-    plataforma: sh
+      "FINALMENTE você encontrou um método de treinamento de fácil adesão, dinâmico, descomplicado, divertido",
+    alt: "Natflix Fitness",
+    linkDeCompra: "https://go.hotmart.com/G74896668X",
+    plataforma: hm,
   },
   {
     id: uuidv4(),
     urlImg:
-      "https://down-br.img.susercontent.com/file/7938494d04c4026d1d1b8e6f038af7b1",
-    nome: "Kit 3 Calças Jeans Masculina Original Elastano Skinny Ducam",
-    descricao: "Kit 3 Calças Jeans Masculina Original Elastano Skinny Ducam",
-    alt: "Kit 3 Calças Jeans Masculina Original Elastano Skinny Ducam",
-    linkDeCompra: "https://s.shopee.com.br/g5ukVeh7s",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxlfn8eptm6qd4",
-    nome: "kit 2 calças jeans masculina tradicional para trabalho direto da fabrica",
-    descricao: "kit 2 calças jeans masculina tradicional para trabalho direto da fabrica",
-    alt: "kit 2 calças jeans masculina tradicional para trabalho direto da fabrica",
-    linkDeCompra: "https://s.shopee.com.br/8pRcTTSPp2",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/br-11134207-7r98q-lmt0296w5lh26d",
-    nome: "Kit 5 Camisetas Dry Fit Masculina",
-    descricao: "Kit 5 Camisetas Dry Fit Masculina",
-    alt: "Kit 5 Camisetas Dry Fit Masculina",
-    linkDeCompra: "https://s.shopee.com.br/AKGQGC1Vx3",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/7cce9d6e4398ad96cd21aecf830b24ce",
-    nome: "Kit 24 Pares de Meias Soquete Cano Curto Qualidade",
-    descricao: "Kit 24 Pares de Meias Soquete Cano Curto Qualidade",
-    alt: "Kit 24 Pares de Meias Soquete Cano Curto Qualidade",
-    linkDeCompra: "https://s.shopee.com.br/9pK9fSgyIk",
-    plataforma: sh,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://down-br.img.susercontent.com/file/sg-11134201-7rccw-lrc3xxiol5riba",
-    nome: "Kit 10 Cuecas Boxer de Algodão",
-    descricao: "Kit 10 Cuecas Boxer de Algodão",
-    alt: "Kit 10 Cuecas Boxer de Algodão",
-    linkDeCompra: "https://s.shopee.com.br/9f0jT5s5eC",
-    plataforma: sh,
+      "https://static-media.hotmart.com/iQOds1EvguK9lBC5L5xowi_64ck=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/56b06116-5a7e-4bd0-a89c-f6acdaf23ee7/AirFryerhotmart02.png?w=920",
+    nome: "Receitas Top para Air Fryer",
+    descricao:
+      "Nosso curso 'Receitas Top para Air Fryer' vai transformar sua cozinha e sua vida!",
+    alt: "Receitas Top para Air Fryer",
+    linkDeCompra: "https://go.hotmart.com/P93350943L",
+    plataforma: hm,
   },
   {
     id: uuidv4(),
@@ -154,27 +116,6 @@ export const achadosHoje = [
     linkDeCompra: "https://go.hotmart.com/B94087717Y",
     plataforma: hm,
   },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://static-media.hotmart.com/-e8w0dqYBduTTaNBGcKbASrHCJs=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/d7c81bb7-28c4-40ee-b04c-87b02684b165/Textodoseupargrafo1.png?w=920",
-    nome: "Natflix Fitness",
-    descricao:
-      "FINALMENTE você encontrou um método de treinamento de fácil adesão, dinâmico, descomplicado, divertido",
-    alt: "Natflix Fitness",
-    linkDeCompra: "https://go.hotmart.com/G74896668X",
-    plataforma: hm,
-  },
-  {
-    id: uuidv4(),
-    urlImg:
-      "https://static-media.hotmart.com/iQOds1EvguK9lBC5L5xowi_64ck=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/56b06116-5a7e-4bd0-a89c-f6acdaf23ee7/AirFryerhotmart02.png?w=920",
-    nome: "Receitas Top para Air Fryer",
-    descricao:
-      "Nosso curso 'Receitas Top para Air Fryer' vai transformar sua cozinha e sua vida!",
-    alt: "Receitas Top para Air Fryer",
-    linkDeCompra: "https://go.hotmart.com/P93350943L",
-    plataforma: hm,
-  },
+
   ]
 

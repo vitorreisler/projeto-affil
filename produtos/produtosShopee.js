@@ -3,6 +3,46 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rd5w-lvkjeihn5nkq8a",
+    nome: "Adaptador Tomada Universal Internacional Viagem + 150 Países",
+    descricao: "Adaptador Tomada Universal Internacional Viagem + 150 Países",
+    alt: "Adaptador Tomada Universal Internacional Viagem + 150 Países",
+    linkDeCompra: "https://s.shopee.com.br/9f0ljK3j4d",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rdwp-lxj51hsctsp6dc",
+    nome: "Essager 30W USB Tipo C Mini Carregador De Carro Rápido 3.0",
+    descricao: "Essager 30W USB Tipo C Mini Carregador De Carro Rápido 3.0",
+    alt: "Essager 30W USB Tipo C Mini Carregador De Carro Rápido 3.0",
+    linkDeCompra: "https://s.shopee.com.br/qGDNwAWa",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lkg29xc0nw4n10",
+    nome: "Adaptador Bluetooth Para Carro Transmissor FM - X8",
+    descricao: "Adaptador Bluetooth Para Carro Transmissor FM - X8",
+    alt: "Adaptador Bluetooth Para Carro Transmissor FM - X8",
+    linkDeCompra: "https://s.shopee.com.br/B9gPZphSV",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/94f906d486a9a77ac2506bb48573f01e",
+    nome: "Adaptador E Receptor USB Bluetooth 5.0 Plug usb Transmissor de audio para Notebook",
+    descricao: "Adaptador E Receptor USB Bluetooth 5.0 Plug usb Transmissor de audio para Notebook",
+    alt: "Adaptador E Receptor USB Bluetooth 5.0 Plug usb Transmissor de audio para Notebook",
+    linkDeCompra: "https://s.shopee.com.br/2fr1O4RHZQ",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/887eaea12d9f3a742d1381fcd01e596d",
     nome: "Máscara para Dormir Anti Claridade / Tapa Olho",
     descricao: "Máscara para Dormir Anti Claridade / Tapa Olho",
