@@ -3,6 +3,46 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lkaxgv7yjykpe5",
+    nome: "Acabamento Registro Preto Deca Metal Base Quadrado",
+    descricao: "Acabamento Registro Preto Deca Metal Base Quadrado",
+    alt: "Acabamento Registro Preto Deca Metal Base Quadrado",
+    linkDeCompra: "https://s.shopee.com.br/1B2FDHo5cY",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rcc7-ltb8mvlocoa2d4",
+    nome: "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mesa Janela",
+    descricao: "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mesa Janela",
+    alt: "Mini Rodo Esfregão Absorvente Portátil Limpeza Multifuncional Mesa Janela",
+    linkDeCompra: "https://s.shopee.com.br/9zddjS0TkM",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/0a0402ad2a54b6943e6dfd44b5c955ff",
+    nome: "Ralo Inteligente Click Up",
+    descricao: "Ralo Inteligente Click Up",
+    alt: "Ralo Inteligente Click Up",
+    linkDeCompra: "https://s.shopee.com.br/g5ycDp5jR",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwenvhk2v3jp42",
+    nome: "Fogão Cooktop Elétrica 1 Boca 110v E 220v Portatil Chapa 1000W",
+    descricao: "Fogão Cooktop Elétrica 1 Boca 110v E 220v Portatil Chapa 1000W",
+    alt: "Fogão Cooktop Elétrica 1 Boca 110v E 220v Portatil Chapa 1000W",
+    linkDeCompra: "https://s.shopee.com.br/LT8DY1OW0",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/sg-11134201-7rd5w-lvkjeihn5nkq8a",
     nome: "Adaptador Tomada Universal Internacional Viagem + 150 Países",
     descricao: "Adaptador Tomada Universal Internacional Viagem + 150 Países",

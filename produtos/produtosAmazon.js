@@ -2,6 +2,15 @@ import { v4 as uuidv4 } from "uuid";
 export const produtosAmazon = [
   {
     id: uuidv4(),
+    urlImg: "https://m.media-amazon.com/images/I/51R13R8zlmL._AC_SL1000_.jpg",
+    nome: "Fechadura Digital de Sobrepor Touch Screen FR 101 Preto Intelbras",
+    descricao: "Fechadura Digital de Sobrepor Touch Screen FR 101 Preto Intelbras",
+    alt: "Fechadura Digital de Sobrepor Touch Screen FR 101 Preto Intelbras",
+    linkDeCompra: "https://amzn.to/4dgXRJq",
+    categoria: "Geral",
+  },
+  {
+    id: uuidv4(),
     urlImg: "./images/ofertasDiaAmazon.png",
     nome: "OFERTAS DO DIA",
     descricao: "OFERTAS DO DIA",
