@@ -88,6 +88,36 @@ export const achadosHoje = [
   },
   {
     id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/800x560/suporte-de-parede-fixo-para-televisao-tv-26-a-63-polegadas-fixa-lelong/eletromassa/14218/421a804098adce377e072a796e94c969.jpeg",
+    nome: "Suporte De Parede Fixo Para Televisão Tv 26 à 63 Polegadas Fixa - Lelong",
+    descricao:
+      "Suporte De Parede Fixo Para Televisão Tv 26 à 63 Polegadas Fixa - Lelong",
+    alt: "Suporte De Parede Fixo Para Televisão Tv 26 à 63 Polegadas Fixa - Lelong",
+    linkDeCompra: "https://divulgador.magalu.com/INeSd_la",
+    plataforma: ml,
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/1500x1500/kit-conjunto-jogo-de-facas-antianderente-kit-6-pecas-chef-cozinha-aco-inoxidavel-churrasco-prime/magaprimer/be0f17185d6a11ee9e7a4201ac185056/54baf51ac93daadd3d8e278cfe8a6609.jpeg",
+    nome: "Kit Conjunto Jogo De Facas Antianderente Kit 6 Peças",
+    descricao:
+      "Kit Conjunto Jogo De Facas Antianderente Kit 6 Peças",
+    alt: "Kit Conjunto Jogo De Facas Antianderente Kit 6 Peças",
+    linkDeCompra: "https://divulgador.magalu.com/i2xiS0Eq",
+    plataforma: ml,
+  },
+  {
+    id: uuidv4(),
+    urlImg: "https://a-static.mlcdn.com.br/1500x1500/smart-tv-43-full-hd-led-tcl-43s5400a-android-wi-fi-bluetooth-google-assistente-2-hdmi-1-usb/magazineluiza/237862800/96ffa7e02bf086c471baa241a84aa46e.jpg",
+    nome: "Smart TV 43” Full HD LED TCL",
+    descricao:
+      "Smart TV 43” Full HD LED TCL",
+    alt: "Smart TV 43” Full HD LED TCL",
+    linkDeCompra: "https://divulgador.magalu.com/Q=xKwW0M",
+    plataforma: ml,
+  },
+  {
+    id: uuidv4(),
     urlImg:
       "https://static-media.hotmart.com/-e8w0dqYBduTTaNBGcKbASrHCJs=/300x300/smart/filters:format(webp):background_color(white)/hotmart/product_pictures/d7c81bb7-28c4-40ee-b04c-87b02684b165/Textodoseupargrafo1.png?w=920",
     nome: "Natflix Fitness",
@@ -115,15 +145,6 @@ export const achadosHoje = [
     descricao: "OFERTAS DO DIA",
     alt: "OFERTAS DO DIA",
     linkDeCompra: "https://amzn.to/4fhosYm",
-    plataforma: am,
-  },
-  {
-    id: uuidv4(),
-    urlImg: "https://m.media-amazon.com/images/I/51R13R8zlmL._AC_SL1000_.jpg",
-    nome: "Fechadura Digital de Sobrepor Touch Screen FR 101 Preto Intelbras",
-    descricao: "Fechadura Digital de Sobrepor Touch Screen FR 101 Preto Intelbras",
-    alt: "Fechadura Digital de Sobrepor Touch Screen FR 101 Preto Intelbras",
-    linkDeCompra: "https://amzn.to/4dgXRJq",
     plataforma: am,
   },
   {
