@@ -3,6 +3,46 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98r-lmhnd9ct0e0m88",
+    nome: "Armário Banheiro Espelheira com Porta Cleopatra",
+    descricao: "Armário Banheiro Espelheira com Porta Cleopatra",
+    alt: "Armário Banheiro Espelheira com Porta Cleopatra",
+    linkDeCompra: "https://s.shopee.com.br/7AJXDULBth",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/7321a86bf0197b23714b19b008da4033",
+    nome: "Desentupidor Ar Bomba De Alta Pressão",
+    descricao: "Desentupidor Ar Bomba De Alta Pressão",
+    alt: "Desentupidor Ar Bomba De Alta Pressão",
+    linkDeCompra: "https://s.shopee.com.br/10itvjP6wu",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lnc9gqtp8ko902",
+    nome: "Tapioqueira Peneira Polvilhador",
+    descricao: "Tapioqueira Peneira Polvilhador",
+    alt: "Tapioqueira Peneira Polvilhador",
+    linkDeCompra: "https://s.shopee.com.br/1B2K85nfAg",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-ljli2cdz3e6ie5",
+    nome: "Caneca Elétrica Mixer Inox Automática Mistura Shake",
+    descricao: "Caneca Elétrica Mixer Inox Automática Mistura Shake",
+    alt: "Caneca Elétrica Mixer Inox Automática Mistura Shake",
+    linkDeCompra: "https://s.shopee.com.br/9pKIRrGJFa",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/cn-11134207-7qukw-li9r01a75t2ubb",
     nome: "Óculos de sol poligonais da moda",
     descricao: "Óculos de sol poligonais da moda",
