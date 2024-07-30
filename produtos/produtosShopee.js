@@ -3,6 +3,56 @@ export const produtosShopee = [
   {
     id: uuidv4(),
     urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7qukw-libnojddobjzcf",
+    nome: "Legging Flanelada Grossa Calça Leg",
+    descricao: "Legging Flanelada Grossa Calça Leg",
+    alt: "Legging Flanelada Grossa Calça Leg",
+    linkDeCompra: "https://s.shopee.com.br/6fNI6SMrG9",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbn7-lqld1z76iova97",
+    nome: "Lovito Bolsa Feminina Casual ",
+    descricao: "Lovito Bolsa Feminina Casual ",
+    alt: "Lovito Bolsa Feminina Casual ",
+    linkDeCompra: "https://s.shopee.com.br/8f8MU28arD",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/cn-11134207-7r98o-lxc3n1h2jqcjbb",
+    nome: "Lovito Vestido Elegante",
+    descricao: "Lovito Vestido Elegante",
+    alt: "Lovito Vestido Elegante",
+    linkDeCompra: "https://s.shopee.com.br/8zlCsYE9EG",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/sg-11134201-7rbku-lokxmpji7nuye6",
+    nome: "Lovito Vestido Casual com Mangas",
+    descricao: "Lovito Vestido Casual com Mangas",
+    alt: "Lovito Vestido Casual com Mangas",
+    linkDeCompra: "https://s.shopee.com.br/7KcytOnJZl",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
+      "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lw4cylch3z3q00",
+    nome: "Linha Fiore da Euroroma",
+    descricao: "Linha Fiore da Euroroma",
+    alt: "Linha Fiore da Euroroma",
+    linkDeCompra: "https://s.shopee.com.br/VmekV09mG",
+    categoria: "",
+  },
+  {
+    id: uuidv4(),
+    urlImg:
       "https://down-br.img.susercontent.com/file/br-11134207-7r98r-lmhnd9ct0e0m88",
     nome: "Armário Banheiro Espelheira com Porta Cleopatra",
     descricao: "Armário Banheiro Espelheira com Porta Cleopatra",
